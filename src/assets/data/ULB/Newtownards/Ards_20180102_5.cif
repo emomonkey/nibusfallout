@@ -1,0 +1,1825 @@
+ATCO-CIF0500Ulsterbus                       OMNITIMES       20171121123548
+QDNULB 5   OBelfast, Europa Buscentre - Newtownards, Bus Station                
+QSNULB 0650  20180101201808311111100 X5                         O
+QO7000000016490650   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000012306520652P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000012506540654P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000012906550655P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000013506560656P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000086906570657P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000087506590659P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000087707000700P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000182307010701P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000089507020702P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000089907020702P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000090307040704P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000090707050705P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000090907050705P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000091107060706P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000091307070707P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000091907100710B   T1  
+QI70000000168907100710B   T0  
+QI70000000169007100710B   T0  
+QI70000000241507100710B   T0  
+QI70000000241607110711B   T0  
+QI70000000241707110711B   T0  
+QI70000000241807110711B   T0  
+QI70000000243907120712B   T0  
+QI70000000244007130713B   T0  
+QI70000000244107140714B   T0  
+QI70000000244207150715B   T1  
+QI70000000244307150715B   T0  
+QI70000000244407160716B   T0  
+QI70000000244507170717B   T0  
+QI70000000244607180718B   T0  
+QI70000000244707180718B   T0  
+QI70000000329207180718B   T0  
+QT7000000033130720   T1  
+QDNULB 5   OBelfast, Europa Buscentre - Newtownards, Bus Station                
+QSNULB 0725  20180101201808311111100 X5                         O
+QO7000000016490730   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000012307320732P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000012507340734P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000012907350735P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000013507360736P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000086907370737P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000087507390739P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000087707400740P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000182307410741P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000089507420742P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000089907420742P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000090307440744P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000090707450745P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000090907450745P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000091107460746P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000091307470747P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000091907500750B   T1  
+QI70000000168907500750B   T0  
+QI70000000169007500750B   T0  
+QI70000000241507500750B   T0  
+QI70000000241607510751B   T0  
+QI70000000241707510751B   T0  
+QI70000000241807510751B   T0  
+QI70000000243907520752B   T0  
+QI70000000244007530753B   T0  
+QI70000000244107540754B   T0  
+QI70000000244207550755B   T1  
+QI70000000244307560756B   T0  
+QI70000000244408000800B   T0  
+QI70000000244508030803B   T0  
+QI70000000244608040804B   T0  
+QI70000000244708050805B   T0  
+QI70000000329208060806B   T0  
+QT7000000033130810   T1  
+QDNULB 5   OBelfast, Europa Buscentre - Newtownards, Bus Station                
+QSNULB 0825  20180101201808311111100SX5                         O
+QNSch  Schooldays Only                                                         
+QO7000000016490825   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000012308270827P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000012508290829P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000012908300830P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000013508310831P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000086908320832P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000087508340834P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000087708350835P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000182308360836P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000089508370837P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000089908370837P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000090308390839P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000090708400840P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000090908400840P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000091108410841P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000091308420842P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000091908450845B   T1  
+QI70000000168908450845B   T0  
+QI70000000169008450845B   T0  
+QI70000000241508450845B   T0  
+QI70000000241608460846B   T0  
+QI70000000241708460846B   T0  
+QI70000000241808460846B   T0  
+QI70000000243908470847B   T0  
+QI70000000244008480848B   T0  
+QI70000000244108490849B   T0  
+QI70000000244208500850B   T1  
+QI70000000244308510851B   T0  
+QI70000000244408550855B   T0  
+QI70000000244508580858B   T0  
+QI70000000244608590859B   T0  
+QI70000000244709000900B   T0  
+QI70000000329209010901B   T0  
+QT7000000033130905   T1  
+QDNULB 5   OBelfast, Europa Buscentre - Newtownards, Bus Station                
+QSNULB 0850  20180101201808311111100 X5                         O
+QO7000000016490850   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000012308520852P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000012508540854P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000012908550855P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000013508560856P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000086908570857P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000087508590859P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000087709000900P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000182309010901P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000089509020902P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000089909020902P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000090309040904P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000090709050905P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000090909050905P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000091109060906P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000091309070907P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000091909100910B   T1  
+QI70000000168909100910B   T0  
+QI70000000169009100910B   T0  
+QI70000000241509100910B   T0  
+QI70000000241609110911B   T0  
+QI70000000241709110911B   T0  
+QI70000000241809110911B   T0  
+QI70000000243909120912B   T0  
+QI70000000244009130913B   T0  
+QI70000000244109140914B   T0  
+QI70000000244209150915B   T1  
+QI70000000244309150915B   T0  
+QI70000000244409180918B   T0  
+QI70000000244509200920B   T0  
+QI70000000244609210921B   T0  
+QI70000000244709210921B   T0  
+QI70000000329209220922B   T0  
+QT7000000033130925   T1  
+QDNULB 505 OBelfast, Europa Buscentre - Stormont                                
+QSNULB 0910  20180101201808311111100 X505                       O
+QO7000000016490910   T1  
+QI70000000012309130913B   T1  
+QI70000000012509140914B   T0  
+QI70000000012909160916B   T0  
+QI70000000013509170917B   T0  
+QI70000000086909180918B   T0  
+QI70000000087309190919B   T0  
+QI70000000087509200920B   T0  
+QI70000000087709210921B   T0  
+QI70000000182309220922B   T0  
+QI70000000089509230923B   T0  
+QI70000000089909240924B   T0  
+QI70000000090309260926B   T0  
+QI70000000090709270927B   T0  
+QI70000000090909280928B   T0  
+QI70000000091109290929B   T0  
+QI70000000091309300930B   T0  
+QI70000000091909330933B   T1  
+QI70000000168909330933B   T0  
+QI70000000169009330933B   T0  
+QI70000000241509340934B   T0  
+QI70000000241609340934B   T0  
+QI70000000241709350935B   T0  
+QI70000000241809350935B   T0  
+QI70000000243909360936B   T0  
+QI70000000244009380938B   T0  
+QI70000000244109380938B   T0  
+QI70000000244209400940B   T1  
+QI70000000244309400940B   T0  
+QI70000000244409430943B   T0  
+QI70000000244509450945B   T0  
+QI70000000244609460946B   T0  
+QI70000000244709460946B   T0  
+QI70000000329209470947B   T0  
+QI70000000271509480948B   T0  
+QT7000000033130950   T1  
+QDNULB 5f  OBelfast, Europa Buscentre - Newtownards, Bus Station                
+QSNULB 1010  20180101201808311111100 X5f                        O
+QO7000000016491010   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000012310121012P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000012510141014P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000012910151015P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000013510161016P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000086910171017P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000087310181018P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000087510191019P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000087710201020P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000182310211021P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000089510221022P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000089910221022P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000090310241024P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000090710251025P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000090910251025P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000091110261026P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000091310271027P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000091910301030B   T1  
+QI70000000168910301030B   T0  
+QI70000000169010311031B   T0  
+QI70000000241510311031B   T0  
+QI70000000241610321032B   T0  
+QI70000000241710321032B   T0  
+QI70000000241810331033B   T0  
+QI70000000241910331033B   T0  
+QI70000000242010351035B   T0  
+QI70000000242110371037B   T0  
+QI70000000328610391039B   T0  
+QI70000000328710401040B   T1  
+QI70000000328810431043B   T0  
+QI70000000328910451045B   T0  
+QI70000000271510461046B   T0  
+QT7000000033131050   T1  
+QDNULB 505 OBelfast, Europa Buscentre - Stormont                                
+QSNULB 1020  20180101201808311111100 X505                       O
+QO7000000016491020   T1  
+QI70000000012310231023B   T1  
+QI70000000012510241024B   T0  
+QI70000000012910261026B   T0  
+QI70000000013510271027B   T0  
+QI70000000086910281028B   T0  
+QI70000000087310291029B   T0  
+QI70000000087510301030B   T0  
+QI70000000087710311031B   T0  
+QI70000000182310321032B   T0  
+QI70000000089510331033B   T0  
+QI70000000089910341034B   T0  
+QI70000000090310361036B   T0  
+QI70000000090710371037B   T0  
+QI70000000090910381038B   T0  
+QI70000000091110391039B   T0  
+QI70000000091310401040B   T0  
+QI70000000091910431043B   T1  
+QI70000000168910431043B   T0  
+QI70000000169010431043B   T0  
+QI70000000241510441044B   T0  
+QI70000000241610441044B   T0  
+QI70000000241710451045B   T0  
+QI70000000241810451045B   T0  
+QI70000000243910461046B   T0  
+QI70000000244010481048B   T0  
+QI70000000244110481048B   T0  
+QI70000000244210501050B   T1  
+QI70000000244310501050B   T0  
+QI70000000244410531053B   T0  
+QI70000000244510551055B   T0  
+QI70000000244610561056B   T0  
+QI70000000244710561056B   T0  
+QI70000000329210571057B   T0  
+QI70000000271510581058B   T0  
+QT7000000033131100   T1  
+QDNULB 505fOBelfast, Europa Buscentre - Stormont                                
+QSNULB 1120  20180101201808311111100 X505f                      O
+QO7000000016491120   T1  
+QI70000000012311231123B   T1  
+QI70000000012511241124B   T0  
+QI70000000012911261126B   T0  
+QI70000000013511271127B   T0  
+QI70000000086911281128B   T0  
+QI70000000087311291129B   T0  
+QI70000000087511301130B   T0  
+QI70000000087711311131B   T0  
+QI70000000182311321132B   T0  
+QI70000000089511331133B   T0  
+QI70000000089911341134B   T0  
+QI70000000090311361136B   T0  
+QI70000000090711371137B   T0  
+QI70000000090911381138B   T0  
+QI70000000091111391139B   T0  
+QI70000000091311401140B   T0  
+QI70000000091911431143B   T1  
+QI70000000168911431143B   T0  
+QI70000000169011431143B   T0  
+QI70000000241511441144B   T0  
+QI70000000241611441144B   T0  
+QI70000000241711441144B   T0  
+QI70000000241811451145B   T0  
+QI70000000241911451145B   T0  
+QI70000000242011461146B   T0  
+QI70000000242111481148B   T0  
+QI70000000328611491149B   T0  
+QI70000000328711501150B   T1  
+QI70000000328811531153B   T0  
+QI70000000328911551155B   T0  
+QI70000000271511561156B   T0  
+QT7000000033131200   T1  
+QDNULB 5   OBelfast, Europa Buscentre - Newtownards, Bus Station                
+QSNULB 1255  20180101201808311111100 X5                         O
+QO7000000016491255   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000012312571257P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000012512591259P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000012913001300P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000013513011301P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000086913021302P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000087513041304P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000087713051305P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000182313061306P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000089513071307P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000089913071307P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000090313091309P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000090713101310P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000090913101310P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000091113111311P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000091313121312P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000091913151315B   T1  
+QI70000000168913151315B   T0  
+QI70000000169013151315B   T0  
+QI70000000241513151315B   T0  
+QI70000000241613161316B   T0  
+QI70000000241713161316B   T0  
+QI70000000241813161316B   T0  
+QI70000000243913171317B   T0  
+QI70000000244013181318B   T0  
+QI70000000244113191319B   T0  
+QI70000000244213201320B   T1  
+QI70000000244313201320B   T0  
+QI70000000244413231323B   T0  
+QI70000000244513251325B   T0  
+QI70000000244613261326B   T0  
+QI70000000244713261326B   T0  
+QI70000000329213271327B   T0  
+QT7000000033131330   T1  
+QDNULB 5   OBelfast, Europa Buscentre - Newtownards, Bus Station                
+QSNULB 1400  20180101201808311111100 X5                         O
+QO7000000016491400   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000012314021402P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000012514041404P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000012914051405P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000013514061406P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000086914071407P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000087514091409P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000087714101410P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000182314111411P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000089514121412P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000089914121412P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000090314141414P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000090714151415P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000090914151415P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000091114161416P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000091314171417P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000091914201420B   T1  
+QI70000000168914201420B   T0  
+QI70000000169014201420B   T0  
+QI70000000241514201420B   T0  
+QI70000000241614211421B   T0  
+QI70000000241714211421B   T0  
+QI70000000241814211421B   T0  
+QI70000000243914221422B   T0  
+QI70000000244014231423B   T0  
+QI70000000244114241424B   T0  
+QI70000000244214251425B   T1  
+QI70000000244314251425B   T0  
+QI70000000244414281428B   T0  
+QI70000000244514301430B   T0  
+QI70000000244614311431B   T0  
+QI70000000244714311431B   T0  
+QI70000000329214321432B   T0  
+QT7000000033131435   T1  
+QDNULB 505 OBelfast, Europa Buscentre - Stormont                                
+QSNULB 1420  20180101201808311111100 X505                       O
+QO7000000016491420   T1  
+QI70000000012314231423B   T1  
+QI70000000012514241424B   T0  
+QI70000000012914261426B   T0  
+QI70000000013514271427B   T0  
+QI70000000086914281428B   T0  
+QI70000000087314291429B   T0  
+QI70000000087514301430B   T0  
+QI70000000087714311431B   T0  
+QI70000000182314321432B   T0  
+QI70000000089514331433B   T0  
+QI70000000089914341434B   T0  
+QI70000000090314361436B   T0  
+QI70000000090714371437B   T0  
+QI70000000090914381438B   T0  
+QI70000000091114391439B   T0  
+QI70000000091314401440B   T0  
+QI70000000091914431443B   T1  
+QI70000000168914431443B   T0  
+QI70000000169014431443B   T0  
+QI70000000241514441444B   T0  
+QI70000000241614441444B   T0  
+QI70000000241714451445B   T0  
+QI70000000241814451445B   T0  
+QI70000000243914461446B   T0  
+QI70000000244014481448B   T0  
+QI70000000244114481448B   T0  
+QI70000000244214501450B   T1  
+QI70000000244314501450B   T0  
+QI70000000244414531453B   T0  
+QI70000000244514551455B   T0  
+QI70000000244614561456B   T0  
+QI70000000244714561456B   T0  
+QI70000000329214571457B   T0  
+QI70000000271514581458B   T0  
+QT7000000033131500   T1  
+QDNULB 5   OBelfast, Europa Buscentre - Newtownards, Bus Station                
+QSNULB 1435  20180101201808311111100SX5                         O
+QNSch  Schooldays Only                                                         
+QO7000000016491435   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000012314371437P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000012514391439P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000012914401440P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000013514411441P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000086914421442P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000087514441444P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000087714451445P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000182314461446P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000089514471447P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000089914471447P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000090314491449P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000090714501450P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000090914501450P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000091114511451P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000091314521452P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000091914551455B   T1  
+QI70000000168914551455B   T0  
+QI70000000169014551455B   T0  
+QI70000000241514551455B   T0  
+QI70000000241614561456B   T0  
+QI70000000241714561456B   T0  
+QI70000000241814561456B   T0  
+QI70000000243914571457B   T0  
+QI70000000244014581458B   T0  
+QI70000000244114591459B   T0  
+QI70000000244215001500B   T1  
+QI70000000244315001500B   T0  
+QI70000000244415031503B   T0  
+QI70000000244515051505B   T0  
+QI70000000244615061506B   T0  
+QI70000000244715061506B   T0  
+QI70000000329215071507B   T0  
+QT7000000033131510   T1  
+QDNULB 5f  OBelfast, Europa Buscentre - Newtownards, Bus Station                
+QSNULB 1615  20180101201808311111100 X5f                        O
+QO7000000016491615   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000012316171617P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000012516191619P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000012916201620P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000013516211621P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000086916221622P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000087316231623P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000087516241624P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000087716251625P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000182316261626P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000089516271627P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000089916271627P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000090316291629P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000090716301630P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000090916301630P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000091116311631P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000091316321632P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000091916351635B   T1  
+QI70000000168916351635B   T0  
+QI70000000169016361636B   T0  
+QI70000000241516361636B   T0  
+QI70000000241616371637B   T0  
+QI70000000241716371637B   T0  
+QI70000000241816381638B   T0  
+QI70000000241916381638B   T0  
+QI70000000242016401640B   T0  
+QI70000000242116421642B   T0  
+QI70000000328616441644B   T0  
+QI70000000328716451645B   T1  
+QI70000000328816481648B   T0  
+QI70000000328916501650B   T0  
+QI70000000271516511651B   T0  
+QT7000000033131655   T1  
+QDNULB 5   OBelfast, Europa Buscentre - Newtownards, Bus Station                
+QSNULB 1915  20180101201808311111100 X5                         O
+QO7000000002401915   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000143719171917P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000000119191919P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000012319221922P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000012519231923P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000012919241924P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000013519261926P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000086919271927P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000087519291929P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000087719291929P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000182319301930P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000089519311931P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000089919321932P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000090319331933P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000090719341934P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000090919351935P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000091119361936P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000091319371937P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000091919401940B   T1  
+QI70000000168919401940B   T0  
+QI70000000169019401940B   T0  
+QI70000000241519401940B   T0  
+QI70000000241619411941B   T0  
+QI70000000241719411941B   T0  
+QI70000000241819411941B   T0  
+QI70000000243919421942B   T0  
+QI70000000244019431943B   T0  
+QI70000000244119441944B   T0  
+QI70000000244219451945B   T1  
+QI70000000244319451945B   T0  
+QI70000000244419461946B   T0  
+QI70000000244519471947B   T0  
+QI70000000244619471947B   T0  
+QI70000000244719481948B   T0  
+QI70000000329219481948B   T0  
+QT7000000026611950   T1  
+QDNULB 5   OBelfast, Europa Buscentre - Newtownards, Bus Station                
+QSNULB 2230  20180101201808311111100 X5                         O
+QO7000000002402230   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000143722322232P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000000122332233P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000012322352235P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000012522362236P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000012922372237P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000013522392239P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000086922392239P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000087522412241P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000087722412241P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000182322422242P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000089522432243P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000089922432243P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000090322452245P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000090722452245P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000090922462246P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000091122472247P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000091322482248P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000091922502250B   T1  
+QI70000000168922502250B   T0  
+QI70000000169022502250B   T0  
+QI70000000241522502250B   T0  
+QI70000000241622512251B   T0  
+QI70000000241722512251B   T0  
+QI70000000241822512251B   T0  
+QI70000000243922522252B   T0  
+QI70000000244022532253B   T0  
+QI70000000244122542254B   T0  
+QI70000000244222552255B   T1  
+QI70000000244322552255B   T0  
+QI70000000244422582258B   T0  
+QI70000000244523002300B   T0  
+QI70000000244623002300B   T0  
+QI70000000244723012301B   T0  
+QI70000000329223022302B   T0  
+QT7000000026612305   T1  
+QDNULB 5   INewtownards, Gibsons Lane - Belfast, Europa Buscentre               
+QSNULB 0615  20180101201808311111100 X5                         I
+QO7000000026610615   T1  
+QI70000000329006150615B   T0  
+QI70000000329106150615B   T0  
+QI70000000242806160616B   T0  
+QI70000000242906170617B   T0  
+QI70000000243006170617B   T0  
+QI70000000243106180618B   T0  
+QI70000000243206190619B   T0  
+QI70000000243306200620B   T1  
+QI70000000243406200620B   T0  
+QI70000000243506210621B   T0  
+QI70000000243606210621B   T0  
+QI70000000243706240624B   T0  
+QI70000000243806250625B   T0  
+QI70000000242506260626B   T0  
+QI70000000242606260626B   T0  
+QI70000000242706270627B   T0  
+QI70000000170606280628B   T0  
+QI70000000170806280628B   T0  
+QI70000000170906290629B   T0  
+QI70000000171006300630B   T1  
+QI70000000092506300630S   T0  
+QNs    Set Down Only                                                           
+QI70000000092706310631S   T0  
+QNs    Set Down Only                                                           
+QI70000000092906310631S   T0  
+QNs    Set Down Only                                                           
+QI70000000093106320632S   T0  
+QNs    Set Down Only                                                           
+QI70000000093506330633S   T0  
+QNs    Set Down Only                                                           
+QI70000000093706330633S   T0  
+QNs    Set Down Only                                                           
+QI70000000094106340634S   T0  
+QNs    Set Down Only                                                           
+QI70000000094306350635S   T0  
+QNs    Set Down Only                                                           
+QI70000000094706350635S   T0  
+QNs    Set Down Only                                                           
+QI70000000094906360636S   T0  
+QNs    Set Down Only                                                           
+QI70000000088106360636S   T0  
+QNs    Set Down Only                                                           
+QI70000000088306370637S   T0  
+QNs    Set Down Only                                                           
+QI70000000088706380638S   T0  
+QNs    Set Down Only                                                           
+QI70000000088906380638S   T0  
+QNs    Set Down Only                                                           
+QI70000000010306390639S   T0  
+QNs    Set Down Only                                                           
+QI70000000018306390639S   T0  
+QNs    Set Down Only                                                           
+QI70000000018506390639S   T0  
+QNs    Set Down Only                                                           
+QI70000000018706400640S   T0  
+QNs    Set Down Only                                                           
+QI70000000018906400640S   T0  
+QNs    Set Down Only                                                           
+QI70000000019506410641S   T0  
+QNs    Set Down Only                                                           
+QI70000000019706420642S   T0  
+QNs    Set Down Only                                                           
+QI70000000019906420642S   T0  
+QNs    Set Down Only                                                           
+QI70000001463906430643S   T0  
+QNs    Set Down Only                                                           
+QT7000000016480645   T1  
+QNs    Set Down Only                                                           
+QDNULB 5f  INewtownards, Gibsons Lane - Belfast, Europa Buscentre               
+QSNULB       20180101201808311111100 X5f                        I
+QO7000000026610650   T1  
+QI70000000328106510651B   T0  
+QI70000000328206530653B   T0  
+QI70000000328306550655B   T1  
+QI70000000328406550655B   T0  
+QI70000000242206560656B   T0  
+QI70000000242306570657B   T0  
+QI70000000242406590659B   T0  
+QI70000000242507010701B   T0  
+QI70000000242607020702B   T0  
+QI70000000242707030703B   T0  
+QI70000000170607030703B   T0  
+QI70000000170807040704B   T0  
+QI70000000170907040704B   T0  
+QI70000000171007050705B   T1  
+QI70000000092507060706B   T0  
+QI70000000092707060706B   T0  
+QI70000000092907070707B   T0  
+QI70000000093107080708B   T0  
+QI70000000093507090709B   T0  
+QI70000000093707090709B   T0  
+QI70000000094107100710B   T0  
+QI70000000094307110711B   T0  
+QI70000000094707120712B   T0  
+QI70000000094907120712B   T0  
+QI70000000088107130713B   T0  
+QI70000000088307140714B   T0  
+QI70000000088707150715B   T0  
+QI70000000088907160716B   T0  
+QI70000000010307160716B   T0  
+QI70000000018307170717B   T0  
+QI70000000018507170717B   T0  
+QI70000000018707170717B   T0  
+QI70000000018907180718B   T0  
+QI70000000019507190719B   T0  
+QI70000000019707200720B   T0  
+QI70000000019907200720B   T0  
+QI70000001463907220722B   T0  
+QT7000000016480724   T1  
+QDNULB 5f  INewtownards, Gibsons Lane - Belfast, Europa Buscentre               
+QSNULB 0820  20180101201808311111100HX5f                        I
+QNNSch School Holidays                                                         
+QO7000000026610825   T1  
+QI70000000328108260826B   T0  
+QI70000000328208280828B   T0  
+QI70000000328308300830B   T1  
+QI70000000328408300830B   T0  
+QI70000000242208310831B   T0  
+QI70000000242308320832B   T0  
+QI70000000242408340834B   T0  
+QI70000000242508360836B   T0  
+QI70000000242608370837B   T0  
+QI70000000242708380838B   T0  
+QI70000000170608380838B   T0  
+QI70000000170808390839B   T0  
+QI70000000170908390839B   T0  
+QI70000000171008400840B   T1  
+QI70000000092508410841S   T0  
+QNs    Set Down Only                                                           
+QI70000000092708410841S   T0  
+QNs    Set Down Only                                                           
+QI70000000092908420842S   T0  
+QNs    Set Down Only                                                           
+QI70000000093108430843S   T0  
+QNs    Set Down Only                                                           
+QI70000000093508440844S   T0  
+QNs    Set Down Only                                                           
+QI70000000093708450845S   T0  
+QNs    Set Down Only                                                           
+QI70000000094108460846S   T0  
+QNs    Set Down Only                                                           
+QI70000000094308470847S   T0  
+QNs    Set Down Only                                                           
+QI70000000094708480848S   T0  
+QNs    Set Down Only                                                           
+QI70000000094908480848S   T0  
+QNs    Set Down Only                                                           
+QI70000000088108490849S   T0  
+QNs    Set Down Only                                                           
+QI70000000088308500850S   T0  
+QNs    Set Down Only                                                           
+QI70000000088708510851S   T0  
+QNs    Set Down Only                                                           
+QI70000000088908520852S   T0  
+QNs    Set Down Only                                                           
+QI70000000010308520852S   T0  
+QNs    Set Down Only                                                           
+QI70000000018308530853S   T0  
+QNs    Set Down Only                                                           
+QI70000000018508530853S   T0  
+QNs    Set Down Only                                                           
+QI70000000018708540854S   T0  
+QNs    Set Down Only                                                           
+QI70000000018908540854S   T0  
+QNs    Set Down Only                                                           
+QI70000000019508560856S   T0  
+QNs    Set Down Only                                                           
+QI70000000019708570857S   T0  
+QNs    Set Down Only                                                           
+QI70000000019908570857S   T1  
+QNs    Set Down Only                                                           
+QI70000000163508580858S   T0  
+QNs    Set Down Only                                                           
+QI70000000180209000900S   T1  
+QNs    Set Down Only                                                           
+QT7000000016480905   T1  
+QDNULB 5f  INewtownards, Gibsons Lane - Belfast, Europa Buscentre               
+QSNULB 0830  20180101201808311111100SX5f                        I
+QNSch  Schooldays Only                                                         
+QO7000000026610830   T1  
+QI70000000328108310831B   T0  
+QI70000000328208330833B   T0  
+QI70000000328308350835B   T1  
+QI70000000328408350835B   T0  
+QI70000000242208360836B   T0  
+QI70000000242308370837B   T0  
+QI70000000242408390839B   T0  
+QI70000000242508410841B   T0  
+QI70000000242608420842B   T0  
+QI70000000242708430843B   T0  
+QI70000000170608430843B   T0  
+QI70000000170808440844B   T0  
+QI70000000170908440844B   T0  
+QI70000000171008450845B   T1  
+QI70000000092508460846S   T0  
+QNs    Set Down Only                                                           
+QI70000000092708460846S   T0  
+QNs    Set Down Only                                                           
+QI70000000092908470847S   T0  
+QNs    Set Down Only                                                           
+QI70000000093108480848S   T0  
+QNs    Set Down Only                                                           
+QI70000000093508490849S   T0  
+QNs    Set Down Only                                                           
+QI70000000093708500850S   T0  
+QNs    Set Down Only                                                           
+QI70000000094108510851S   T0  
+QNs    Set Down Only                                                           
+QI70000000094308520852S   T0  
+QNs    Set Down Only                                                           
+QI70000000094708530853S   T0  
+QNs    Set Down Only                                                           
+QI70000000094908530853S   T0  
+QNs    Set Down Only                                                           
+QI70000000088108540854S   T0  
+QNs    Set Down Only                                                           
+QI70000000088308550855S   T0  
+QNs    Set Down Only                                                           
+QI70000000088708560856S   T0  
+QNs    Set Down Only                                                           
+QI70000000088908570857S   T0  
+QNs    Set Down Only                                                           
+QI70000000010308570857S   T0  
+QNs    Set Down Only                                                           
+QI70000000018308580858S   T0  
+QNs    Set Down Only                                                           
+QI70000000018508580858S   T0  
+QNs    Set Down Only                                                           
+QI70000000018708590859S   T0  
+QNs    Set Down Only                                                           
+QI70000000018908590859S   T0  
+QNs    Set Down Only                                                           
+QI70000000019509010901S   T0  
+QNs    Set Down Only                                                           
+QI70000000019709020902S   T0  
+QNs    Set Down Only                                                           
+QI70000000019909020902S   T1  
+QNs    Set Down Only                                                           
+QI70000000163509030903S   T0  
+QNs    Set Down Only                                                           
+QI70000000180209050905S   T1  
+QNs    Set Down Only                                                           
+QT7000000016480910   T1  
+QDNULB 505 INewtownards, Gibsons Lane - Belfast, Europa Buscentre               
+QSNULB 1030  20180101201808311111100 X505                       I
+QO7000000026611030   T1  
+QI70000000329010301030B   T0  
+QI70000000329110301030B   T0  
+QI70000000242810311031B   T0  
+QI70000000242910321032B   T0  
+QI70000000243010321032B   T0  
+QI70000000243110331033B   T0  
+QI70000000243210341034B   T0  
+QI70000000243310351035B   T1  
+QI70000000243410351035B   T0  
+QI70000000243510361036B   T0  
+QI70000000243610361036B   T0  
+QI70000000243710391039B   T0  
+QI70000000243810401040B   T0  
+QI70000000242510411041B   T0  
+QI70000000242610411041B   T0  
+QI70000000242710421042B   T0  
+QI70000000170610431043B   T0  
+QI70000000170810431043B   T0  
+QI70000000170910441044B   T0  
+QI70000000171010451045B   T1  
+QI70000000092510461046B   T0  
+QI70000000092710471047B   T0  
+QI70000000092910481048B   T0  
+QI70000000093110491049B   T0  
+QI70000000093510511051B   T0  
+QI70000000093710511051B   T0  
+QI70000000094110521052B   T0  
+QI70000000094310541054B   T0  
+QI70000000094710551055B   T0  
+QI70000000094910551055B   T0  
+QI70000000095110561056B   T0  
+QI70000000088110561056B   T0  
+QI70000000088310581058B   T0  
+QI70000000088710591059B   T0  
+QI70000000088911001100B   T0  
+QI70000000010311011101B   T0  
+QI70000000018311011101B   T0  
+QI70000000018511021102B   T0  
+QI70000000018711021102B   T0  
+QI70000000018911031103B   T0  
+QI70000000019511051105B   T0  
+QI70000000019711061106B   T0  
+QI70000000019911061106B   T0  
+QI70000000163511081108S   T0  
+QNs    Set Down Only                                                           
+QI70000000180211101110S   T1  
+QNs    Set Down Only                                                           
+QT7000000016481115   T1  
+QDNULB 505 INewtownards, Gibsons Lane - Belfast, Europa Buscentre               
+QSNULB 1130  20180101201808311111100 X505                       I
+QO7000000026611130   T1  
+QI70000000329011301130B   T0  
+QI70000000329111301130B   T0  
+QI70000000242811311131B   T0  
+QI70000000242911321132B   T0  
+QI70000000243011321132B   T0  
+QI70000000243111331133B   T0  
+QI70000000243211341134B   T0  
+QI70000000243311351135B   T1  
+QI70000000243411351135B   T0  
+QI70000000243511361136B   T0  
+QI70000000243611361136B   T0  
+QI70000000243711391139B   T0  
+QI70000000243811401140B   T0  
+QI70000000242511411141B   T0  
+QI70000000242611411141B   T0  
+QI70000000242711421142B   T0  
+QI70000000170611431143B   T0  
+QI70000000170811431143B   T0  
+QI70000000170911441144B   T0  
+QI70000000171011451145B   T1  
+QI70000000092511461146B   T0  
+QI70000000092711471147B   T0  
+QI70000000092911481148B   T0  
+QI70000000093111491149B   T0  
+QI70000000093511511151B   T0  
+QI70000000093711511151B   T0  
+QI70000000094111521152B   T0  
+QI70000000094311541154B   T0  
+QI70000000094711551155B   T0  
+QI70000000094911551155B   T0  
+QI70000000095111561156B   T0  
+QI70000000088111561156B   T0  
+QI70000000088311581158B   T0  
+QI70000000088711591159B   T0  
+QI70000000088912001200B   T0  
+QI70000000010312011201B   T0  
+QI70000000018312011201B   T0  
+QI70000000018512021202B   T0  
+QI70000000018712021202B   T0  
+QI70000000018912031203B   T0  
+QI70000000019512051205B   T0  
+QI70000000019712061206B   T0  
+QI70000000019912061206B   T0  
+QI70000000163512081208S   T0  
+QNs    Set Down Only                                                           
+QI70000000180212101210S   T1  
+QNs    Set Down Only                                                           
+QT7000000016481215   T1  
+QDNULB 5f  INewtownards, Gibsons Lane - Belfast, Europa Buscentre               
+QSNULB 1310  20180101201808311111100 X5f                        I
+QO7000000026611310   T1  
+QI70000000328113111311B   T0  
+QI70000000328213131313B   T0  
+QI70000000328313151315B   T1  
+QI70000000328413151315B   T0  
+QI70000000242213161316B   T0  
+QI70000000242313171317B   T0  
+QI70000000242413191319B   T0  
+QI70000000242513211321B   T0  
+QI70000000242613221322B   T0  
+QI70000000242713231323B   T0  
+QI70000000170613231323B   T0  
+QI70000000170813241324B   T0  
+QI70000000170913241324B   T0  
+QI70000000171013251325B   T1  
+QI70000000092513261326S   T0  
+QNs    Set Down Only                                                           
+QI70000000092713261326S   T0  
+QNs    Set Down Only                                                           
+QI70000000092913271327S   T0  
+QNs    Set Down Only                                                           
+QI70000000093113281328S   T0  
+QNs    Set Down Only                                                           
+QI70000000093513291329S   T0  
+QNs    Set Down Only                                                           
+QI70000000093713301330S   T0  
+QNs    Set Down Only                                                           
+QI70000000094113311331S   T0  
+QNs    Set Down Only                                                           
+QI70000000094313321332S   T0  
+QNs    Set Down Only                                                           
+QI70000000094713331333S   T0  
+QNs    Set Down Only                                                           
+QI70000000094913331333S   T0  
+QNs    Set Down Only                                                           
+QI70000000088113341334S   T0  
+QNs    Set Down Only                                                           
+QI70000000088313351335S   T0  
+QNs    Set Down Only                                                           
+QI70000000088713361336S   T0  
+QNs    Set Down Only                                                           
+QI70000000088913371337S   T0  
+QNs    Set Down Only                                                           
+QI70000000010313371337S   T0  
+QNs    Set Down Only                                                           
+QI70000000018313381338S   T0  
+QNs    Set Down Only                                                           
+QI70000000018513381338S   T0  
+QNs    Set Down Only                                                           
+QI70000000018713391339S   T0  
+QNs    Set Down Only                                                           
+QI70000000018913391339S   T0  
+QNs    Set Down Only                                                           
+QI70000000019513411341S   T0  
+QNs    Set Down Only                                                           
+QI70000000019713421342S   T0  
+QNs    Set Down Only                                                           
+QI70000000019913421342S   T1  
+QNs    Set Down Only                                                           
+QI70000000163513431343S   T0  
+QNs    Set Down Only                                                           
+QI70000000180213451345S   T1  
+QNs    Set Down Only                                                           
+QT7000000016481350   T1  
+QDNULB 505 INewtownards, Gibsons Lane - Belfast, Europa Buscentre               
+QSNULB 1330  20180101201808311111100 X505                       I
+QO7000000026611330   T1  
+QI70000000329013301330B   T0  
+QI70000000329113301330B   T0  
+QI70000000242813311331B   T0  
+QI70000000242913321332B   T0  
+QI70000000243013321332B   T0  
+QI70000000243113331333B   T0  
+QI70000000243213341334B   T0  
+QI70000000243313351335B   T1  
+QI70000000243413351335B   T0  
+QI70000000243513361336B   T0  
+QI70000000243613361336B   T0  
+QI70000000243713391339B   T0  
+QI70000000243813401340B   T0  
+QI70000000242513411341B   T0  
+QI70000000242613411341B   T0  
+QI70000000242713421342B   T0  
+QI70000000170613431343B   T0  
+QI70000000170813431343B   T0  
+QI70000000170913441344B   T0  
+QI70000000171013451345B   T1  
+QI70000000092513461346B   T0  
+QI70000000092713471347B   T0  
+QI70000000092913481348B   T0  
+QI70000000093113491349B   T0  
+QI70000000093513511351B   T0  
+QI70000000093713511351B   T0  
+QI70000000094113521352B   T0  
+QI70000000094313541354B   T0  
+QI70000000094713551355B   T0  
+QI70000000094913551355B   T0  
+QI70000000095113561356B   T0  
+QI70000000088113561356B   T0  
+QI70000000088313581358B   T0  
+QI70000000088713591359B   T0  
+QI70000000088914001400B   T0  
+QI70000000010314011401B   T0  
+QI70000000018314011401B   T0  
+QI70000000018514021402B   T0  
+QI70000000018714021402B   T0  
+QI70000000018914031403B   T0  
+QI70000000019514051405B   T0  
+QI70000000019714061406B   T0  
+QI70000000019914061406B   T0  
+QI70000000163514081408S   T0  
+QNs    Set Down Only                                                           
+QI70000000180214101410S   T1  
+QNs    Set Down Only                                                           
+QT7000000016481415   T1  
+QDNULB 5   INewtownards, Gibsons Lane - Belfast, Europa Buscentre               
+QSNULB 1535  20180101201808311111100 X5                         I
+QO7000000026611535   T1  
+QI70000000329015351535B   T0  
+QI70000000329115351535B   T0  
+QI70000000242815361536B   T0  
+QI70000000242915371537B   T0  
+QI70000000243015371537B   T0  
+QI70000000243115381538B   T0  
+QI70000000243215391539B   T0  
+QI70000000243315401540B   T1  
+QI70000000243415401540B   T0  
+QI70000000243515411541B   T0  
+QI70000000243615411541B   T0  
+QI70000000243715441544B   T0  
+QI70000000243815451545B   T0  
+QI70000000242515461546B   T0  
+QI70000000242615461546B   T0  
+QI70000000242715471547B   T0  
+QI70000000170615481548B   T0  
+QI70000000170815481548B   T0  
+QI70000000170915491549B   T0  
+QI70000000171015501550B   T1  
+QI70000000092515511551S   T0  
+QNs    Set Down Only                                                           
+QI70000000092715511551S   T0  
+QNs    Set Down Only                                                           
+QI70000000092915521552S   T0  
+QNs    Set Down Only                                                           
+QI70000000093115531553S   T0  
+QNs    Set Down Only                                                           
+QI70000000093515541554S   T0  
+QNs    Set Down Only                                                           
+QI70000000093715551555S   T0  
+QNs    Set Down Only                                                           
+QI70000000094115551555S   T0  
+QNs    Set Down Only                                                           
+QI70000000094315561556S   T0  
+QNs    Set Down Only                                                           
+QI70000000094715571557S   T0  
+QNs    Set Down Only                                                           
+QI70000000094915581558S   T0  
+QNs    Set Down Only                                                           
+QI70000000088115591559S   T0  
+QNs    Set Down Only                                                           
+QI70000000088316001600S   T0  
+QNs    Set Down Only                                                           
+QI70000000088716011601S   T0  
+QNs    Set Down Only                                                           
+QI70000000088916011601S   T0  
+QNs    Set Down Only                                                           
+QI70000000010316021602S   T0  
+QNs    Set Down Only                                                           
+QI70000000018316021602S   T0  
+QNs    Set Down Only                                                           
+QI70000000018516031603S   T0  
+QNs    Set Down Only                                                           
+QI70000000018716031603S   T0  
+QNs    Set Down Only                                                           
+QI70000000018916041604S   T0  
+QNs    Set Down Only                                                           
+QI70000000019516051605S   T0  
+QNs    Set Down Only                                                           
+QI70000000019716061606S   T0  
+QNs    Set Down Only                                                           
+QI70000000019916061606S   T0  
+QNs    Set Down Only                                                           
+QI70000001463916081608S   T0  
+QNs    Set Down Only                                                           
+QT7000000016481610   T1  
+QNs    Set Down Only                                                           
+QDNULB 5f  INewtownards, Gibsons Lane - Belfast, Europa Buscentre               
+QSNULB 1625  20180101201808311111100SX5f                        I
+QNSch  Schooldays Only                                                         
+QO7000000026611625   T1  
+QI70000000329016261626B   T0  
+QI70000000329116271627B   T1  
+QI70000000242216291629B   T0  
+QI70000000242316301630B   T0  
+QI70000000242416321632B   T0  
+QI70000000242516361636B   T0  
+QI70000000242616361636B   T0  
+QI70000000242716371637B   T0  
+QI70000000170616381638B   T0  
+QI70000000170816381638B   T0  
+QI70000000170916391639B   T0  
+QI70000000171016401640B   T1  
+QI70000000092516411641S   T0  
+QNs    Set Down Only                                                           
+QI70000000092716411641S   T0  
+QNs    Set Down Only                                                           
+QI70000000092916421642S   T0  
+QNs    Set Down Only                                                           
+QI70000000093116431643S   T0  
+QNs    Set Down Only                                                           
+QI70000000093516441644S   T0  
+QNs    Set Down Only                                                           
+QI70000000093716451645S   T0  
+QNs    Set Down Only                                                           
+QI70000000094116451645S   T0  
+QNs    Set Down Only                                                           
+QI70000000094316461646S   T0  
+QNs    Set Down Only                                                           
+QI70000000094716471647S   T0  
+QNs    Set Down Only                                                           
+QI70000000094916481648S   T0  
+QNs    Set Down Only                                                           
+QI70000000088116491649S   T0  
+QNs    Set Down Only                                                           
+QI70000000088316501650S   T0  
+QNs    Set Down Only                                                           
+QI70000000088716511651S   T0  
+QNs    Set Down Only                                                           
+QI70000000088916511651S   T0  
+QNs    Set Down Only                                                           
+QI70000000010316521652S   T0  
+QNs    Set Down Only                                                           
+QI70000000018316521652S   T0  
+QNs    Set Down Only                                                           
+QI70000000018716531653S   T0  
+QNs    Set Down Only                                                           
+QI70000000018916541654S   T0  
+QNs    Set Down Only                                                           
+QI70000000019516551655S   T0  
+QNs    Set Down Only                                                           
+QI70000000019716561656S   T0  
+QNs    Set Down Only                                                           
+QI70000000019916561656S   T0  
+QNs    Set Down Only                                                           
+QI70000001463916581658S   T0  
+QNs    Set Down Only                                                           
+QT7000000016481700   T1  
+QNs    Set Down Only                                                           
+QDNULB 5f  INewtownards, Gibsons Lane - Belfast, Europa Buscentre               
+QSNULB       20180101201808311111100HX5f                        I
+QNNSch School Holidays                                                         
+QO7000000026611625   T1  
+QI70000000329116271627B   T1  
+QI70000000242216281628B   T0  
+QI70000000242316291629B   T0  
+QI70000000242416311631B   T0  
+QI70000000242516341634B   T0  
+QI70000000242616341634B   T0  
+QI70000000242716351635B   T0  
+QI70000000170616351635B   T0  
+QI70000000170816361636B   T0  
+QI70000000170916361636B   T0  
+QI70000000171016371637B   T1  
+QI70000000092516381638S   T0  
+QNs    Set Down Only                                                           
+QI70000000092716381638S   T0  
+QNs    Set Down Only                                                           
+QI70000000092916391639S   T0  
+QNs    Set Down Only                                                           
+QI70000000093116401640S   T0  
+QNs    Set Down Only                                                           
+QI70000000093516421642S   T0  
+QNs    Set Down Only                                                           
+QI70000000093716421642S   T0  
+QNs    Set Down Only                                                           
+QI70000000094116431643S   T0  
+QNs    Set Down Only                                                           
+QI70000000094316441644S   T0  
+QNs    Set Down Only                                                           
+QI70000000094716451645S   T0  
+QNs    Set Down Only                                                           
+QI70000000094916461646S   T0  
+QNs    Set Down Only                                                           
+QI70000000088116461646S   T0  
+QNs    Set Down Only                                                           
+QI70000000088316481648S   T0  
+QNs    Set Down Only                                                           
+QI70000000088716481648S   T0  
+QNs    Set Down Only                                                           
+QI70000000088916491649S   T0  
+QNs    Set Down Only                                                           
+QI70000000010316501650S   T0  
+QNs    Set Down Only                                                           
+QI70000000018316511651S   T0  
+QNs    Set Down Only                                                           
+QI70000000018516511651S   T0  
+QNs    Set Down Only                                                           
+QI70000000018716511651S   T0  
+QNs    Set Down Only                                                           
+QI70000000018916521652S   T0  
+QNs    Set Down Only                                                           
+QI70000000019516531653S   T0  
+QNs    Set Down Only                                                           
+QI70000000019716541654S   T0  
+QNs    Set Down Only                                                           
+QI70000000019916551655S   T1  
+QNs    Set Down Only                                                           
+QI70000000163516561656S   T0  
+QNs    Set Down Only                                                           
+QI70000000163616571657S   T1  
+QNs    Set Down Only                                                           
+QT7000000147191700   T1  
+QDNULB 5   INewtownards, Gibsons Lane - Belfast, Europa Buscentre               
+QSNULB 1705  20180101201808311111100 X5                         I
+QO7000000026611705   T1  
+QI70000000329017051705B   T0  
+QI70000000329117051705B   T0  
+QI70000000242817061706B   T0  
+QI70000000242917071707B   T0  
+QI70000000243017071707B   T0  
+QI70000000243117081708B   T0  
+QI70000000243217091709B   T0  
+QI70000000243317101710B   T1  
+QI70000000243417101710B   T0  
+QI70000000243517111711B   T0  
+QI70000000243617111711B   T0  
+QI70000000243717141714B   T0  
+QI70000000243817151715B   T0  
+QI70000000242517161716B   T0  
+QI70000000242617161716B   T0  
+QI70000000242717171717B   T0  
+QI70000000170617181718B   T0  
+QI70000000170817181718B   T0  
+QI70000000170917191719B   T0  
+QI70000000171017201720B   T1  
+QI70000000092517211721S   T0  
+QNs    Set Down Only                                                           
+QI70000000092717211721S   T0  
+QNs    Set Down Only                                                           
+QI70000000092917221722S   T0  
+QNs    Set Down Only                                                           
+QI70000000093117231723S   T0  
+QNs    Set Down Only                                                           
+QI70000000093517241724S   T0  
+QNs    Set Down Only                                                           
+QI70000000093717251725S   T0  
+QNs    Set Down Only                                                           
+QI70000000094117251725S   T0  
+QNs    Set Down Only                                                           
+QI70000000094317261726S   T0  
+QNs    Set Down Only                                                           
+QI70000000094717271727S   T0  
+QNs    Set Down Only                                                           
+QI70000000094917281728S   T0  
+QNs    Set Down Only                                                           
+QI70000000088117291729S   T0  
+QNs    Set Down Only                                                           
+QI70000000088317301730S   T0  
+QNs    Set Down Only                                                           
+QI70000000088717311731S   T0  
+QNs    Set Down Only                                                           
+QI70000000088917311731S   T0  
+QNs    Set Down Only                                                           
+QI70000000010317321732S   T0  
+QNs    Set Down Only                                                           
+QI70000000018317321732S   T0  
+QNs    Set Down Only                                                           
+QI70000000018517331733S   T0  
+QNs    Set Down Only                                                           
+QI70000000018717331733S   T0  
+QNs    Set Down Only                                                           
+QI70000000018917341734S   T0  
+QNs    Set Down Only                                                           
+QI70000000019517351735S   T0  
+QNs    Set Down Only                                                           
+QI70000000019717361736S   T0  
+QNs    Set Down Only                                                           
+QI70000000019917361736S   T0  
+QNs    Set Down Only                                                           
+QI70000001463917381738S   T0  
+QNs    Set Down Only                                                           
+QT7000000016481740   T1  
+QNs    Set Down Only                                                           
+QDNULB 5   INewtownards, Gibsons Lane - Belfast, Europa Buscentre               
+QSNULB 1750  20180101201808311111100 X5                         I
+QO7000000026611750   T1  
+QI70000000329017501750B   T0  
+QI70000000329117501750B   T0  
+QI70000000242817511751B   T0  
+QI70000000242917521752B   T0  
+QI70000000243017521752B   T0  
+QI70000000243117531753B   T0  
+QI70000000243217541754B   T0  
+QI70000000243317551755B   T1  
+QI70000000243417551755B   T0  
+QI70000000243517561756B   T0  
+QI70000000243617561756B   T0  
+QI70000000243717591759B   T0  
+QI70000000243818001800B   T0  
+QI70000000242518011801B   T0  
+QI70000000242618011801B   T0  
+QI70000000242718021802B   T0  
+QI70000000170618031803B   T0  
+QI70000000170818031803B   T0  
+QI70000000170918041804B   T0  
+QI70000000171018051805B   T1  
+QI70000000092518061806S   T0  
+QNs    Set Down Only                                                           
+QI70000000092718061806S   T0  
+QNs    Set Down Only                                                           
+QI70000000092918071807S   T0  
+QNs    Set Down Only                                                           
+QI70000000093118081808S   T0  
+QNs    Set Down Only                                                           
+QI70000000093518091809S   T0  
+QNs    Set Down Only                                                           
+QI70000000093718101810S   T0  
+QNs    Set Down Only                                                           
+QI70000000094118101810S   T0  
+QNs    Set Down Only                                                           
+QI70000000094318111811S   T0  
+QNs    Set Down Only                                                           
+QI70000000094718121812S   T0  
+QNs    Set Down Only                                                           
+QI70000000094918131813S   T0  
+QNs    Set Down Only                                                           
+QI70000000088118141814S   T0  
+QNs    Set Down Only                                                           
+QI70000000088318151815S   T0  
+QNs    Set Down Only                                                           
+QI70000000088718161816S   T0  
+QNs    Set Down Only                                                           
+QI70000000088918161816S   T0  
+QNs    Set Down Only                                                           
+QI70000000010318171817S   T0  
+QNs    Set Down Only                                                           
+QI70000000018318171817S   T0  
+QNs    Set Down Only                                                           
+QI70000000018518181818S   T0  
+QNs    Set Down Only                                                           
+QI70000000018718181818S   T0  
+QNs    Set Down Only                                                           
+QI70000000018918191819S   T0  
+QNs    Set Down Only                                                           
+QI70000000019518201820S   T0  
+QNs    Set Down Only                                                           
+QI70000000019718211821S   T0  
+QNs    Set Down Only                                                           
+QI70000000019918211821S   T0  
+QNs    Set Down Only                                                           
+QI70000001463918231823S   T0  
+QNs    Set Down Only                                                           
+QT7000000016481825   T1  
+QNs    Set Down Only                                                           
+QDNULB 5   INewtownards, Gibsons Lane - Belfast, Europa Buscentre               
+QSNULB 1940  20180101201808311111100 X5                         I
+QO7000000026611940   T1  
+QI70000000329019401940B   T0  
+QI70000000329119401940B   T0  
+QI70000000242819411941B   T0  
+QI70000000242919421942B   T0  
+QI70000000243019421942B   T0  
+QI70000000243119431943B   T0  
+QI70000000243219441944B   T0  
+QI70000000243319451945B   T1  
+QI70000000243419451945B   T0  
+QI70000000243519461946B   T0  
+QI70000000243619461946B   T0  
+QI70000000243719491949B   T0  
+QI70000000243819501950B   T0  
+QI70000000242519511951B   T0  
+QI70000000242619511951B   T0  
+QI70000000242719521952B   T0  
+QI70000000170619531953B   T0  
+QI70000000170819531953B   T0  
+QI70000000170919541954B   T0  
+QI70000000171019551955B   T1  
+QI70000000092519561956S   T0  
+QNs    Set Down Only                                                           
+QI70000000092719561956S   T0  
+QNs    Set Down Only                                                           
+QI70000000092919571957S   T0  
+QNs    Set Down Only                                                           
+QI70000000093119581958S   T0  
+QNs    Set Down Only                                                           
+QI70000000093519591959S   T0  
+QNs    Set Down Only                                                           
+QI70000000093720002000S   T0  
+QNs    Set Down Only                                                           
+QI70000000094120012001S   T0  
+QNs    Set Down Only                                                           
+QI70000000094320022002S   T0  
+QNs    Set Down Only                                                           
+QI70000000094720032003S   T0  
+QNs    Set Down Only                                                           
+QI70000000094920032003S   T0  
+QNs    Set Down Only                                                           
+QI70000000088120042004S   T0  
+QNs    Set Down Only                                                           
+QI70000000088320052005S   T0  
+QNs    Set Down Only                                                           
+QI70000000088720062006S   T0  
+QNs    Set Down Only                                                           
+QI70000000088920072007S   T0  
+QNs    Set Down Only                                                           
+QI70000000010320072007S   T0  
+QNs    Set Down Only                                                           
+QI70000000018320082008S   T0  
+QNs    Set Down Only                                                           
+QI70000000018520082008S   T0  
+QNs    Set Down Only                                                           
+QI70000000018720092009S   T0  
+QNs    Set Down Only                                                           
+QI70000000018920092009S   T0  
+QNs    Set Down Only                                                           
+QI70000000019520112011S   T0  
+QNs    Set Down Only                                                           
+QI70000000019720122012S   T0  
+QNs    Set Down Only                                                           
+QI70000000019920122012S   T0  
+QNs    Set Down Only                                                           
+QI70000000163520132013S   T0  
+QNs    Set Down Only                                                           
+QI70000000163620142014S   T1  
+QNs    Set Down Only                                                           
+QT7000000147192015   T1  
+QLN700000000240Europa Stand One
+QBN700000000240333439  373811
+QLN700000001649Laganside Bus Std.
+QBN700000001649334261  374463
+QLN700000001437Chichester Street
+QBN700000001437334006  374116
+QLN700000000001Queens Square
+QBN700000000001334233  374507
+QLN700000000123East Bridge Street (Central Station)
+QBN700000000123334690  373940
+QLN700000000125Short Strand (Albert Bridge Road)
+QBN700000000125335173  373964
+QLN700000000129Templemore Avenue
+QBN700000000129335608  373921
+QLN700000000135Bloomfield Commercial Centre
+QBN700000000135336184  374211
+QLN700000000869Holywood Arches
+QBN700000000869336572  374205
+QLN700000000873Irwin Avenue
+QBN700000000873336894  374089
+QLN700000000875Clonlee Drive
+QBN700000000875337212  374066
+QLN700000000877North Road
+QBN700000000877337460  374026
+QLN700000001823Ballyhackamore
+QBN700000001823337918  373968
+QLN700000000895Greenwood  Primary
+QBN700000000895338317  373955
+QLN700000000899Knock Road
+QBN700000000899338538  373949
+QLN700000000903Cabin Hill
+QBN700000000903339075  373928
+QLN700000000907Stormont
+QBN700000000907339515  373955
+QLN700000000909Stormont Court
+QBN700000000909339871  373985
+QLN700000000911Rosepark
+QBN700000000911340226  374021
+QLN700000000913Dundonald House
+QBN700000000913340563  373948
+QLN700000000919Ulster Hospital
+QBN700000000919341489  374065
+QLN700000001689Ballyregan Road (Dundonald)
+QBN700000001689341857  374048
+QLN700000001690Burton Avenue
+QBN700000001690342231  374064
+QLN700000016011Dundonald Park & Ride
+QBN700000016011342405  374204
+QLN700000002415Davar Avenue
+QBN700000002415342593  374115
+QLN700000002416High School
+QBN700000002416343011  374114
+QLN700000002417Carrowreagh Road
+QBN700000002417343429  374054
+QLN700000002418Quarry Corner
+QBN700000002418343685  374043
+QLN700000002419Fergussons Farm/Layby
+QBN700000002419344110  374028
+QLN700000002420Green Graves Rd
+QBN700000002420345472  373954
+QLN700000002421Ballyrainey Road
+QBN700000002421346685  373705
+QLN700000003286Blair Mayne Road South
+QBN700000003286347969  373716
+QLN700000003287Scrabo Road
+QBN700000003287348112  373758
+QLN700000003292Strangford Arms
+QBN700000003292348166  374336
+QLN700000003288Mill Street
+QBN700000003288348400  373973
+QLN700000003289Fredrick Street
+QBN700000003289348517  374188
+QLN700000002439Old Mill
+QBN700000002439344077  374413
+QLN700000002440Ballyrogan Road
+QBN700000002440345105  374878
+QLN700000002441Eileen Terrace
+QBN700000002441345236  375045
+QLN700000002442Crees Corner
+QBN700000002442345896  375234
+QLN700000002443Ballybarnes Cottages
+QBN700000002443346198  375114
+QLN700000002444Milecross Road
+QBN700000002444347017  374857
+QLN700000002445Brae Side
+QBN700000002445347538  374706
+QLN700000002446Ascot Park
+QBN700000002446347763  374608
+QLN700000002447Westmount Park
+QBN700000002447347963  374496
+QLN700000002715Church
+QBN700000002715348537  374298
+QLN700000003313Stand 1
+QBN700000003313348738  374246
+QLN700000002661Gibsons Lane
+QBN700000002661348768  374158
+QLN700000003290Hospital
+QBN700000003290348468  374252
+QLN700000003291Strangford Arms
+QBN700000003291348171  374319
+QLN700000002428Westmount Park
+QBN700000002428347954  374495
+QLN700000002429Duck Pond
+QBN700000002429347492  374712
+QLN700000002430Milecross Road
+QBN700000002430347041  374831
+QLN700000002431Bend Stop
+QBN700000002431346615  374881
+QLN700000002432Ballybarnes Cottages
+QBN700000002432346163  375117
+QLN700000002433Crees Corner
+QBN700000002433345807  375240
+QLN700000003281Fredrick Street
+QBN700000003281348536  374169
+QLN700000003282Mill Street
+QBN700000003282348332  373898
+QLN700000003283Scrabo Road
+QBN700000003283348140  373747
+QLN700000003284Blair Mayne Road South
+QBN700000003284347949  373776
+QLN700000002422Layby
+QBN700000002422347438  373688
+QLN700000002423Ballyrainey Road
+QBN700000002423346773  373618
+QLN700000002424Greengraves Road
+QBN700000002424345492  373926
+QLN700000002434Holywood Rd
+QBN700000002434345584  375213
+QLN700000002435Cottage Row
+QBN700000002435345229  375004
+QLN700000002436Ballyrogan Road
+QBN700000002436345120  374858
+QLN700000002437Old Mill
+QBN700000002437344223  374479
+QLN700000002438End Of Brae
+QBN700000002438343997  374167
+QLN700000002425Quarry Inn
+QBN700000002425343632  374013
+QLN700000002426Carrowreagh Road
+QBN700000002426343249  374040
+QLN700000002427High School
+QBN700000002427342794  374119
+QLN700000001706Brooklands
+QBN700000001706342542  374081
+QLN700000001708Cherry Hill
+QBN700000001708342061  374037
+QLN700000001709Ballyregan Road (Dundonald)
+QBN700000001709341829  374043
+QLN700000001710The Ulster Hospital
+QBN700000001710341469  374045
+QLN700000000925Dundonald Cemetery
+QBN700000000925340939  373958
+QLN700000000927Ardcarn
+QBN700000000927340725  373933
+QLN700000000929Rosepark
+QBN700000000929340446  373974
+QLN700000000931Summerhill Avenue
+QBN700000000931339976  373991
+QLN700000000935Stormont
+QBN700000000935339549  373947
+QLN700000000937Stormont Park
+QBN700000000937339373  373932
+QLN700000000941Hawthorden Court
+QBN700000000941339011  373916
+QLN700000000943Knock Road
+QBN700000000943338554  373937
+QLN700000000947Belmont Church Road
+QBN700000000947338211  373948
+QLN700000000949Astoria Gardens
+QBN700000000949338030  373954
+QLN700000000951Hillview Avenue
+QBN700000000951337898  373962
+QLN700000000881Ballyhackamore
+QBN700000000881337674  373981
+QLN700000000883North Road
+QBN700000000883337286  374052
+QLN700000000887Beersbridge Road
+QBN700000000887336913  374066
+QLN700000000889Holywood Arches
+QBN700000000889336582  374186
+QLN700000000103Connswater
+QBN700000000103336390  374232
+QLN700000000183Bloomfield Commercial Centre
+QBN700000000183336164  374174
+QLN700000000185Hornby Street
+QBN700000000185336023  374108
+QLN700000000187Avoniel
+QBN700000000187335891  374033
+QLN700000000189Templemore Avenue
+QBN700000000189335652  373914
+QLN700000000195Short Strand (Albert Bridge Road)
+QBN700000000195335163  373930
+QLN700000000197Maysfield
+QBN700000000197334755  373928
+QLN700000000199East Bridge Street (Central Station)
+QBN700000000199334625  373915
+QLN700000014639Victoria Street
+QBN700000014639334222  374073
+QLN700000001648Stand 13
+QBN700000001648334310  374457
+QLN700000001635May Street
+QBN700000001635334188  373976
+QLN700000001636May Street
+QBN700000001636334043  373961
+QLN700000001802Donegall Square West
+QBN700000001802333738  373971
+QLN700000014719Europa Buscentre (Glengall St)
+QBN700000014719333384  373837
+QPNULB Ulsterbus               Ulsterbus
+QQ
+QDNULB 5   OBelfast, Europa Buscentre - Newtownards, Bus Station
+QDNULB 505 OBelfast, Europa Buscentre - Stormont
+QDNULB 5f  OBelfast, Europa Buscentre - Newtownards, Bus Station
+QDNULB 505fOBelfast, Europa Buscentre - Stormont
+QDNULB 5   INewtownards, Gibsons Lane - Belfast, Europa Buscentre
+QDNULB 5f  INewtownards, Gibsons Lane - Belfast, Europa Buscentre
+QDNULB 505 INewtownards, Gibsons Lane - Belfast, Europa Buscentre

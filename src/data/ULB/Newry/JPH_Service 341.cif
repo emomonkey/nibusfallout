@@ -1,0 +1,117 @@
+ATCO-CIF0500Ulsterbus                       OMNITIMES       20180626201551
+QDNUTS 341 ONewry, Buscentre - Newry, Rail Station                              
+QSNUTS 0725  20180712201807131111110 B341       LF              O
+QO7000000154700725   T1  
+QT7000000038840730   T1  
+QDNUTS 341 ONewry, Buscentre - Newry, Rail Station                              
+QSNUTS 0830  20180712201807131111110 B341       LF              O
+QO7000000154700830   T1  
+QT7000000038840835   T1  
+QDNUTS 341 ONewry, Buscentre - Newry, Rail Station                              
+QSNUTS 1030  20180712201807131111110 B341       LF              O
+QO7000000154701030   T1  
+QT7000000038841035   T1  
+QDNUTS 341 ONewry, Buscentre - Newry, Rail Station                              
+QSNUTS 1110  20180712201807131111110 B341       LF              O
+QO7000000154701110   T1  
+QT7000000038841115   T1  
+QDNUTS 341 ONewry, Buscentre - Newry, Rail Station                              
+QSNUTS 1215  20180712201807131111110 B341                       O
+QO7000000154701215   T1  
+QT7000000038841220   T1  
+QDNUTS 341 ONewry, Buscentre - Newry, Rail Station                              
+QSNUTS 1310  20180712201807131111110 B341       GL              O
+QO7000000154701310   T1  
+QT7000000038841315   T1  
+QDNUTS 341 ONewry, Buscentre - Newry, Rail Station                              
+QSNUTS 1415  20180712201807131111110 B341       M               O
+QO7000000154701415   T1  
+QT7000000038841420   T1  
+QDNUTS 341 ONewry, Buscentre - Newry, Rail Station                              
+QSNUTS 1445  20180712201807131111110 B341       GL              O
+QO7000000154701445   T1  
+QT7000000038841450   T1  
+QDNUTS 341 ONewry, Buscentre - Newry, Rail Station                              
+QSNUTS 1615  20180712201807131111110 B341       LF              O
+QO7000000154701615   T1  
+QT7000000038841620   T1  
+QDNUTS 341 ONewry, Buscentre - Newry, Rail Station                              
+QSNUTS 1645  20180712201807131111110 B341       GL              O
+QO7000000154701645   T1  
+QT7000000038841650   T1  
+QDNUTS 341 ONewry, Buscentre - Newry, Rail Station                              
+QSNUTS 1745  20180712201807131111110 B341       M               O
+QO7000000154701745   T1  
+QT7000000038841750   T1  
+QDNUTS 341 ONewry, Buscentre - Newry, Rail Station                              
+QSNUTS 1825  20180712201807131111100 X341       M               O
+QNNS   Not Saturdays                                                           
+QO7000000154701825   T1  
+QT7000000038841830   T1  
+QDNUTS 341 ONewry, Buscentre - Newry, Rail Station                              
+QSNUTS 1835  20180712201807131111110 B341       M               O
+QO7000000154701835   T1  
+QT7000000038841840   T1  
+QDNUTS 341 INewry, Rail Station - Newry, Buscentre                              
+QSNUTS 0750  20180712201807131111110 B341       LF              I
+QO7000000038840750   T1  
+QT7000000154700755   T1  
+QDNUTS 341 INewry, Rail Station - Newry, Buscentre                              
+QSNUTS 0905  20180712201807131111110 B341       LF              I
+QO7000000038840905   T1  
+QT7000000154700910   T1  
+QDNUTS 341 INewry, Rail Station - Newry, Buscentre                              
+QSNUTS 1100  20180712201807131111110 B341       LF              I
+QO7000000038841100   T1  
+QT7000000154701105   T1  
+QDNUTS 341 INewry, Rail Station - Newry, Buscentre                              
+QSNUTS 1140  20180712201807131111110 B341       LF              I
+QO7000000038841140   T1  
+QT7000000154701145   T1  
+QDNUTS 341 INewry, Rail Station - Newry, Buscentre                              
+QSNUTS 1245  20180712201807131111110 B341                       I
+QO7000000038841245   T1  
+QT7000000154701250   T1  
+QDNUTS 341 INewry, Rail Station - Newry, Buscentre                              
+QSNUTS 1340  20180712201807131111110 B341       GL              I
+QO7000000038841340   T1  
+QT7000000154701345   T1  
+QDNUTS 341 INewry, Rail Station - Newry, Buscentre                              
+QSNUTS 1445  20180712201807131111110 B341       M               I
+QO7000000038841445   T1  
+QT7000000154701450   T1  
+QDNUTS 341 INewry, Rail Station - Newry, Buscentre                              
+QSNUTS 1515  20180712201807131111110 B341       GL              I
+QO7000000038841515   T1  
+QT7000000154701520   T1  
+QDNUTS 341 INewry, Rail Station - Newry, Buscentre                              
+QSNUTS 1640  20180712201807131111110 B341       LF              I
+QO7000000038841640   T1  
+QT7000000154701645   T1  
+QDNUTS 341 INewry, Rail Station - Newry, Buscentre                              
+QSNUTS 1710  20180712201807131111110 B341       LF              I
+QO7000000038841710   T1  
+QT7000000154701715   T1  
+QDNUTS 341 INewry, Rail Station - Newry, Buscentre                              
+QSNUTS 1815  20180712201807131111110 B341       M               I
+QO7000000038841815   T1  
+QT7000000154701820   T1  
+QDNUTS 341 INewry, Rail Station - Newry, Buscentre                              
+QSNUTS 1845  20180712201807131111110 B341       M               I
+QO7000000038841845   T1  
+QT7000000154701850   T1  
+QDNUTS 341 INewry, Rail Station - Newry, Buscentre                              
+QSNUTS 1915  20180712201807131111110 B341       M               I
+QO7000000038841915   T1  
+QT7000000154701920   T1  
+QLN700000015470Newry, Buscentre
+QBN700000015470308468  326431
+QLN700000003884Newry Railway Station
+QBN700000003884306915  327943
+QPNUTS Ulsterbus Town Services Ulsterbus Town Services
+QQ
+QVNLF      LOWFLOOR
+QVNGL      GOLDLINER
+QVNM       MINIBUS
+QDNUTS 341 ONewry, Buscentre - Newry, Rail Station
+QDNUTS 341 INewry, Rail Station - Newry, Buscentre

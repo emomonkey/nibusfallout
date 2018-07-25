@@ -1,0 +1,47 @@
+ATCO-CIF0500Ulsterbus                       OMNITIMES       20180604104744
+QDNGLE 256 OBelfast, Europa Buscentre - Larne, Bus Station                      
+QSNGLE 1815  20180720201808180000110 X256                       O
+QO7000000002402400   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000174624052405P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000473024252425S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000000463124332433S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000000464824432443S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000000465124492449S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000000465224512451S   T0  
+QNs    SET DOWN ONLY                                                           
+QT7000000046632505   T1  
+QNs    SET DOWN ONLY                                                           
+QLN700000000240Europa Stand One
+QBN700000000240333439  373811
+QLN700000015200Holywood Rail Station
+QBN700000015200339602  379200
+QLN700000002021Stand 11
+QBN700000002021350295  381417
+QLN700000002661Gibsons Lane
+QBN700000002661348768  374158
+QLN700000001746Bridge Street 1
+QBN700000001746333965  374396
+QLN700000004730Elim Church
+QBN700000004730328948  390870
+QLN700000004631Ballynure Service Station
+QBN700000004631331831  393662
+QLN700000004648Millbrook
+QBN700000004648337554  401095
+QLN700000004651Upper Cairncastle Road-Roddens
+QBN700000004651339164  402976
+QLN700000004652Roddens
+QBN700000004652339312  403109
+QLN700000004663Larne Bus Station
+QBN700000004663340052  402260
+QPNULB Ulsterbus               Ulsterbus
+QQ
+QPNGLE Goldline Express        Goldline Express
+QQ
+QDNULB 205 OBelfast, Europa Buscentre - Newtownards
+QDNGLE 256 OBelfast, Europa Buscentre - Larne, Bus Station

@@ -1,0 +1,315 @@
+ATCO-CIF0500Ulsterbus                       OMNITIMES       20170809093757
+QDNFY  2d  OFoyle Street Buscentre - Rail Station                               
+QSNFY  0550  20180320201807011111100 X2d        GL              O
+QO7000000132140550   T1  
+QT7000000157420555   T1  
+QDNFY  2d  OFoyle Street Buscentre - Rail Station                               
+QSNFY  0715  20180320201807011111100 X2d        LF              O
+QO7000000132140715   T1  
+QT7000000157420720   T1  
+QDNFY  2d  OFoyle Street Buscentre - Rail Station                               
+QSNFY  0815  20180320201807011111100 X2d        LF              O
+QO7000000132140815   T1  
+QT7000000157420820   T1  
+QDNFY  2d  OFoyle Street Buscentre - Rail Station                               
+QSNFY  0915  20180320201807011111100 X2d        LF              O
+QO7000000132140915   T1  
+QT7000000157420920   T1  
+QDNFY  2d  OFoyle Street Buscentre - Rail Station                               
+QSNFY  1015  20180320201807011111100 X2d        LF              O
+QO7000000132141015   T1  
+QT7000000157421020   T1  
+QDNFY  2d  OFoyle Street Buscentre - Rail Station                               
+QSNFY  1115  20180320201807011111100 X2d        LF              O
+QO7000000132141115   T1  
+QT7000000157421120   T1  
+QDNFY  2d  OFoyle Street Buscentre - Rail Station                               
+QSNFY  1215  20180320201807011111100 X2d        LF              O
+QO7000000132141215   T1  
+QT7000000157421220   T1  
+QDNFY  2d  OFoyle Street Buscentre - Rail Station                               
+QSNFY  1315  20180320201807011111100 X2d        LF              O
+QO7000000132141315   T1  
+QT7000000157421320   T1  
+QDNFY  2d  OFoyle Street Buscentre - Rail Station                               
+QSNFY  1415  20180320201807011111100 X2d        LF              O
+QO7000000132141415   T1  
+QT7000000157421420   T1  
+QDNFY  2d  OFoyle Street Buscentre - Rail Station                               
+QSNFY  1515  20180320201807011111100 X2d        LF              O
+QO7000000132141515   T1  
+QT7000000157421520   T1  
+QDNFY  2d  OFoyle Street Buscentre - Rail Station                               
+QSNFY  1615  20180320201807011111100 X2d        LF              O
+QO7000000132141615   T1  
+QT7000000157421620   T1  
+QDNFY  2d  OFoyle Street Buscentre - Rail Station                               
+QSNFY  1715  20180320201807011111100 X2d        LF              O
+QO7000000132141715   T1  
+QT7000000157421720   T1  
+QDNFY  2d  OFoyle Street Buscentre - Rail Station                               
+QSNFY  1815  20180320201807011111100 X2d        LF              O
+QO7000000132141815   T1  
+QT7000000157421820   T1  
+QDNFY  2d  OFoyle Street Buscentre - Rail Station                               
+QSNFY  1915  20180320201807011111100 X2d        LF              O
+QO7000000132141915   T1  
+QT7000000157421920   T1  
+QDNFY  2d  OFoyle Street Buscentre - Rail Station                               
+QSNFY  2015  20180320201807011111100 X2d        LF              O
+QO7000000132142015   T1  
+QT7000000157422020   T1  
+QDNFY  2d  OFoyle Street Buscentre - Rail Station                               
+QSNFY  2120  20180320201807011111100 X2d        LF              O
+QO7000000132142120   T1  
+QT7000000157422125   T1  
+QDNFY  2d  IRail Station -  Foyle Street Buscentre                              
+QSNFY  0830  20180320201807011111100 X2d        LF              I
+QO7000000157420830   T1  
+QT7000000132140835   T1  
+QDNFY  2d  IRail Station -  Foyle Street Buscentre                              
+QSNFY  0930  20180320201807011111100 X2d        LF              I
+QO7000000157420930   T1  
+QT7000000132140935   T1  
+QDNFY  2d  IRail Station -  Foyle Street Buscentre                              
+QSNFY  1030  20180320201807011111100 X2d        LF              I
+QO7000000157421030   T1  
+QT7000000132141035   T1  
+QDNFY  2d  IRail Station -  Foyle Street Buscentre                              
+QSNFY  1130  20180320201807011111100 X2d        LF              I
+QO7000000157421130   T1  
+QT7000000132141135   T1  
+QDNFY  2d  IRail Station -  Foyle Street Buscentre                              
+QSNFY  1230  20180320201807011111100 X2d        LF              I
+QO7000000157421230   T1  
+QT7000000132141235   T1  
+QDNFY  2d  IRail Station -  Foyle Street Buscentre                              
+QSNFY  1330  20180320201807011111100 X2d        LF              I
+QO7000000157421330   T1  
+QT7000000132141335   T1  
+QDNFY  2d  IRail Station -  Foyle Street Buscentre                              
+QSNFY  1430  20180320201807011111100 X2d        LF              I
+QO7000000157421430   T1  
+QT7000000132141435   T1  
+QDNFY  2d  IRail Station -  Foyle Street Buscentre                              
+QSNFY  1530  20180320201807011111100 X2d        LF              I
+QO7000000157421530   T1  
+QT7000000132141535   T1  
+QDNFY  2d  IRail Station -  Foyle Street Buscentre                              
+QSNFY  1630  20180320201807011111100 X2d        LF              I
+QO7000000157421630   T1  
+QT7000000132141635   T1  
+QDNFY  2d  IRail Station -  Foyle Street Buscentre                              
+QSNFY  1730  20180320201807011111100 X2d        LF              I
+QO7000000157421730   T1  
+QT7000000132141735   T1  
+QDNFY  2d  IRail Station -  Foyle Street Buscentre                              
+QSNFY  1830  20180320201807011111100 X2d        LF              I
+QO7000000157421830   T1  
+QT7000000132141835   T1  
+QDNFY  2d  IRail Station -  Foyle Street Buscentre                              
+QSNFY  1930  20180320201807011111100 X2d        LF              I
+QO7000000157421930   T1  
+QT7000000132141935   T1  
+QDNFY  2d  IRail Station -  Foyle Street Buscentre                              
+QSNFY  2030  20180320201807011111100 X2d        LF              I
+QO7000000157422030   T1  
+QT7000000132142035   T1  
+QDNFY  2d  IRail Station -  Foyle Street Buscentre                              
+QSNFY  2130  20180320201807011111100 X2d        LF              I
+QO7000000157422130   T1  
+QT7000000132142135   T1  
+QDNFY  2d  IRail Station -  Foyle Street Buscentre                              
+QSNFY  2230  20180320201807011111100 X2d        LF              I
+QO7000000157422230   T1  
+QT7000000132142235   T1  
+QDNFY  2d  IRail Station -  Foyle Street Buscentre                              
+QSNFY  2330  20180320201807011111100 X2d        LF              I
+QO7000000157422330   T1  
+QT7000000132142335   T1  
+QDNFY  2d  OFoyle Street Buscentre - Rail Station                               
+QSNFY  0620  20180320201807010000010 X2d        GL              O
+QO7000000132140620   T1  
+QT7000000157420625   T1  
+QDNFY  2d  OFoyle Street Buscentre - Rail Station                               
+QSNFY  0720  20180320201807010000010 X2d        LF              O
+QO7000000132140720   T1  
+QT7000000157420725   T1  
+QDNFY  2d  OFoyle Street Buscentre - Rail Station                               
+QSNFY  0815  20180320201807010000010 X2d        LF              O
+QO7000000132140815   T1  
+QT7000000157420820   T1  
+QDNFY  2d  OFoyle Street Buscentre - Rail Station                               
+QSNFY  0915  20180320201807010000010 X2d        LF              O
+QO7000000132140915   T1  
+QT7000000157420920   T1  
+QDNFY  2d  OFoyle Street Buscentre - Rail Station                               
+QSNFY  1015  20180320201807010000010 X2d        LF              O
+QO7000000132141015   T1  
+QT7000000157421020   T1  
+QDNFY  2d  OFoyle Street Buscentre - Rail Station                               
+QSNFY  1115  20180320201807010000010 X2d        LF              O
+QO7000000132141115   T1  
+QT7000000157421120   T1  
+QDNFY  2d  OFoyle Street Buscentre - Rail Station                               
+QSNFY  1215  20180320201807010000010 X2d        LF              O
+QO7000000132141215   T1  
+QT7000000157421220   T1  
+QDNFY  2d  OFoyle Street Buscentre - Rail Station                               
+QSNFY  1315  20180320201807010000010 X2d        LF              O
+QO7000000132141315   T1  
+QT7000000157421320   T1  
+QDNFY  2d  OFoyle Street Buscentre - Rail Station                               
+QSNFY  1415  20180320201807010000010 X2d        LF              O
+QO7000000132141415   T1  
+QT7000000157421420   T1  
+QDNFY  2d  OFoyle Street Buscentre - Rail Station                               
+QSNFY  1515  20180320201807010000010 X2d        LF              O
+QO7000000132141515   T1  
+QT7000000157421520   T1  
+QDNFY  2d  OFoyle Street Buscentre - Rail Station                               
+QSNFY  1615  20180320201807010000010 X2d        LF              O
+QO7000000132141615   T1  
+QT7000000157421620   T1  
+QDNFY  2d  OFoyle Street Buscentre - Rail Station                               
+QSNFY  1715  20180320201807010000010 X2d        LF              O
+QO7000000132141715   T1  
+QT7000000157421720   T1  
+QDNFY  2d  OFoyle Street Buscentre - Rail Station                               
+QSNFY  1820  20180320201807010000010 X2d        LF              O
+QO7000000132141820   T1  
+QT7000000157421825   T1  
+QDNFY  2d  OFoyle Street Buscentre - Rail Station                               
+QSNFY  1915  20180320201807010000010 X2d        LF              O
+QO7000000132141915   T1  
+QT7000000157421920   T1  
+QDNFY  2d  OFoyle Street Buscentre - Rail Station                               
+QSNFY  2015  20180320201807010000010 X2d        LF              O
+QO7000000132142015   T1  
+QT7000000157422020   T1  
+QDNFY  2d  OFoyle Street Buscentre - Rail Station                               
+QSNFY  2115  20180320201807010000010 X2d        LF              O
+QO7000000132142115   T1  
+QT7000000157422120   T1  
+QDNFY  2d  IRail Station -  Foyle Street Buscentre                              
+QSNFY  0830  20180320201807010000010 X2d        LF              I
+QO7000000157420830   T1  
+QT7000000132140835   T1  
+QDNFY  2d  IRail Station -  Foyle Street Buscentre                              
+QSNFY  0930  20180320201807010000010 X2d        LF              I
+QO7000000157420930   T1  
+QT7000000132140935   T1  
+QDNFY  2d  IRail Station -  Foyle Street Buscentre                              
+QSNFY  1030  20180320201807010000010 X2d        LF              I
+QO7000000157421030   T1  
+QT7000000132141035   T1  
+QDNFY  2d  IRail Station -  Foyle Street Buscentre                              
+QSNFY  1130  20180320201807010000010 X2d        LF              I
+QO7000000157421130   T1  
+QT7000000132141135   T1  
+QDNFY  2d  IRail Station -  Foyle Street Buscentre                              
+QSNFY  1230  20180320201807010000010 X2d        LF              I
+QO7000000157421230   T1  
+QT7000000132141235   T1  
+QDNFY  2d  IRail Station -  Foyle Street Buscentre                              
+QSNFY  1330  20180320201807010000010 X2d        LF              I
+QO7000000157421330   T1  
+QT7000000132141335   T1  
+QDNFY  2d  IRail Station -  Foyle Street Buscentre                              
+QSNFY  1430  20180320201807010000010 X2d        LF              I
+QO7000000157421430   T1  
+QT7000000132141435   T1  
+QDNFY  2d  IRail Station -  Foyle Street Buscentre                              
+QSNFY  1530  20180320201807010000010 X2d        LF              I
+QO7000000157421530   T1  
+QT7000000132141535   T1  
+QDNFY  2d  IRail Station -  Foyle Street Buscentre                              
+QSNFY  1630  20180320201807010000010 X2d        LF              I
+QO7000000157421630   T1  
+QT7000000132141635   T1  
+QDNFY  2d  IRail Station -  Foyle Street Buscentre                              
+QSNFY  1730  20180320201807010000010 X2d        LF              I
+QO7000000157421730   T1  
+QT7000000132141735   T1  
+QDNFY  2d  IRail Station -  Foyle Street Buscentre                              
+QSNFY  1830  20180320201807010000010 X2d        LF              I
+QO7000000157421830   T1  
+QT7000000132141835   T1  
+QDNFY  2d  IRail Station -  Foyle Street Buscentre                              
+QSNFY  1930  20180320201807010000010 X2d        LF              I
+QO7000000157421930   T1  
+QT7000000132141935   T1  
+QDNFY  2d  IRail Station -  Foyle Street Buscentre                              
+QSNFY  2030  20180320201807010000010 X2d        LF              I
+QO7000000157422030   T1  
+QT7000000132142035   T1  
+QDNFY  2d  IRail Station -  Foyle Street Buscentre                              
+QSNFY  2130  20180320201807010000010 X2d        LF              I
+QO7000000157422130   T1  
+QT7000000132142135   T1  
+QDNFY  2d  IRail Station -  Foyle Street Buscentre                              
+QSNFY  2230  20180320201807010000010 X2d        LF              I
+QO7000000157422230   T1  
+QT7000000132142235   T1  
+QDNFY  2d  IRail Station -  Foyle Street Buscentre                              
+QSNFY  2330  20180320201807010000010 X2d        LF              I
+QO7000000157422330   T1  
+QT7000000132142335   T1  
+QDNFY  2d  OFoyle Street Buscentre - Rail Station                               
+QSNFY  0915  20180320201807010000001 X2d        LF              O
+QO7000000132140915   T1  
+QT7000000157420920   T1  
+QDNFY  2d  OFoyle Street Buscentre - Rail Station                               
+QSNFY  1115  20180320201807010000001 X2d        LF              O
+QO7000000132141120   T1  
+QT7000000157421125   T1  
+QDNFY  2d  OFoyle Street Buscentre - Rail Station                               
+QSNFY  1315  20180320201807010000001 X2d        LF              O
+QO7000000132141315   T1  
+QT7000000157421320   T1  
+QDNFY  2d  OFoyle Street Buscentre - Rail Station                               
+QSNFY  1515  20180320201807010000001 X2d        LF              O
+QO7000000132141515   T1  
+QT7000000157421520   T1  
+QDNFY  2d  OFoyle Street Buscentre - Rail Station                               
+QSNFY  1715  20180320201807010000001 X2d        LF              O
+QO7000000132141715   T1  
+QT7000000157421720   T1  
+QDNFY  2d  OFoyle Street Buscentre - Rail Station                               
+QSNFY  1915  20180320201807010000001 X2d        LF              O
+QO7000000132141915   T1  
+QT7000000157421920   T1  
+QDNFY  2d  IRail Station -  Foyle Street Buscentre                              
+QSNFY  1130  20180320201807010000001 X2d        LF              I
+QO7000000157421130   T1  
+QT7000000132141135   T1  
+QDNFY  2d  IRail Station -  Foyle Street Buscentre                              
+QSNFY  1330  20180320201807010000001 X2d        LF              I
+QO7000000157421330   T1  
+QT7000000132141335   T1  
+QDNFY  2d  IRail Station -  Foyle Street Buscentre                              
+QSNFY  1530  20180320201807010000001 X2d        LF              I
+QO7000000157421530   T1  
+QT7000000132141535   T1  
+QDNFY  2d  IRail Station -  Foyle Street Buscentre                              
+QSNFY  1730  20180320201807010000001 X2d        LF              I
+QO7000000157421730   T1  
+QT7000000132141735   T1  
+QDNFY  2d  IRail Station -  Foyle Street Buscentre                              
+QSNFY  1930  20180320201807010000001 X2d        LF              I
+QO7000000157421930   T1  
+QT7000000132141935   T1  
+QDNFY  2d  IRail Station -  Foyle Street Buscentre                              
+QSNFY  2130  20180320201807010000001 X2d        LF              I
+QO7000000157422130   T1  
+QT7000000132142135   T1  
+QLN700000013214Foyle Street Depot
+QBN700000013214243685  416800
+QLN700000015742Railway Station
+QBN700000015742244001  416255
+QPNFY  ULSTERBUS FOYLE         ULSTERBUS FOYLE
+QQ
+QVNGL
+QVNLF      LOWFLOOR
+QDNFY  2d  OFoyle Street Buscentre - Rail Station
+QDNFY  2d  IRail Station -  Foyle Street Buscentre

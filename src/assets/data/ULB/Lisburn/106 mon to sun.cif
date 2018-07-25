@@ -1,0 +1,2259 @@
+ATCO-CIF0500Ulsterbus                       OMNITIMES       20161111132407
+QDNULB 106 OBelfast, Europa Buscentre - Crumlin, Main Street                    
+QSNULB 0710  20170901201804081111100 X106                       O
+QO7000000153630710   T1  
+QNp    pick up only                                                            
+QI70000000039607110711P   T0  
+QNp    pick up only                                                            
+QI70000000039807110711P   T0  
+QNp    pick up only                                                            
+QI70000000049607110711P   T0  
+QNp    pick up only                                                            
+QI70000000049807120712P   T0  
+QNp    pick up only                                                            
+QI70000000050207130713P   T0  
+QNp    pick up only                                                            
+QI70000000178907150715P   T1  
+QNp    pick up only                                                            
+QI70000000179107150715P   T0  
+QNp    pick up only                                                            
+QI70000000179207150715P   T0  
+QNp    pick up only                                                            
+QI70000000179307170717P   T0  
+QNp    pick up only                                                            
+QI70000000179407180718P   T0  
+QNp    pick up only                                                            
+QI70000000179507190719P   T0  
+QNp    pick up only                                                            
+QI70000000179607190719P   T0  
+QNp    pick up only                                                            
+QI70000000179707190719P   T0  
+QNp    pick up only                                                            
+QI70000000179807190719P   T0  
+QNp    pick up only                                                            
+QI70000000179907190719P   T0  
+QNp    pick up only                                                            
+QI70000000046407190719P   T0  
+QNp    pick up only                                                            
+QI70000000046607200720P   T1  
+QNp    pick up only                                                            
+QI70000000047007200720P   T0  
+QNp    pick up only                                                            
+QI70000000028607200720B   T0  
+QI70000000281307230723B   T0  
+QI70000000281407230723B   T0  
+QI70000000281007240724B   T0  
+QI70000000281507250725B   T1  
+QI70000000281607280728B   T0  
+QI70000000281707300730B   T1  
+QI70000000281907320732B   T0  
+QI70000000280207330733B   T0  
+QI70000000280307380738S   T1  
+QI70000000350907430743S   T0  
+QI70000000349007440744S   T0  
+QT7000000034940745   T1  
+QDNULB 106 OBelfast, Europa Buscentre - Crumlin, Main Street                    
+QSNULB 0840  20170901201804081111100HX106                       O
+QNNSch School holidays only                                                    
+QO7000000153630840   T1  
+QNp    pick up only                                                            
+QI70000000039608410841P   T0  
+QNp    pick up only                                                            
+QI70000000039808410841P   T0  
+QNp    pick up only                                                            
+QI70000000049608410841P   T0  
+QNp    pick up only                                                            
+QI70000000049808420842P   T0  
+QNp    pick up only                                                            
+QI70000000050208430843P   T0  
+QNp    pick up only                                                            
+QI70000000178908450845P   T1  
+QNp    pick up only                                                            
+QI70000000179108450845P   T0  
+QNp    pick up only                                                            
+QI70000000179208450845P   T0  
+QNp    pick up only                                                            
+QI70000000179308470847P   T0  
+QNp    pick up only                                                            
+QI70000000179408480848P   T0  
+QNp    pick up only                                                            
+QI70000000179508490849P   T0  
+QNp    pick up only                                                            
+QI70000000179608490849P   T0  
+QNp    pick up only                                                            
+QI70000000179708490849P   T0  
+QNp    pick up only                                                            
+QI70000000179808490849P   T0  
+QNp    pick up only                                                            
+QI70000000179908490849P   T0  
+QNp    pick up only                                                            
+QI70000000046408490849P   T0  
+QNp    pick up only                                                            
+QI70000000046608500850P   T1  
+QNp    pick up only                                                            
+QI70000000047008500850P   T0  
+QNp    pick up only                                                            
+QI70000000028608510851B   T0  
+QI70000000281308570857B   T0  
+QI70000000281408570857B   T0  
+QI70000000281009000900B   T0  
+QI70000000281509010901B   T1  
+QI70000000281609060906B   T0  
+QI70000000281709100910B   T1  
+QI70000000281909120912B   T0  
+QI70000000280209130913B   T0  
+QI70000000280309180918S   T1  
+QI70000000350909230923S   T0  
+QI70000000349009240924S   T0  
+QT7000000034940925   T1  
+QDNULB 106 OBelfast, Europa Buscentre - Crumlin, Main Street                    
+QSNULB 0850  20170901201804081111100SX106                       O
+QNSch  School terms only                                                       
+QO7000000153630850   T1  
+QNp    pick up only                                                            
+QI70000000039608510851P   T0  
+QNp    pick up only                                                            
+QI70000000039808510851P   T0  
+QNp    pick up only                                                            
+QI70000000049608510851P   T0  
+QNp    pick up only                                                            
+QI70000000049808520852P   T0  
+QNp    pick up only                                                            
+QI70000000050208530853P   T0  
+QNp    pick up only                                                            
+QI70000000178908550855P   T1  
+QNp    pick up only                                                            
+QI70000000179108550855P   T0  
+QNp    pick up only                                                            
+QI70000000179208550855P   T0  
+QNp    pick up only                                                            
+QI70000000179308570857P   T0  
+QNp    pick up only                                                            
+QI70000000179408580858P   T0  
+QNp    pick up only                                                            
+QI70000000179508590859P   T0  
+QNp    pick up only                                                            
+QI70000000179608590859P   T0  
+QNp    pick up only                                                            
+QI70000000179708590859P   T0  
+QNp    pick up only                                                            
+QI70000000179808590859P   T0  
+QNp    pick up only                                                            
+QI70000000179908590859P   T0  
+QNp    pick up only                                                            
+QI70000000046408590859P   T0  
+QNp    pick up only                                                            
+QI70000000046609000900P   T1  
+QNp    pick up only                                                            
+QI70000000047009000900P   T0  
+QNp    pick up only                                                            
+QI70000000028609010901B   T0  
+QI70000000281309070907B   T0  
+QI70000000281409070907B   T0  
+QI70000000281009100910B   T0  
+QI70000000281509110911B   T1  
+QI70000000281609160916B   T0  
+QI70000000281709200920B   T1  
+QI70000000281909220922B   T0  
+QI70000000280209230923B   T0  
+QI70000000280309280928S   T1  
+QI70000000350909330933S   T0  
+QI70000000349009340934S   T0  
+QT7000000034940935   T1  
+QDNULB 106aOBelfast, Europa Buscentre - Crumlin, Main Street                    
+QSNULB 0945  20170901201804081111100 X106a                      O
+QO7000000153630945   T1  
+QNp    pick up only                                                            
+QI70000000039609460946P   T0  
+QNp    pick up only                                                            
+QI70000000039809470947P   T0  
+QNp    pick up only                                                            
+QI70000000049609480948P   T0  
+QNp    pick up only                                                            
+QI70000000049809480948P   T0  
+QNp    pick up only                                                            
+QI70000000050209490949P   T0  
+QNp    pick up only                                                            
+QI70000000178909500950P   T1  
+QNp    pick up only                                                            
+QI70000000179109500950P   T0  
+QNp    pick up only                                                            
+QI70000000179209500950P   T0  
+QNp    pick up only                                                            
+QI70000000179309520952P   T0  
+QNp    pick up only                                                            
+QI70000000179409530953P   T0  
+QNp    pick up only                                                            
+QI70000000179509540954P   T0  
+QNp    pick up only                                                            
+QI70000000179609540954P   T0  
+QNp    pick up only                                                            
+QI70000000179709540954P   T0  
+QNp    pick up only                                                            
+QI70000000179809540954P   T0  
+QNp    pick up only                                                            
+QI70000000179909540954P   T0  
+QNp    pick up only                                                            
+QI70000000046409540954P   T0  
+QNp    pick up only                                                            
+QI70000000046609550955P   T1  
+QNp    pick up only                                                            
+QI70000000047009560956P   T0  
+QNp    pick up only                                                            
+QI70000000028209570957B   T0  
+QI70000000028409580958B   T0  
+QI70000000176509590959B   T1  
+QI70000000176609590959B   T0  
+QI70000000176709590959B   T0  
+QI70000000176809590959B   T0  
+QI70000000176910001000B   T0  
+QI70000000177010001000B   T0  
+QI70000000177110011001B   T0  
+QI70000000177310011001B   T0  
+QI70000000228210081008B   T0  
+QI70000000279710101010B   T1  
+QI70000000279810111011B   T0  
+QI70000000279910131013B   T0  
+QI70000000280010131013B   T0  
+QI70000000280110161016B   T0  
+QI70000000280210181018B   T0  
+QI70000000280310231023S   T1  
+QI70000001557510241024S   T0  
+QI70000000350910281028S   T0  
+QI70000000349010291029S   T0  
+QT7000000034941030   T1  
+QDNULB 106 OBelfast, Europa Buscentre - Crumlin, Main Street                    
+QSNULB 1030  20170901201804081111100 X106                       O
+QO7000000153631030   T1  
+QNp    pick up only                                                            
+QI70000000039610311031P   T0  
+QNp    pick up only                                                            
+QI70000000039810311031P   T0  
+QNp    pick up only                                                            
+QI70000000049610311031P   T0  
+QNp    pick up only                                                            
+QI70000000049810321032P   T0  
+QNp    pick up only                                                            
+QI70000000050210331033P   T0  
+QNp    pick up only                                                            
+QI70000000178910351035P   T1  
+QNp    pick up only                                                            
+QI70000000179110351035P   T0  
+QNp    pick up only                                                            
+QI70000000179210351035P   T0  
+QNp    pick up only                                                            
+QI70000000179310371037P   T0  
+QNp    pick up only                                                            
+QI70000000179410381038P   T0  
+QNp    pick up only                                                            
+QI70000000179510391039P   T0  
+QNp    pick up only                                                            
+QI70000000179610391039P   T0  
+QNp    pick up only                                                            
+QI70000000179710391039P   T0  
+QNp    pick up only                                                            
+QI70000000179810391039P   T0  
+QNp    pick up only                                                            
+QI70000000179910391039P   T0  
+QNp    pick up only                                                            
+QI70000000046410391039P   T0  
+QNp    pick up only                                                            
+QI70000000046610401040P   T1  
+QNp    pick up only                                                            
+QI70000000047010401040P   T0  
+QNp    pick up only                                                            
+QI70000000028610411041B   T0  
+QI70000000281310471047B   T0  
+QI70000000281410471047B   T0  
+QI70000000281010501050B   T0  
+QI70000000281510511051B   T1  
+QI70000000281610561056B   T0  
+QI70000000281711001100B   T1  
+QI70000000281911021102B   T0  
+QI70000000280211031103B   T0  
+QI70000000280311081108S   T1  
+QI70000000350911201120S   T0  
+QI70000000349011231123S   T0  
+QT7000000034941125   T1  
+QDNULB 106 OBelfast, Europa Buscentre - Crumlin, Main Street                    
+QSNULB 1200  20170901201804081111100 X106                       O
+QO7000000153631145   T1  
+QNp    pick up only                                                            
+QI70000000039611461146P   T0  
+QNp    pick up only                                                            
+QI70000000039811461146P   T0  
+QNp    pick up only                                                            
+QI70000000049611461146P   T0  
+QNp    pick up only                                                            
+QI70000000049811471147P   T0  
+QNp    pick up only                                                            
+QI70000000050211481148P   T0  
+QNp    pick up only                                                            
+QI70000000178911501150P   T1  
+QNp    pick up only                                                            
+QI70000000179111501150P   T0  
+QNp    pick up only                                                            
+QI70000000179211501150P   T0  
+QNp    pick up only                                                            
+QI70000000179311521152P   T0  
+QNp    pick up only                                                            
+QI70000000179411531153P   T0  
+QNp    pick up only                                                            
+QI70000000179511541154P   T0  
+QNp    pick up only                                                            
+QI70000000179611541154P   T0  
+QNp    pick up only                                                            
+QI70000000179711541154P   T0  
+QNp    pick up only                                                            
+QI70000000179811541154P   T0  
+QNp    pick up only                                                            
+QI70000000179911541154P   T0  
+QNp    pick up only                                                            
+QI70000000046411541154P   T0  
+QNp    pick up only                                                            
+QI70000000046611551155P   T1  
+QNp    pick up only                                                            
+QI70000000047011551155P   T0  
+QNp    pick up only                                                            
+QI70000000028611551155B   T0  
+QI70000000281311581158B   T0  
+QI70000000281411581158B   T0  
+QI70000000281011591159B   T0  
+QI70000000281512001200B   T1  
+QI70000000281612031203B   T0  
+QI70000000281712051205B   T1  
+QI70000000281912091209B   T0  
+QI70000000280212121212B   T0  
+QI70000000280312201220S   T1  
+QI70000000350912271227S   T0  
+QI70000000349012291229S   T0  
+QT7000000034941230   T1  
+QDNULB 106aOBelfast, Europa Buscentre - Crumlin, Main Street                    
+QSNULB 1230  20170901201804081111100HX106a                      O
+QNNSch School holidays only                                                    
+QO7000000153631230   T1  
+QNp    pick up only                                                            
+QI70000000039612311231P   T0  
+QNp    pick up only                                                            
+QI70000000039812321232P   T0  
+QNp    pick up only                                                            
+QI70000000049612331233P   T0  
+QNp    pick up only                                                            
+QI70000000049812331233P   T0  
+QNp    pick up only                                                            
+QI70000000050212341234P   T0  
+QNp    pick up only                                                            
+QI70000000178912351235P   T1  
+QNp    pick up only                                                            
+QI70000000179112351235P   T0  
+QNp    pick up only                                                            
+QI70000000179212351235P   T0  
+QNp    pick up only                                                            
+QI70000000179312371237P   T0  
+QNp    pick up only                                                            
+QI70000000179412381238P   T0  
+QNp    pick up only                                                            
+QI70000000179512391239P   T0  
+QNp    pick up only                                                            
+QI70000000179612391239P   T0  
+QNp    pick up only                                                            
+QI70000000179712391239P   T0  
+QNp    pick up only                                                            
+QI70000000179812391239P   T0  
+QNp    pick up only                                                            
+QI70000000179912391239P   T0  
+QNp    pick up only                                                            
+QI70000000046412391239P   T0  
+QNp    pick up only                                                            
+QI70000000046612401240P   T1  
+QNp    pick up only                                                            
+QI70000000047012411241P   T0  
+QNp    pick up only                                                            
+QI70000000028212421242B   T0  
+QI70000000028412431243B   T0  
+QI70000000176512441244B   T1  
+QI70000000176612441244B   T0  
+QI70000000176712441244B   T0  
+QI70000000176812441244B   T0  
+QI70000000176912451245B   T0  
+QI70000000177012451245B   T0  
+QI70000000177112461246B   T0  
+QI70000000177312461246B   T0  
+QI70000000228212531253B   T0  
+QI70000000279712551255B   T1  
+QI70000000279812561256B   T0  
+QI70000000279912581258B   T0  
+QI70000000280012581258B   T0  
+QI70000000280113011301B   T0  
+QI70000000280213031303B   T0  
+QI70000000280313081308S   T1  
+QI70000001557513091309S   T0  
+QI70000000350913131313S   T0  
+QI70000000349013141314S   T0  
+QT7000000034941315   T1  
+QDNULB 106aOBelfast, Europa Buscentre - Crumlin, Main Street                    
+QSNULB 1430  20170901201804081111100 X106a                      O
+QO7000000153631430   T1  
+QNp    pick up only                                                            
+QI70000000039614311431P   T0  
+QNp    pick up only                                                            
+QI70000000039814321432P   T0  
+QNp    pick up only                                                            
+QI70000000049614331433P   T0  
+QNp    pick up only                                                            
+QI70000000049814331433P   T0  
+QNp    pick up only                                                            
+QI70000000050214341434P   T0  
+QNp    pick up only                                                            
+QI70000000178914351435P   T1  
+QNp    pick up only                                                            
+QI70000000179114351435P   T0  
+QNp    pick up only                                                            
+QI70000000179214351435P   T0  
+QNp    pick up only                                                            
+QI70000000179314371437P   T0  
+QNp    pick up only                                                            
+QI70000000179414381438P   T0  
+QNp    pick up only                                                            
+QI70000000179514391439P   T0  
+QNp    pick up only                                                            
+QI70000000179614391439P   T0  
+QNp    pick up only                                                            
+QI70000000179714391439P   T0  
+QNp    pick up only                                                            
+QI70000000179814391439P   T0  
+QNp    pick up only                                                            
+QI70000000179914391439P   T0  
+QNp    pick up only                                                            
+QI70000000046414391439P   T0  
+QNp    pick up only                                                            
+QI70000000046614401440P   T1  
+QNp    pick up only                                                            
+QI70000000047014411441P   T0  
+QNp    pick up only                                                            
+QI70000000028214421442B   T0  
+QI70000000028414431443B   T0  
+QI70000000176514441444B   T1  
+QI70000000176614441444B   T0  
+QI70000000176714441444B   T0  
+QI70000000176814441444B   T0  
+QI70000000176914451445B   T0  
+QI70000000177014451445B   T0  
+QI70000000177114461446B   T0  
+QI70000000177314461446B   T0  
+QI70000000228214531453B   T0  
+QI70000000279714551455B   T1  
+QI70000000279814561456B   T0  
+QI70000000279914581458B   T0  
+QI70000000280014581458B   T0  
+QI70000000280115011501B   T0  
+QI70000000280215031503B   T0  
+QI70000000280315081508S   T1  
+QI70000001557515091509S   T0  
+QI70000000350915131513S   T0  
+QI70000000349015141514S   T0  
+QT7000000034941515   T1  
+QDNULB 106 OBelfast, Europa Buscentre - Crumlin, Main Street                    
+QSNULB 1530  20170901201804081111100 X106                       O
+QO7000000153631530   T1  
+QNp    pick up only                                                            
+QI70000000039615311531P   T0  
+QNp    pick up only                                                            
+QI70000000039815311531P   T0  
+QNp    pick up only                                                            
+QI70000000049615311531P   T0  
+QNp    pick up only                                                            
+QI70000000049815321532P   T0  
+QNp    pick up only                                                            
+QI70000000050215331533P   T0  
+QNp    pick up only                                                            
+QI70000000178915351535P   T1  
+QNp    pick up only                                                            
+QI70000000179115351535P   T0  
+QNp    pick up only                                                            
+QI70000000179215351535P   T0  
+QNp    pick up only                                                            
+QI70000000179315371537P   T0  
+QNp    pick up only                                                            
+QI70000000179415381538P   T0  
+QNp    pick up only                                                            
+QI70000000179515391539P   T0  
+QNp    pick up only                                                            
+QI70000000179615391539P   T0  
+QNp    pick up only                                                            
+QI70000000179715391539P   T0  
+QNp    pick up only                                                            
+QI70000000179815391539P   T0  
+QNp    pick up only                                                            
+QI70000000179915391539P   T0  
+QNp    pick up only                                                            
+QI70000000046415391539P   T0  
+QNp    pick up only                                                            
+QI70000000046615401540P   T1  
+QNp    pick up only                                                            
+QI70000000047015401540P   T0  
+QNp    pick up only                                                            
+QI70000000028615411541B   T0  
+QI70000000281315471547B   T0  
+QI70000000281415471547B   T0  
+QI70000000281015501550B   T0  
+QI70000000281515511551B   T1  
+QI70000000281615561556B   T0  
+QI70000000281716001600B   T1  
+QI70000000281916021602B   T0  
+QI70000000280216031603B   T0  
+QI70000000280316081608S   T1  
+QI70000000350916131613S   T0  
+QI70000000349016141614S   T0  
+QT7000000034941615   T1  
+QDNULB 106 OBelfast, Europa Buscentre - Crumlin, Main Street                    
+QSNULB 1700  20170901201804081111100SX106       SB              O
+QNSch  School terms only                                                       
+QO7000000153631645   T1  
+QNp    pick up only                                                            
+QI70000000039616461646P   T0  
+QNp    pick up only                                                            
+QI70000000039816461646P   T0  
+QNp    pick up only                                                            
+QI70000000049616461646P   T0  
+QNp    pick up only                                                            
+QI70000000049816471647P   T0  
+QNp    pick up only                                                            
+QI70000000050216481648P   T0  
+QNp    pick up only                                                            
+QI70000000178916501650P   T1  
+QNp    pick up only                                                            
+QI70000000179116501650P   T0  
+QNp    pick up only                                                            
+QI70000000179216501650P   T0  
+QNp    pick up only                                                            
+QI70000000179316521652P   T0  
+QNp    pick up only                                                            
+QI70000000179416531653P   T0  
+QNp    pick up only                                                            
+QI70000000179516541654P   T0  
+QNp    pick up only                                                            
+QI70000000179616541654P   T0  
+QNp    pick up only                                                            
+QI70000000179716541654P   T0  
+QNp    pick up only                                                            
+QI70000000179816541654P   T0  
+QNp    pick up only                                                            
+QI70000000179916541654P   T0  
+QNp    pick up only                                                            
+QI70000000046416541654P   T0  
+QNp    pick up only                                                            
+QI70000000046616551655P   T1  
+QNp    pick up only                                                            
+QI70000000047016551655P   T0  
+QNp    pick up only                                                            
+QI70000000028616561656B   T0  
+QI70000000281317021702B   T0  
+QI70000000281417021702B   T0  
+QI70000000281017051705B   T0  
+QI70000000281517061706B   T1  
+QI70000000281617111711B   T0  
+QI70000000281717151715B   T1  
+QI70000000281917171717B   T0  
+QI70000000280217181718B   T0  
+QI70000000280317231723S   T1  
+QI70000000350917281728S   T0  
+QI70000000349017291729S   T0  
+QT7000000034941730   T1  
+QDNULB 106 OBelfast, Europa Buscentre - Crumlin, Main Street                    
+QSNULB       20170901201804081111100 X106       SB              O
+QO7000000153631700   T1  
+QNp    pick up only                                                            
+QI70000000039617011701P   T0  
+QNp    pick up only                                                            
+QI70000000039817011701P   T0  
+QNp    pick up only                                                            
+QI70000000049617011701P   T0  
+QNp    pick up only                                                            
+QI70000000049817021702P   T0  
+QNp    pick up only                                                            
+QI70000000050217031703P   T0  
+QNp    pick up only                                                            
+QI70000000178917051705P   T1  
+QNp    pick up only                                                            
+QI70000000179117051705P   T0  
+QNp    pick up only                                                            
+QI70000000179217051705P   T0  
+QNp    pick up only                                                            
+QI70000000179317071707P   T0  
+QNp    pick up only                                                            
+QI70000000179417081708P   T0  
+QNp    pick up only                                                            
+QI70000000179517091709P   T0  
+QNp    pick up only                                                            
+QI70000000179617091709P   T0  
+QNp    pick up only                                                            
+QI70000000179717091709P   T0  
+QNp    pick up only                                                            
+QI70000000179817091709P   T0  
+QNp    pick up only                                                            
+QI70000000179917091709P   T0  
+QNp    pick up only                                                            
+QI70000000046417091709P   T0  
+QNp    pick up only                                                            
+QI70000000046617101710P   T1  
+QNp    pick up only                                                            
+QI70000000047017101710P   T0  
+QNp    pick up only                                                            
+QI70000000028617111711B   T0  
+QI70000000281317171717B   T0  
+QI70000000281417171717B   T0  
+QI70000000281017201720B   T0  
+QI70000000281517211721B   T1  
+QI70000000281617261726B   T0  
+QI70000000281717301730B   T1  
+QI70000000281917321732B   T0  
+QI70000000280217331733B   T0  
+QI70000000280317381738S   T1  
+QI70000000350917431743S   T0  
+QI70000000349017441744S   T0  
+QT7000000034941745   T1  
+QDNULB 106 OBelfast, Europa Buscentre - Crumlin, Main Street                    
+QSNULB 1755  20170901201804081111100SX106                       O
+QNSch  School terms only                                                       
+QO7000000153631755   T1  
+QNp    pick up only                                                            
+QI70000000039617561756P   T0  
+QNp    pick up only                                                            
+QI70000000039817561756P   T0  
+QNp    pick up only                                                            
+QI70000000049617561756P   T0  
+QNp    pick up only                                                            
+QI70000000049817571757P   T0  
+QNp    pick up only                                                            
+QI70000000050217581758P   T0  
+QNp    pick up only                                                            
+QI70000000178918001800P   T1  
+QNp    pick up only                                                            
+QI70000000179118001800P   T0  
+QNp    pick up only                                                            
+QI70000000179218001800P   T0  
+QNp    pick up only                                                            
+QI70000000179318021802P   T0  
+QNp    pick up only                                                            
+QI70000000179418031803P   T0  
+QNp    pick up only                                                            
+QI70000000179518041804P   T0  
+QNp    pick up only                                                            
+QI70000000179618041804P   T0  
+QNp    pick up only                                                            
+QI70000000179718041804P   T0  
+QNp    pick up only                                                            
+QI70000000179818041804P   T0  
+QNp    pick up only                                                            
+QI70000000179918041804P   T0  
+QNp    pick up only                                                            
+QI70000000046418041804P   T0  
+QNp    pick up only                                                            
+QI70000000046618051805P   T1  
+QNp    pick up only                                                            
+QI70000000047018051805P   T0  
+QNp    pick up only                                                            
+QI70000000028618061806B   T0  
+QI70000000281318121812B   T0  
+QI70000000281418121812B   T0  
+QI70000000281018151815B   T0  
+QI70000000281518161816B   T1  
+QI70000000281618211821B   T0  
+QI70000000281718251825B   T1  
+QI70000000281918271827B   T0  
+QI70000000280218281828B   T0  
+QI70000000280318331833S   T1  
+QI70000000350918381838S   T0  
+QI70000000349018391839S   T0  
+QT7000000034941840   T1  
+QDNULB 106 OBelfast, Europa Buscentre - Crumlin, Main Street                    
+QSNULB 1805  20170901201804081111100HX106                       O
+QNNSch School holidays only                                                    
+QO7000000153631805   T1  
+QNp    pick up only                                                            
+QI70000000039618061806P   T0  
+QNp    pick up only                                                            
+QI70000000039818061806P   T0  
+QNp    pick up only                                                            
+QI70000000049618061806P   T0  
+QNp    pick up only                                                            
+QI70000000049818071807P   T0  
+QNp    pick up only                                                            
+QI70000000050218081808P   T0  
+QNp    pick up only                                                            
+QI70000000178918101810P   T1  
+QNp    pick up only                                                            
+QI70000000179118101810P   T0  
+QNp    pick up only                                                            
+QI70000000179218101810P   T0  
+QNp    pick up only                                                            
+QI70000000179318121812P   T0  
+QNp    pick up only                                                            
+QI70000000179418131813P   T0  
+QNp    pick up only                                                            
+QI70000000179518141814P   T0  
+QNp    pick up only                                                            
+QI70000000179618141814P   T0  
+QNp    pick up only                                                            
+QI70000000179718141814P   T0  
+QNp    pick up only                                                            
+QI70000000179818141814P   T0  
+QNp    pick up only                                                            
+QI70000000179918141814P   T0  
+QNp    pick up only                                                            
+QI70000000046418141814P   T0  
+QNp    pick up only                                                            
+QI70000000046618151815P   T1  
+QNp    pick up only                                                            
+QI70000000047018151815P   T0  
+QNp    pick up only                                                            
+QI70000000028618161816B   T0  
+QI70000000281318221822B   T0  
+QI70000000281418221822B   T0  
+QI70000000281018251825B   T0  
+QI70000000281518261826B   T1  
+QI70000000281618311831B   T0  
+QI70000000281718351835B   T1  
+QI70000000281918371837B   T0  
+QI70000000280218381838B   T0  
+QI70000000280318431843S   T1  
+QI70000000350918481848S   T0  
+QI70000000349018491849S   T0  
+QT7000000034941850   T1  
+QDNULB 106 OBelfast, Europa Buscentre - Crumlin, Main Street                    
+QSNULB 1855  20170901201804081111100 X106                       O
+QO7000000153631855   T1  
+QNp    pick up only                                                            
+QI70000000039618561856P   T0  
+QNp    pick up only                                                            
+QI70000000039818561856P   T0  
+QNp    pick up only                                                            
+QI70000000049618561856P   T0  
+QNp    pick up only                                                            
+QI70000000049818571857P   T0  
+QNp    pick up only                                                            
+QI70000000050218581858P   T0  
+QNp    pick up only                                                            
+QI70000000178919001900P   T1  
+QNp    pick up only                                                            
+QI70000000179119001900P   T0  
+QNp    pick up only                                                            
+QI70000000179219001900P   T0  
+QNp    pick up only                                                            
+QI70000000179319021902P   T0  
+QNp    pick up only                                                            
+QI70000000179419031903P   T0  
+QNp    pick up only                                                            
+QI70000000179519041904P   T0  
+QNp    pick up only                                                            
+QI70000000179619041904P   T0  
+QNp    pick up only                                                            
+QI70000000179719041904P   T0  
+QNp    pick up only                                                            
+QI70000000179819041904P   T0  
+QNp    pick up only                                                            
+QI70000000179919041904P   T0  
+QNp    pick up only                                                            
+QI70000000046419041904P   T0  
+QNp    pick up only                                                            
+QI70000000046619051905P   T1  
+QNp    pick up only                                                            
+QI70000000047019051905P   T0  
+QNp    pick up only                                                            
+QI70000000028619051905B   T0  
+QI70000000281319081908B   T0  
+QI70000000281419081908B   T0  
+QI70000000281019091909B   T0  
+QI70000000281519101910B   T1  
+QI70000000281619131913B   T0  
+QI70000000281719151915B   T1  
+QI70000000281919191919B   T0  
+QI70000000280219221922B   T0  
+QI70000000280319301930S   T1  
+QI70000000350919331933S   T0  
+QI70000000349019341934S   T0  
+QT7000000034941935   T1  
+QDNULB 106 ICrumlin, Main Street - Belfast, Europa Buscentre                    
+QSNULB 0630  20170901201804081111100 X106                       I
+QO7000000034920630   T1  
+QNp    pick up only                                                            
+QI70000000349906300630P   T0  
+QNp    pick up only                                                            
+QI70000000351006300630P   T0  
+QNp    pick up only                                                            
+QI70000000351106310631P   T0  
+QNp    pick up only                                                            
+QI70000000351206310631P   T0  
+QNp    pick up only                                                            
+QI70000001557406340634P   T0  
+QNp    pick up only                                                            
+QI70000000351306340634P   T0  
+QNp    pick up only                                                            
+QI70000000280406350635P   T1  
+QNp    pick up only                                                            
+QI70000000280506370637P   T0  
+QNp    pick up only                                                            
+QI70000000280606380638B   T0  
+QI70000000280706400640B   T1  
+QI70000000280806420642B   T0  
+QI70000000280906450645B   T1  
+QI70000000281106460646B   T0  
+QI70000000281206460646B   T0  
+QI70000000027406490649B   T0  
+QI70000000045806490649B   T0  
+QI70000000046006500650S   T1  
+QI70000000046206500650S   T0  
+QI70000000050406510651S   T0  
+QI70000000050606510651S   T0  
+QI70000000050806520652S   T0  
+QI70000000051006530653S   T0  
+QI70000000051206530653S   T0  
+QI70000000051406530653S   T0  
+QI70000000051606540654S   T0  
+QI70000000051806540654S   T0  
+QI70000000052006540654S   T0  
+QI70000000052206550655S   T1  
+QI70000000052406560656S   T0  
+QI70000000052606570657S   T0  
+QI70000000052806590659S   T0  
+QI70000000053207010701S   T0  
+QI70000000142407040704S   T0  
+QT7000000153630710   T1  
+QDNULB 106 ICrumlin, Main Street - Belfast, Europa Buscentre                    
+QSNULB 0730  20170901201804081111100 X106                       I
+QO7000000034920730   T1  
+QNp    pick up only                                                            
+QI70000000349907300730P   T0  
+QNp    pick up only                                                            
+QI70000000351007300730P   T0  
+QNp    pick up only                                                            
+QI70000000351107310731P   T0  
+QNp    pick up only                                                            
+QI70000000351207310731P   T0  
+QNp    pick up only                                                            
+QI70000001557407340734P   T0  
+QNp    pick up only                                                            
+QI70000000351307340734P   T0  
+QNp    pick up only                                                            
+QI70000000280407350735P   T1  
+QNp    pick up only                                                            
+QI70000000280507370737P   T0  
+QNp    pick up only                                                            
+QI70000000280607380738B   T0  
+QI70000000280707400740B   T1  
+QI70000000280807420742B   T0  
+QI70000000280907450745B   T1  
+QI70000000281107460746B   T0  
+QI70000000281207460746B   T0  
+QI70000000027407490749B   T0  
+QI70000000045807490749B   T0  
+QI70000000046007500750S   T1  
+QI70000000050807520752S   T0  
+QI70000000051007530753S   T0  
+QI70000000051607540754S   T0  
+QI70000000052007540754S   T0  
+QI70000000052207550755S   T1  
+QI70000000052407580758S   T0  
+QI70000000052608000800S   T0  
+QI70000000052808050805S   T0  
+QT7000000005340815   T1  
+QDNULB 106aICrumlin, Main Street - Belfast, Europa Buscentre                    
+QSNULB 0930  20170901201804081111100 X106a                      I
+QO7000000034920930   T1  
+QNp    pick up only                                                            
+QI70000000349909300930P   T0  
+QNp    pick up only                                                            
+QI70000000351009310931P   T0  
+QNp    pick up only                                                            
+QI70000000351109310931P   T0  
+QNp    pick up only                                                            
+QI70000000351209310931P   T0  
+QNp    pick up only                                                            
+QI70000001557409350935P   T0  
+QNp    pick up only                                                            
+QI70000000351309350935P   T0  
+QNp    pick up only                                                            
+QI70000000280409360936P   T1  
+QNp    pick up only                                                            
+QI70000000280509410941P   T0  
+QNp    pick up only                                                            
+QI70000000282009440944B   T0  
+QI70000000282109460946B   T0  
+QI70000000282209470947B   T0  
+QI70000000282309500950B   T0  
+QI70000000282409520952B   T1  
+QI70000000228309530953B   T0  
+QI70000000037410001000B   T0  
+QI70000000037810001000B   T0  
+QI70000000038010011001B   T0  
+QI70000001606910011001B   T0  
+QI70000000038210011001B   T0  
+QI70000000038410011001B   T0  
+QI70000000038610021002B   T0  
+QI70000000039010031003B   T1  
+QI70000000027610031003B   T0  
+QI70000000028010031003B   T0  
+QI70000000045810031003B   T0  
+QI70000000046010041004S   T1  
+QI70000000046210041004S   T0  
+QI70000000050410051005S   T0  
+QI70000000050610051005S   T0  
+QI70000000050810061006S   T0  
+QI70000000051010071007S   T0  
+QI70000000051210071007S   T0  
+QI70000000051410071007S   T0  
+QI70000000051610081008S   T0  
+QI70000000051810081008S   T0  
+QI70000000052010081008S   T0  
+QI70000000052210091009S   T1  
+QI70000000052410091009S   T0  
+QI70000000052610101010S   T0  
+QI70000000052810121012S   T0  
+QI70000000053210131013S   T0  
+QI70000000142410161016S   T0  
+QT7000000153631030   T1  
+QDNULB 106 ICrumlin, Main Street - Belfast, Europa Buscentre                    
+QSNULB 1130  20170901201804081111100 X106                       I
+QO7000000034921130   T1  
+QNp    pick up only                                                            
+QI70000000349911301130P   T0  
+QNp    pick up only                                                            
+QI70000000351011311131P   T0  
+QNp    pick up only                                                            
+QI70000000351111311131P   T0  
+QNp    pick up only                                                            
+QI70000000351211311131P   T0  
+QNp    pick up only                                                            
+QI70000001557411351135P   T0  
+QNp    pick up only                                                            
+QI70000000351311351135P   T0  
+QNp    pick up only                                                            
+QI70000000280411361136P   T1  
+QNp    pick up only                                                            
+QI70000000280511431143P   T0  
+QNp    pick up only                                                            
+QI70000000280611461146B   T0  
+QI70000000280711501150B   T1  
+QI70000000280811531153B   T0  
+QI70000000280911591159B   T1  
+QI70000000281112001200B   T0  
+QI70000000281212001200B   T0  
+QI70000000027412031203B   T0  
+QI70000000045812031203B   T0  
+QI70000000046012041204S   T1  
+QI70000000046212041204S   T0  
+QI70000000050412051205S   T0  
+QI70000000050612051205S   T0  
+QI70000000050812061206S   T0  
+QI70000000051012071207S   T0  
+QI70000000051212071207S   T0  
+QI70000000051412071207S   T0  
+QI70000000051612081208S   T0  
+QI70000000051812081208S   T0  
+QI70000000052012081208S   T0  
+QI70000000052212091209S   T1  
+QI70000000052412091209S   T0  
+QI70000000052612101210S   T0  
+QI70000000052812121212S   T0  
+QI70000000053212131213S   T0  
+QI70000000142412161216S   T0  
+QT7000000153631220   T1  
+QDNULB 106 ICrumlin, Main Street - Belfast, Europa Buscentre                    
+QSNULB 1245  20170901201804081111100 X106                       I
+QO7000000034921245   T1  
+QNp    pick up only                                                            
+QI70000000349912451245P   T0  
+QNp    pick up only                                                            
+QI70000000351012461246P   T0  
+QNp    pick up only                                                            
+QI70000000351112461246P   T0  
+QNp    pick up only                                                            
+QI70000000351212461246P   T0  
+QNp    pick up only                                                            
+QI70000001557412501250P   T0  
+QNp    pick up only                                                            
+QI70000000351312501250P   T0  
+QNp    pick up only                                                            
+QI70000000280412511251P   T1  
+QNp    pick up only                                                            
+QI70000000280512581258P   T0  
+QNp    pick up only                                                            
+QI70000000280613011301B   T0  
+QI70000000280713051305B   T1  
+QI70000000280813081308B   T0  
+QI70000000280913141314B   T1  
+QI70000000281113151315B   T0  
+QI70000000281213151315B   T0  
+QI70000000027413181318B   T0  
+QI70000000045813181318B   T0  
+QI70000000046013191319S   T1  
+QI70000000046213191319S   T0  
+QI70000000050413201320S   T0  
+QI70000000050613201320S   T0  
+QI70000000050813211321S   T0  
+QI70000000051013221322S   T0  
+QI70000000051213221322S   T0  
+QI70000000051413221322S   T0  
+QI70000000051613231323S   T0  
+QI70000000051813231323S   T0  
+QI70000000052013231323S   T0  
+QI70000000052213241324S   T1  
+QI70000000052413241324S   T0  
+QI70000000052613251325S   T0  
+QI70000000052813271327S   T0  
+QI70000000053213281328S   T0  
+QI70000000142413311331S   T0  
+QT7000000153631335   T1  
+QDNULB 106aICrumlin, Main Street - Belfast, Europa Buscentre                    
+QSNULB 1330  20170901201804081111100 X106a                      I
+QO7000000034921330   T1  
+QNp    pick up only                                                            
+QI70000000349913301330P   T0  
+QNp    pick up only                                                            
+QI70000000351013311331P   T0  
+QNp    pick up only                                                            
+QI70000000351113311331P   T0  
+QNp    pick up only                                                            
+QI70000000351213311331P   T0  
+QNp    pick up only                                                            
+QI70000001557413351335P   T0  
+QNp    pick up only                                                            
+QI70000000351313351335P   T0  
+QNp    pick up only                                                            
+QI70000000280413361336P   T1  
+QNp    pick up only                                                            
+QI70000000280513411341P   T0  
+QNp    pick up only                                                            
+QI70000000282013441344B   T0  
+QI70000000282113461346B   T0  
+QI70000000282213471347B   T0  
+QI70000000282313501350B   T0  
+QI70000000282413521352B   T1  
+QI70000000228313531353B   T0  
+QI70000000037414001400B   T0  
+QI70000000037814001400B   T0  
+QI70000000038014011401B   T0  
+QI70000001606914011401B   T0  
+QI70000000038214011401B   T0  
+QI70000000038414011401B   T0  
+QI70000000038614021402B   T0  
+QI70000000039014031403B   T1  
+QI70000000027614031403B   T0  
+QI70000000028014031403B   T0  
+QI70000000045814031403B   T0  
+QI70000000046014041404S   T1  
+QI70000000046214041404S   T0  
+QI70000000050414051405S   T0  
+QI70000000050614051405S   T0  
+QI70000000050814061406S   T0  
+QI70000000051014071407S   T0  
+QI70000000051214071407S   T0  
+QI70000000051414071407S   T0  
+QI70000000051614081408S   T0  
+QI70000000051814081408S   T0  
+QI70000000052014081408S   T0  
+QI70000000052214091409S   T1  
+QI70000000052414091409S   T0  
+QI70000000052614101410S   T0  
+QI70000000052814121412S   T0  
+QI70000000053214131413S   T0  
+QI70000000142414161416S   T0  
+QT7000000153631420   T1  
+QDNULB 106aICrumlin, Main Street - Belfast, Europa Buscentre                    
+QSNULB 1430  20170901201804081111100HX106a                      I
+QNNSch School holidays only                                                    
+QO7000000034921430   T1  
+QNp    pick up only                                                            
+QI70000000349914301430P   T0  
+QNp    pick up only                                                            
+QI70000000351014311431P   T0  
+QNp    pick up only                                                            
+QI70000000351114311431P   T0  
+QNp    pick up only                                                            
+QI70000000351214311431P   T0  
+QNp    pick up only                                                            
+QI70000001557414351435P   T0  
+QNp    pick up only                                                            
+QI70000000351314351435P   T0  
+QNp    pick up only                                                            
+QI70000000280414361436P   T1  
+QNp    pick up only                                                            
+QI70000000280514411441P   T0  
+QNp    pick up only                                                            
+QI70000000282014441444B   T0  
+QI70000000282114461446B   T0  
+QI70000000282214471447B   T0  
+QI70000000282314501450B   T0  
+QI70000000282414521452B   T1  
+QI70000000228314531453B   T0  
+QI70000000037415001500B   T0  
+QI70000000037815001500B   T0  
+QI70000000038015011501B   T0  
+QI70000001606915011501B   T0  
+QI70000000038215011501B   T0  
+QI70000000038415011501B   T0  
+QI70000000038615021502B   T0  
+QI70000000039015031503B   T1  
+QI70000000027615031503B   T0  
+QI70000000028015031503B   T0  
+QI70000000045815031503B   T0  
+QI70000000046015041504S   T1  
+QI70000000046215041504S   T0  
+QI70000000050415051505S   T0  
+QI70000000050615051505S   T0  
+QI70000000050815061506S   T0  
+QI70000000051015071507S   T0  
+QI70000000051215071507S   T0  
+QI70000000051415071507S   T0  
+QI70000000051615081508S   T0  
+QI70000000051815081508S   T0  
+QI70000000052015081508S   T0  
+QI70000000052215091509S   T1  
+QI70000000052415091509S   T0  
+QI70000000052615101510S   T0  
+QI70000000052815121512S   T0  
+QI70000000053215131513S   T0  
+QI70000000142415161516S   T0  
+QT7000000153631520   T1  
+QDNULB 106 ICrumlin, Main Street - Belfast, Europa Buscentre                    
+QSNULB 1605  20170901201804081111100SX106                       I
+QNSch  School terms only                                                       
+QO7000000034921605   T1  
+QNp    pick up only                                                            
+QI70000000349916051605P   T0  
+QNp    pick up only                                                            
+QI70000000351016061606P   T0  
+QNp    pick up only                                                            
+QI70000000351116061606P   T0  
+QNp    pick up only                                                            
+QI70000000351216061606P   T0  
+QNp    pick up only                                                            
+QI70000001557416101610P   T0  
+QNp    pick up only                                                            
+QI70000000351316101610P   T0  
+QNp    pick up only                                                            
+QI70000000280416111611P   T1  
+QNp    pick up only                                                            
+QI70000000280516181618P   T0  
+QNp    pick up only                                                            
+QI70000000280616211621B   T0  
+QI70000000280716251625B   T1  
+QI70000000280816281628B   T0  
+QI70000000280916341634B   T1  
+QI70000000281116351635B   T0  
+QI70000000281216351635B   T0  
+QI70000000027416381638B   T0  
+QI70000000045816381638B   T0  
+QI70000000046016391639S   T1  
+QI70000000046216391639S   T0  
+QI70000000050416401640S   T0  
+QI70000000050616401640S   T0  
+QI70000000050816411641S   T0  
+QI70000000051016421642S   T0  
+QI70000000051216421642S   T0  
+QI70000000051416421642S   T0  
+QI70000000051616431643S   T0  
+QI70000000051816431643S   T0  
+QI70000000052016431643S   T0  
+QI70000000052216441644S   T1  
+QI70000000052416441644S   T0  
+QI70000000052616451645S   T0  
+QI70000000052816471647S   T0  
+QI70000000053216481648S   T0  
+QI70000000142416511651S   T0  
+QT7000000153631655   T1  
+QDNULB 106aICrumlin, Main Street - Belfast, Europa Buscentre                    
+QSNULB 1630  20170901201804081111100SX106a                      I
+QNSch  School terms only                                                       
+QO7000000034921630   T1  
+QNp    pick up only                                                            
+QI70000000349916301630P   T0  
+QNp    pick up only                                                            
+QI70000000351016311631P   T0  
+QNp    pick up only                                                            
+QI70000000351116311631P   T0  
+QNp    pick up only                                                            
+QI70000000351216311631P   T0  
+QNp    pick up only                                                            
+QI70000001557416351635P   T0  
+QNp    pick up only                                                            
+QI70000000351316351635P   T0  
+QNp    pick up only                                                            
+QI70000000280416361636P   T1  
+QNp    pick up only                                                            
+QI70000000280516411641P   T0  
+QNp    pick up only                                                            
+QI70000000282016441644B   T0  
+QI70000000282116461646B   T0  
+QI70000000282216471647B   T0  
+QI70000000282316501650B   T0  
+QI70000000282416521652B   T1  
+QI70000000228316531653B   T0  
+QI70000000037417001700B   T0  
+QI70000000037817001700B   T0  
+QI70000000038017011701B   T0  
+QI70000001606917011701B   T0  
+QI70000000038217011701B   T0  
+QI70000000038417011701B   T0  
+QI70000000038617021702B   T0  
+QI70000000039017031703B   T1  
+QI70000000027617031703B   T0  
+QI70000000028017031703B   T0  
+QI70000000045817031703B   T0  
+QI70000000046017041704S   T1  
+QI70000000046217041704S   T0  
+QI70000000050417051705S   T0  
+QI70000000050617051705S   T0  
+QI70000000050817061706S   T0  
+QI70000000051017071707S   T0  
+QI70000000051217071707S   T0  
+QI70000000051417071707S   T0  
+QI70000000051617081708S   T0  
+QI70000000051817081708S   T0  
+QI70000000052017081708S   T0  
+QI70000000052217091709S   T1  
+QI70000000052417091709S   T0  
+QI70000000052617101710S   T0  
+QI70000000052817121712S   T0  
+QI70000000053217131713S   T0  
+QI70000000142417161716S   T0  
+QT7000000153631720   T1  
+QDNULB 106 ICrumlin, Main Street - Belfast, Europa Buscentre                    
+QSNULB 1655  20170901201804081111100 X106                       I
+QO7000000034921655   T1  
+QNp    pick up only                                                            
+QI70000000349916551655P   T0  
+QNp    pick up only                                                            
+QI70000000351016561656P   T0  
+QNp    pick up only                                                            
+QI70000000351116561656P   T0  
+QNp    pick up only                                                            
+QI70000000351216561656P   T0  
+QNp    pick up only                                                            
+QI70000001557417001700P   T0  
+QNp    pick up only                                                            
+QI70000000351317001700P   T0  
+QNp    pick up only                                                            
+QI70000000280417011701P   T1  
+QNp    pick up only                                                            
+QI70000000280517081708P   T0  
+QNp    pick up only                                                            
+QI70000000280617111711B   T0  
+QI70000000280717151715B   T1  
+QI70000000280817181718B   T0  
+QI70000000280917241724B   T1  
+QI70000000281117251725B   T0  
+QI70000000281217251725B   T0  
+QI70000000027417281728B   T0  
+QI70000000045817281728B   T0  
+QI70000000046017291729S   T1  
+QI70000000046217291729S   T0  
+QI70000000050417301730S   T0  
+QI70000000050617301730S   T0  
+QI70000000050817311731S   T0  
+QI70000000051017321732S   T0  
+QI70000000051217321732S   T0  
+QI70000000051417321732S   T0  
+QI70000000051617331733S   T0  
+QI70000000051817331733S   T0  
+QI70000000052017331733S   T0  
+QI70000000052217341734S   T1  
+QI70000000052417341734S   T0  
+QI70000000052617351735S   T0  
+QI70000000052817371737S   T0  
+QI70000000053217381738S   T0  
+QI70000000142417411741S   T0  
+QT7000000153631745   T1  
+QDNULB 106 ICrumlin, Main Street - Belfast, Europa Buscentre                    
+QSNULB       20170901201804081111100 X106       SB              I
+QO7000000034921800   T1  
+QNp    pick up only                                                            
+QI70000000349918001800P   T0  
+QNp    pick up only                                                            
+QI70000000351018011801P   T0  
+QNp    pick up only                                                            
+QI70000000351118011801P   T0  
+QNp    pick up only                                                            
+QI70000000351218011801P   T0  
+QNp    pick up only                                                            
+QI70000001557418051805P   T0  
+QNp    pick up only                                                            
+QI70000000351318051805P   T0  
+QNp    pick up only                                                            
+QI70000000280418061806P   T1  
+QNp    pick up only                                                            
+QI70000000280518131813P   T0  
+QNp    pick up only                                                            
+QI70000000280618161816B   T0  
+QI70000000280718201820B   T1  
+QI70000000280818231823B   T0  
+QI70000000280918291829B   T1  
+QI70000000281118301830B   T0  
+QI70000000281218301830B   T0  
+QI70000000027418331833B   T0  
+QI70000000045818331833B   T0  
+QI70000000046018341834S   T1  
+QI70000000046218341834S   T0  
+QI70000000050418351835S   T0  
+QI70000000050618351835S   T0  
+QI70000000050818361836S   T0  
+QI70000000051018371837S   T0  
+QI70000000051218371837S   T0  
+QI70000000051418371837S   T0  
+QI70000000051618381838S   T0  
+QI70000000051818381838S   T0  
+QI70000000052018381838S   T0  
+QI70000000052218391839S   T1  
+QI70000000052418391839S   T0  
+QI70000000052618401840S   T0  
+QI70000000052818421842S   T0  
+QI70000000053218431843S   T0  
+QI70000000142418461846S   T0  
+QT7000000153631850   T1  
+QDNULB 106 OBelfast, Europa/GVS Buscentre - Crumlin, Main Street                
+QSNULB       20170901201809020000010 X106                       O
+QO7000000153630825   T1  
+QNp    Pick up only                                                            
+QI70000000039608260826P   T0  
+QNp    Pick up only                                                            
+QI70000000039808270827P   T0  
+QNp    Pick up only                                                            
+QI70000000049608280828P   T0  
+QNp    Pick up only                                                            
+QI70000000049808280828P   T0  
+QNp    Pick up only                                                            
+QI70000000050208290829P   T0  
+QNp    Pick up only                                                            
+QI70000000178908300830P   T1  
+QNp    Pick up only                                                            
+QI70000000179108300830P   T0  
+QNp    Pick up only                                                            
+QI70000000179208310831P   T0  
+QNp    Pick up only                                                            
+QI70000000179308310831P   T0  
+QNp    Pick up only                                                            
+QI70000000179408320832P   T0  
+QNp    Pick up only                                                            
+QI70000000179508320832P   T0  
+QNp    Pick up only                                                            
+QI70000000179608320832P   T0  
+QNp    Pick up only                                                            
+QI70000000179708330833P   T0  
+QNp    Pick up only                                                            
+QI70000000179808330833P   T0  
+QNp    Pick up only                                                            
+QI70000000179908330833P   T0  
+QNp    Pick up only                                                            
+QI70000000046408340834P   T0  
+QNp    Pick up only                                                            
+QI70000000046608350835P   T1  
+QNp    Pick up only                                                            
+QI70000000047008350835B   T0  
+QI70000000028608360836B   T0  
+QI70000000281308420842B   T0  
+QI70000000281408430843B   T0  
+QI70000000281008450845B   T0  
+QI70000000281508460846B   T1  
+QI70000000281608510851B   T0  
+QI70000000281708550855B   T1  
+QI70000000281908580858B   T0  
+QI70000000280209010901B   T0  
+QI70000000280309090909S   T1  
+QNs    Set down only                                                           
+QI70000001557509090909S   T0  
+QNs    Set down only                                                           
+QI70000000350909130913S   T0  
+QNs    Set down only                                                           
+QI70000000349009140914S   T0  
+QNs    Set down only                                                           
+QI70000001552909140914S   T0  
+QNs    Set down only                                                           
+QT7000000155470915   T1  
+QNs    Set down only                                                           
+QDNULB 106 OBelfast, Europa/GVS Buscentre - Crumlin, Main Street                
+QSNULB       20170901201809020000010 X106                       O
+QO7000000153631025   T1  
+QNp    Pick up only                                                            
+QI70000000039610261026P   T0  
+QNp    Pick up only                                                            
+QI70000000039810271027P   T0  
+QNp    Pick up only                                                            
+QI70000000049610281028P   T0  
+QNp    Pick up only                                                            
+QI70000000049810281028P   T0  
+QNp    Pick up only                                                            
+QI70000000050210291029P   T0  
+QNp    Pick up only                                                            
+QI70000000178910301030P   T1  
+QNp    Pick up only                                                            
+QI70000000179110301030P   T0  
+QNp    Pick up only                                                            
+QI70000000179210311031P   T0  
+QNp    Pick up only                                                            
+QI70000000179310311031P   T0  
+QNp    Pick up only                                                            
+QI70000000179410321032P   T0  
+QNp    Pick up only                                                            
+QI70000000179510321032P   T0  
+QNp    Pick up only                                                            
+QI70000000179610321032P   T0  
+QNp    Pick up only                                                            
+QI70000000179710331033P   T0  
+QNp    Pick up only                                                            
+QI70000000179810331033P   T0  
+QNp    Pick up only                                                            
+QI70000000179910331033P   T0  
+QNp    Pick up only                                                            
+QI70000000046410341034P   T0  
+QNp    Pick up only                                                            
+QI70000000046610351035P   T1  
+QNp    Pick up only                                                            
+QI70000000047010351035B   T0  
+QI70000000028610361036B   T0  
+QI70000000281310421042B   T0  
+QI70000000281410431043B   T0  
+QI70000000281010451045B   T0  
+QI70000000281510461046B   T1  
+QI70000000281610511051B   T0  
+QI70000000281710551055B   T1  
+QI70000000281910581058B   T0  
+QI70000000280211011101B   T0  
+QI70000000280311091109S   T1  
+QNs    Set down only                                                           
+QI70000001557511091109S   T0  
+QNs    Set down only                                                           
+QI70000000350911131113S   T0  
+QNs    Set down only                                                           
+QI70000000349011141114S   T0  
+QNs    Set down only                                                           
+QI70000001552911141114S   T0  
+QNs    Set down only                                                           
+QT7000000155471115   T1  
+QNs    Set down only                                                           
+QDNULB 106 OBelfast, Europa/GVS Buscentre - Crumlin, Main Street                
+QSNULB 1230  20170901201809020000010 X106                       O
+QO7000000153631225   T1  
+QNp    Pick up only                                                            
+QI70000000039612261226P   T0  
+QNp    Pick up only                                                            
+QI70000000039812271227P   T0  
+QNp    Pick up only                                                            
+QI70000000049612281228P   T0  
+QNp    Pick up only                                                            
+QI70000000049812281228P   T0  
+QNp    Pick up only                                                            
+QI70000000050212291229P   T0  
+QNp    Pick up only                                                            
+QI70000000178912301230P   T1  
+QNp    Pick up only                                                            
+QI70000000179112301230P   T0  
+QNp    Pick up only                                                            
+QI70000000179212311231P   T0  
+QNp    Pick up only                                                            
+QI70000000179312311231P   T0  
+QNp    Pick up only                                                            
+QI70000000179412321232P   T0  
+QNp    Pick up only                                                            
+QI70000000179512321232P   T0  
+QNp    Pick up only                                                            
+QI70000000179612321232P   T0  
+QNp    Pick up only                                                            
+QI70000000179712331233P   T0  
+QNp    Pick up only                                                            
+QI70000000179812331233P   T0  
+QNp    Pick up only                                                            
+QI70000000179912331233P   T0  
+QNp    Pick up only                                                            
+QI70000000046412341234P   T0  
+QNp    Pick up only                                                            
+QI70000000046612351235P   T1  
+QNp    Pick up only                                                            
+QI70000000047012351235B   T0  
+QI70000000028612361236B   T0  
+QI70000000281312421242B   T0  
+QI70000000281412431243B   T0  
+QI70000000281012451245B   T0  
+QI70000000281512461246B   T1  
+QI70000000281612511251B   T0  
+QI70000000281712551255B   T1  
+QI70000000281912581258B   T0  
+QI70000000280213011301B   T0  
+QI70000000280313091309S   T1  
+QNs    Set down only                                                           
+QI70000001557513091309S   T0  
+QNs    Set down only                                                           
+QI70000000350913131313S   T0  
+QNs    Set down only                                                           
+QI70000000349013141314S   T0  
+QNs    Set down only                                                           
+QI70000001552913141314S   T0  
+QNs    Set down only                                                           
+QT7000000155471315   T1  
+QNs    Set down only                                                           
+QDNULB 106 OBelfast, Europa/GVS Buscentre - Crumlin, Main Street                
+QSNULB 1530  20170901201809020000010 X106                       O
+QO7000000153631545   T1  
+QNp    Pick up only                                                            
+QI70000000039615461546P   T0  
+QNp    Pick up only                                                            
+QI70000000039815471547P   T0  
+QNp    Pick up only                                                            
+QI70000000049615481548P   T0  
+QNp    Pick up only                                                            
+QI70000000049815481548P   T0  
+QNp    Pick up only                                                            
+QI70000000050215491549P   T0  
+QNp    Pick up only                                                            
+QI70000000178915501550P   T1  
+QNp    Pick up only                                                            
+QI70000000179115501550P   T0  
+QNp    Pick up only                                                            
+QI70000000179215511551P   T0  
+QNp    Pick up only                                                            
+QI70000000179315511551P   T0  
+QNp    Pick up only                                                            
+QI70000000179415521552P   T0  
+QNp    Pick up only                                                            
+QI70000000179515521552P   T0  
+QNp    Pick up only                                                            
+QI70000000179615521552P   T0  
+QNp    Pick up only                                                            
+QI70000000179715531553P   T0  
+QNp    Pick up only                                                            
+QI70000000179815531553P   T0  
+QNp    Pick up only                                                            
+QI70000000179915531553P   T0  
+QNp    Pick up only                                                            
+QI70000000046415541554P   T0  
+QNp    Pick up only                                                            
+QI70000000046615551555P   T1  
+QNp    Pick up only                                                            
+QI70000000047015551555B   T0  
+QI70000000028615561556B   T0  
+QI70000000281316021602B   T0  
+QI70000000281416031603B   T0  
+QI70000000281016051605B   T0  
+QI70000000281516061606B   T1  
+QI70000000281616111611B   T0  
+QI70000000281716151615B   T1  
+QI70000000281916181618B   T0  
+QI70000000280216211621B   T0  
+QI70000000280316291629S   T1  
+QNs    Set down only                                                           
+QI70000001557516291629S   T0  
+QNs    Set down only                                                           
+QI70000000350916331633S   T0  
+QNs    Set down only                                                           
+QI70000000349016341634S   T0  
+QNs    Set down only                                                           
+QI70000001552916341634S   T0  
+QNs    Set down only                                                           
+QT7000000155471635   T1  
+QNs    Set down only                                                           
+QDNULB 106 OBelfast, Europa/GVS Buscentre - Crumlin, Main Street                
+QSNULB 1815  20170901201809020000010 X106                       O
+QO7000000153631820   T1  
+QNp    Pick up only                                                            
+QI70000000039618211821P   T0  
+QNp    Pick up only                                                            
+QI70000000039818221822P   T0  
+QNp    Pick up only                                                            
+QI70000000049618231823P   T0  
+QNp    Pick up only                                                            
+QI70000000049818231823P   T0  
+QNp    Pick up only                                                            
+QI70000000050218241824P   T0  
+QNp    Pick up only                                                            
+QI70000000178918251825P   T1  
+QNp    Pick up only                                                            
+QI70000000179118251825P   T0  
+QNp    Pick up only                                                            
+QI70000000179218261826P   T0  
+QNp    Pick up only                                                            
+QI70000000179318261826P   T0  
+QNp    Pick up only                                                            
+QI70000000179418271827P   T0  
+QNp    Pick up only                                                            
+QI70000000179518271827P   T0  
+QNp    Pick up only                                                            
+QI70000000179618271827P   T0  
+QNp    Pick up only                                                            
+QI70000000179718281828P   T0  
+QNp    Pick up only                                                            
+QI70000000179818281828P   T0  
+QNp    Pick up only                                                            
+QI70000000179918281828P   T0  
+QNp    Pick up only                                                            
+QI70000000046418291829P   T0  
+QNp    Pick up only                                                            
+QI70000000046618301830P   T1  
+QNp    Pick up only                                                            
+QI70000000047018301830B   T0  
+QI70000000028618311831B   T0  
+QI70000000281318371837B   T0  
+QI70000000281418381838B   T0  
+QI70000000281018401840B   T0  
+QI70000000281518411841B   T1  
+QI70000000281618461846B   T0  
+QI70000000281718501850B   T1  
+QI70000000281918531853B   T0  
+QI70000000280218561856B   T0  
+QI70000000280319041904S   T1  
+QNs    Set down only                                                           
+QI70000001557519041904S   T0  
+QNs    Set down only                                                           
+QI70000000350919081908S   T0  
+QNs    Set down only                                                           
+QI70000000349019091909S   T0  
+QNs    Set down only                                                           
+QI70000001552919091909S   T0  
+QNs    Set down only                                                           
+QT7000000155471910   T1  
+QNs    Set down only                                                           
+QDNULB 106 OBelfast, Europa/GVS Buscentre - Crumlin, Main Street                
+QSNULB       20170901201809020000010 X106                       O
+QO7000000153631855   T1  
+QNp    Pick up only                                                            
+QI70000000039618561856P   T0  
+QNp    Pick up only                                                            
+QI70000000039818571857P   T0  
+QNp    Pick up only                                                            
+QI70000000049618581858P   T0  
+QNp    Pick up only                                                            
+QI70000000049818581858P   T0  
+QNp    Pick up only                                                            
+QI70000000050218591859P   T0  
+QNp    Pick up only                                                            
+QI70000000178919001900P   T1  
+QNp    Pick up only                                                            
+QI70000000179119001900P   T0  
+QNp    Pick up only                                                            
+QI70000000179219011901P   T0  
+QNp    Pick up only                                                            
+QI70000000179319011901P   T0  
+QNp    Pick up only                                                            
+QI70000000179419021902P   T0  
+QNp    Pick up only                                                            
+QI70000000179519021902P   T0  
+QNp    Pick up only                                                            
+QI70000000179619021902P   T0  
+QNp    Pick up only                                                            
+QI70000000179719031903P   T0  
+QNp    Pick up only                                                            
+QI70000000179819031903P   T0  
+QNp    Pick up only                                                            
+QI70000000179919031903P   T0  
+QNp    Pick up only                                                            
+QI70000000046419041904P   T0  
+QNp    Pick up only                                                            
+QI70000000046619051905P   T1  
+QNp    Pick up only                                                            
+QI70000000047019051905B   T0  
+QI70000000028619061906B   T0  
+QI70000000281319061906B   T0  
+QI70000000281419071907B   T0  
+QI70000000281019091909B   T0  
+QI70000000281519101910B   T1  
+QI70000000281619111911B   T0  
+QI70000000281719151915B   T1  
+QI70000000281919181918B   T0  
+QI70000000280219211921B   T0  
+QI70000000280319301930S   T1  
+QNs    Set down only                                                           
+QI70000001557519301930S   T0  
+QNs    Set down only                                                           
+QI70000000350919331933S   T0  
+QNs    Set down only                                                           
+QI70000000349019341934S   T0  
+QNs    Set down only                                                           
+QI70000001552919341934S   T0  
+QNs    Set down only                                                           
+QT7000000155471935   T1  
+QNs    Set down only                                                           
+QDNULB 106 ICrumlin, Main Street - Belfast, Europa/GVS Buscentre                
+QSNULB 0730  20170901201809020000010 X106                       I
+QO7000000034920730   T1  
+QNp    Pick up only                                                            
+QI70000000349907300730P   T0  
+QNp    Pick up only                                                            
+QI70000000351007310731P   T0  
+QNp    Pick up only                                                            
+QI70000000351107310731P   T0  
+QNp    Pick up only                                                            
+QI70000000351207310731P   T0  
+QNp    Pick up only                                                            
+QI70000001557407350735P   T0  
+QNp    Pick up only                                                            
+QI70000000351307350735P   T0  
+QNp    Pick up only                                                            
+QI70000000280407360736P   T1  
+QNp    Pick up only                                                            
+QI70000000280507430743B   T0  
+QI70000000280607460746B   T0  
+QI70000000280707500750B   T1  
+QI70000000280807530753B   T0  
+QI70000000280907590759B   T1  
+QI70000000281108000800B   T0  
+QI70000000281208000800B   T0  
+QI70000000027408030803B   T0  
+QI70000000045808030803B   T0  
+QI70000000046008040804S   T1  
+QNs    Set down only                                                           
+QI70000000050808060806S   T0  
+QNs    Set down only                                                           
+QI70000000051008060806S   T0  
+QNs    Set down only                                                           
+QI70000000051608070807S   T0  
+QNs    Set down only                                                           
+QI70000000052008080808S   T0  
+QNs    Set down only                                                           
+QI70000000052208090809S   T1  
+QNs    Set down only                                                           
+QI70000000052408100810S   T0  
+QNs    Set down only                                                           
+QI70000000052608100810S   T0  
+QNs    Set down only                                                           
+QI70000000052808120812S   T0  
+QNs    Set down only                                                           
+QI70000000053208140814S   T0  
+QNs    Set down only                                                           
+QI70000000142408160816S   T0  
+QNs    Set down only                                                           
+QT7000000153630820   T1  
+QNs    Set down only                                                           
+QDNULB 106 ICrumlin, Main Street - Belfast, Europa/GVS Buscentre                
+QSNULB       20170901201809020000010 X106                       I
+QO7000000034920930   T1  
+QNp    Pick up only                                                            
+QI70000000349909300930P   T0  
+QNp    Pick up only                                                            
+QI70000000351009310931P   T0  
+QNp    Pick up only                                                            
+QI70000000351109310931P   T0  
+QNp    Pick up only                                                            
+QI70000000351209310931P   T0  
+QNp    Pick up only                                                            
+QI70000001557409350935P   T0  
+QNp    Pick up only                                                            
+QI70000000351309350935P   T0  
+QNp    Pick up only                                                            
+QI70000000280409360936P   T1  
+QNp    Pick up only                                                            
+QI70000000280509430943B   T0  
+QI70000000280609460946B   T0  
+QI70000000280709500950B   T1  
+QI70000000280809530953B   T0  
+QI70000000280909590959B   T1  
+QI70000000281110001000B   T0  
+QI70000000281210001000B   T0  
+QI70000000027410031003B   T0  
+QI70000000045810031003B   T0  
+QI70000000046010041004S   T1  
+QNs    Set down only                                                           
+QI70000000050810061006S   T0  
+QNs    Set down only                                                           
+QI70000000051010061006S   T0  
+QNs    Set down only                                                           
+QI70000000051610071007S   T0  
+QNs    Set down only                                                           
+QI70000000052010081008S   T0  
+QNs    Set down only                                                           
+QI70000000052210091009S   T1  
+QNs    Set down only                                                           
+QI70000000052410101010S   T0  
+QNs    Set down only                                                           
+QI70000000052610101010S   T0  
+QNs    Set down only                                                           
+QI70000000052810121012S   T0  
+QNs    Set down only                                                           
+QI70000000053210141014S   T0  
+QNs    Set down only                                                           
+QI70000000142410161016S   T0  
+QNs    Set down only                                                           
+QT7000000153631020   T1  
+QNs    Set down only                                                           
+QDNULB 106 ICrumlin, Main Street - Belfast, Europa/GVS Buscentre                
+QSNULB 1130  20170901201809020000010 X106                       I
+QO7000000034921130   T1  
+QNp    Pick up only                                                            
+QI70000000349911301130P   T0  
+QNp    Pick up only                                                            
+QI70000000351011311131P   T0  
+QNp    Pick up only                                                            
+QI70000000351111311131P   T0  
+QNp    Pick up only                                                            
+QI70000000351211311131P   T0  
+QNp    Pick up only                                                            
+QI70000001557411351135P   T0  
+QNp    Pick up only                                                            
+QI70000000351311351135P   T0  
+QNp    Pick up only                                                            
+QI70000000280411361136P   T1  
+QNp    Pick up only                                                            
+QI70000000280511431143B   T0  
+QI70000000280611461146B   T0  
+QI70000000280711501150B   T1  
+QI70000000280811531153B   T0  
+QI70000000280911591159B   T1  
+QI70000000281112001200B   T0  
+QI70000000281212001200B   T0  
+QI70000000027412031203B   T0  
+QI70000000045812031203B   T0  
+QI70000000046012041204S   T1  
+QNs    Set down only                                                           
+QI70000000050812061206S   T0  
+QNs    Set down only                                                           
+QI70000000051012061206S   T0  
+QNs    Set down only                                                           
+QI70000000051612071207S   T0  
+QNs    Set down only                                                           
+QI70000000052012081208S   T0  
+QNs    Set down only                                                           
+QI70000000052212091209S   T1  
+QNs    Set down only                                                           
+QI70000000052412101210S   T0  
+QNs    Set down only                                                           
+QI70000000052612101210S   T0  
+QNs    Set down only                                                           
+QI70000000052812121212S   T0  
+QNs    Set down only                                                           
+QI70000000053212141214S   T0  
+QNs    Set down only                                                           
+QI70000000142412161216S   T0  
+QNs    Set down only                                                           
+QT7000000153631220   T1  
+QNs    Set down only                                                           
+QDNULB 106 OBelfast, Europa/GVS Buscentre - Crumlin, Main Street                
+QSNULB 1030  20170901201809020000001 X106                       O
+QO7000000153631030   T1  
+QNp    Pick up only                                                            
+QI70000000039610311031P   T0  
+QNp    Pick up only                                                            
+QI70000000039810321032P   T0  
+QNp    Pick up only                                                            
+QI70000000049610331033P   T0  
+QNp    Pick up only                                                            
+QI70000000049810331033P   T0  
+QNp    Pick up only                                                            
+QI70000000050210341034P   T0  
+QNp    Pick up only                                                            
+QI70000000178910351035P   T1  
+QNp    Pick up only                                                            
+QI70000000179110351035P   T0  
+QNp    Pick up only                                                            
+QI70000000179210361036P   T0  
+QNp    Pick up only                                                            
+QI70000000179310361036P   T0  
+QNp    Pick up only                                                            
+QI70000000179410371037P   T0  
+QNp    Pick up only                                                            
+QI70000000179510371037P   T0  
+QNp    Pick up only                                                            
+QI70000000179610371037P   T0  
+QNp    Pick up only                                                            
+QI70000000179710381038P   T0  
+QNp    Pick up only                                                            
+QI70000000179810381038P   T0  
+QNp    Pick up only                                                            
+QI70000000179910381038P   T0  
+QNp    Pick up only                                                            
+QI70000000046410391039P   T0  
+QNp    Pick up only                                                            
+QI70000000046610401040P   T1  
+QNp    Pick up only                                                            
+QI70000000047010401040B   T0  
+QI70000000028610411041B   T0  
+QI70000000281310461046B   T0  
+QI70000000281410471047B   T0  
+QI70000000281010491049B   T0  
+QI70000000281510501050B   T1  
+QI70000000281610541054B   T0  
+QI70000000281710571057B   T1  
+QI70000000281911001100B   T0  
+QI70000000280211031103B   T0  
+QI70000000280311101110S   T1  
+QNs    Set down only                                                           
+QI70000001557511101110S   T0  
+QNs    Set down only                                                           
+QI70000000350911131113S   T0  
+QNs    Set down only                                                           
+QI70000000349011141114S   T0  
+QNs    Set down only                                                           
+QI70000001552911141114S   T0  
+QNs    Set down only                                                           
+QT7000000155471115   T1  
+QNs    Set down only                                                           
+QDNULB 106 OBelfast, Europa/GVS Buscentre - Crumlin, Main Street                
+QSNULB 1550  20170901201804080000001 X106                       O
+QO7000000153631550   T1  
+QNp    Pick up only                                                            
+QI70000000039615511551P   T0  
+QNp    Pick up only                                                            
+QI70000000039815521552P   T0  
+QNp    Pick up only                                                            
+QI70000000049615531553P   T0  
+QNp    Pick up only                                                            
+QI70000000049815531553P   T0  
+QNp    Pick up only                                                            
+QI70000000050215541554P   T0  
+QNp    Pick up only                                                            
+QI70000000178915551555P   T1  
+QNp    Pick up only                                                            
+QI70000000179115551555P   T0  
+QNp    Pick up only                                                            
+QI70000000179215561556P   T0  
+QNp    Pick up only                                                            
+QI70000000179315561556P   T0  
+QNp    Pick up only                                                            
+QI70000000179415571557P   T0  
+QNp    Pick up only                                                            
+QI70000000179515571557P   T0  
+QNp    Pick up only                                                            
+QI70000000179615571557P   T0  
+QNp    Pick up only                                                            
+QI70000000179715581558P   T0  
+QNp    Pick up only                                                            
+QI70000000179815581558P   T0  
+QNp    Pick up only                                                            
+QI70000000179915581558P   T0  
+QNp    Pick up only                                                            
+QI70000000046415591559P   T0  
+QNp    Pick up only                                                            
+QI70000000046616001600P   T1  
+QNp    Pick up only                                                            
+QI70000000047016001600B   T0  
+QI70000000028616011601B   T0  
+QI70000000281316061606B   T0  
+QI70000000281416071607B   T0  
+QI70000000281016091609B   T0  
+QI70000000281516101610B   T1  
+QI70000000281616141614B   T0  
+QI70000000281716171617B   T1  
+QI70000000281916201620B   T0  
+QI70000000280216231623B   T0  
+QI70000000280316301630S   T1  
+QNs    Set down only                                                           
+QI70000001557516301630S   T0  
+QNs    Set down only                                                           
+QI70000000350916331633S   T0  
+QNs    Set down only                                                           
+QI70000000349016341634S   T0  
+QNs    Set down only                                                           
+QI70000001552916341634S   T0  
+QNs    Set down only                                                           
+QT7000000155471635   T1  
+QNs    Set down only                                                           
+QDNULB 106 ICrumlin, Main Street - Belfast, Europa/GVS Buscentre                
+QSNULB 0930  20170901201809020000001 X106                       I
+QO7000000034920930   T1  
+QNp    Pick up only                                                            
+QI70000000349909300930P   T0  
+QNp    Pick up only                                                            
+QI70000000351009300930P   T0  
+QNp    Pick up only                                                            
+QI70000000351109310931P   T0  
+QNp    Pick up only                                                            
+QI70000000351209310931P   T0  
+QNp    Pick up only                                                            
+QI70000001557409340934P   T0  
+QNp    Pick up only                                                            
+QI70000000351309340934P   T0  
+QNp    Pick up only                                                            
+QI70000000280409350935P   T1  
+QNp    Pick up only                                                            
+QI70000000280509420942B   T0  
+QI70000000280609440944B   T0  
+QI70000000280709480948B   T1  
+QI70000000280809500950B   T0  
+QI70000000280909550955B   T1  
+QI70000000281109560956B   T0  
+QI70000000281209560956B   T0  
+QI70000000027409590959B   T0  
+QI70000000045809590959B   T0  
+QI70000000046010001000S   T1  
+QNs    Set down only                                                           
+QI70000000050810021002S   T0  
+QNs    Set down only                                                           
+QI70000000051010021002S   T0  
+QNs    Set down only                                                           
+QI70000000051610031003S   T0  
+QNs    Set down only                                                           
+QI70000000052010041004S   T0  
+QNs    Set down only                                                           
+QI70000000052210051005S   T1  
+QNs    Set down only                                                           
+QI70000000052410051005S   T0  
+QNs    Set down only                                                           
+QI70000000052610061006S   T0  
+QNs    Set down only                                                           
+QI70000000052810081008S   T0  
+QNs    Set down only                                                           
+QI70000000053210091009S   T0  
+QNs    Set down only                                                           
+QI70000000142410121012S   T0  
+QNs    Set down only                                                           
+QT7000000153631015   T1  
+QNs    Set down only                                                           
+QDNULB 106 ICrumlin, Main Street - Belfast, Europa/GVS Buscentre                
+QSNULB 1120  20170901201809020000001 X106                       I
+QO7000000034921120   T1  
+QNp    Pick up only                                                            
+QI70000000349911201120P   T0  
+QNp    Pick up only                                                            
+QI70000000351011201120P   T0  
+QNp    Pick up only                                                            
+QI70000000351111211121P   T0  
+QNp    Pick up only                                                            
+QI70000000351211211121P   T0  
+QNp    Pick up only                                                            
+QI70000001557411241124P   T0  
+QNp    Pick up only                                                            
+QI70000000351311241124P   T0  
+QNp    Pick up only                                                            
+QI70000000280411251125P   T1  
+QNp    Pick up only                                                            
+QI70000000280511321132B   T0  
+QI70000000280611341134B   T0  
+QI70000000280711381138B   T1  
+QI70000000280811401140B   T0  
+QI70000000280911451145B   T1  
+QI70000000281111461146B   T0  
+QI70000000281211461146B   T0  
+QI70000000027411491149B   T0  
+QI70000000045811491149B   T0  
+QI70000000046011501150S   T1  
+QNs    Set down only                                                           
+QI70000000050811521152S   T0  
+QNs    Set down only                                                           
+QI70000000051011521152S   T0  
+QNs    Set down only                                                           
+QI70000000051611531153S   T0  
+QNs    Set down only                                                           
+QI70000000052011541154S   T0  
+QNs    Set down only                                                           
+QI70000000052211551155S   T1  
+QNs    Set down only                                                           
+QI70000000052411551155S   T0  
+QNs    Set down only                                                           
+QI70000000052611561156S   T0  
+QNs    Set down only                                                           
+QI70000000052811581158S   T0  
+QNs    Set down only                                                           
+QI70000000053211591159S   T0  
+QNs    Set down only                                                           
+QI70000000142412021202S   T0  
+QNs    Set down only                                                           
+QT7000000153631205   T1  
+QNs    Set down only
+QLN700000015363Europa Buscentre
+QBN700000015363333448  373764
+QLN700000000396Barrack Street
+QBN700000000396333354  374326
+QLN700000000398Divis Tower
+QBN700000000398333020  374381
+QLN700000000496Twin Spires
+QBN700000000496332717  374281
+QLN700000000498Conway Street
+QBN700000000498332508  374193
+QLN700000000502Dunville Park
+QBN700000000502332276  373979
+QLN700000001789Falls Road (Royal Hospitals)
+QBN700000001789332179  373806
+QLN700000001791Childrens Hospital
+QBN700000001791331989  373579
+QLN700000001792Broadway
+QBN700000001792331796  373454
+QLN700000001793Beechmount
+QBN700000001793331622  373376
+QLN700000001794Beechview Park
+QBN700000001794331442  373285
+QLN700000001795Falls Road (St.James's)
+QBN700000001795331313  373088
+QLN700000001796Falls Road (City Cemetry)
+QBN700000001796331272  372992
+QLN700000001797St Louise's
+QBN700000001797331169  372819
+QLN700000001798Rossa House
+QBN700000001798331066  372709
+QLN700000001799Falls Park
+QBN700000001799330866  372617
+QLN700000000464Milltown Cemetery
+QBN700000000464330709  372426
+QLN700000000466Kennedy Centre
+QBN700000000466330669  372221
+QLN700000000470Westwood Centre
+QBN700000000470330695  371823
+QLN700000000282Kennedy Way Council Depot
+QBN700000000282330379  371972
+QLN700000000284Fruithill Park
+QBN700000000284330176  372176
+QLN700000001765Glen Road (St.Theresa's)
+QBN700000001765329819  372142
+QLN700000001766Coolnasilla
+QBN700000001766329712  372131
+QLN700000001767CBS
+QBN700000001767329416  372028
+QLN700000001768Ramoan
+QBN700000001768329181  371919
+QLN700000001769Rosnareen
+QBN700000001769328958  371822
+QLN700000001770Shaw's Road (Glen Road)
+QBN700000001770328513  371617
+QLN700000001771St. Oliver Plunkett
+QBN700000001771328259  371574
+QLN700000001773Glencolin
+QBN700000001773328129  371558
+QLN700000002282Sales Cnr
+QBN700000002282324471  368407
+QLN700000002797Stoneyford Road
+QBN700000002797323799  368831
+QLN700000000286Monagh By-Pass (Glen Road)
+QBN700000000286330007  372294
+QLN700000002813Hannahstown
+QBN700000002813327295  372481
+QLN700000002814Glenmeen Close
+QBN700000002814327005  372912
+QLN700000002810Wheelers Road
+QBN700000002810325699  373447
+QLN700000002815Hairpin Bend
+QBN700000002815325421  373197
+QLN700000002816Rusheyhill X Roads
+QBN700000002816323597  372067
+QLN700000002817Leathemstown X Roads
+QBN700000002817322071  372517
+QLN700000002807Leatemstown X Roads
+QBN700000002807321940  372544
+QLN700000002819Wyebridge
+QBN700000002819320359  372148
+QLN700000002798Tommys Cnr
+QBN700000002798323410  369483
+QLN700000002799Stoney Bridge Court
+QBN700000002799321586  370358
+QLN700000002800Stoneyford X Roads
+QBN700000002800321357  370565
+QLN700000002801Wyebridge
+QBN700000002801320322  372144
+QLN700000002802Fourscore X Roads
+QBN700000002802319057  372805
+QLN700000002803Glenavy War Memorial
+QBN700000002803315529  373144
+QLN700000015575Lyngrove Hill
+QBN700000015575315325  373519
+QLN700000003509The Beeches
+QBN700000003509314917  375529
+QLN700000003490Canning Grove
+QBN700000003490314985  376130
+QLN700000003494Crumlin, Main Street
+QBN700000003494315226  376185
+QLN700000003492Crumlin, Main Street
+QBN700000003492315374  376155
+QLN700000003499Canning Grove
+QBN700000003499314919  376088
+QLN700000003510Crumlin High School
+QBN700000003510314902  375876
+QLN700000003511Landgrave Manor
+QBN700000003511314925  375685
+QLN700000003512The Beeches
+QBN700000003512314934  375548
+QLN700000015574Lyngrove Hill
+QBN700000015574315353  373520
+QLN700000003513Glenavy Service Station
+QBN700000003513315426  373374
+QLN700000002804Glenavy War Memorial
+QBN700000002804315510  373151
+QLN700000002805Fourscore X Roads
+QBN700000002805319076  372803
+QLN700000002806Wyebridge
+QBN700000002806320294  372181
+QLN700000002820Wyebridge
+QBN700000002820320345  372118
+QLN700000002821Stonyford X Roads
+QBN700000002821321345  370587
+QLN700000002822The Beeches Manor
+QBN700000002822321595  370357
+QLN700000002823Tommys Cnr
+QBN700000002823323534  369442
+QLN700000002824Stoneyford Road
+QBN700000002824323863  368786
+QLN700000002808Rusheyhill X Roads
+QBN700000002808323632  372059
+QLN700000002809Hairpin Bend
+QBN700000002809325604  373416
+QLN700000002811Glenmeen Close
+QBN700000002811327006  372922
+QLN700000002812Hannahstown
+QBN700000002812327299  372485
+QLN700000002283Sales Cnr
+QBN700000002283324461  368415
+QLN700000000374Hannahstown Hill
+QBN700000000374327856  371534
+QLN700000000378St. Oliver Plunkett
+QBN700000000378328239  371578
+QLN700000000380Shaw's Road (Glen Road)
+QBN700000000380328447  371614
+QLN700000016069Glen Road Heights
+QBN700000016069328775  371745
+QLN700000000382Rosnareen
+QBN700000000382328975  371840
+QLN700000000384Hamill Grove
+QBN700000000384329140  371914
+QLN700000000386CBS
+QBN700000000386329446  372053
+QLN700000000390Glen Road (St.Theresa's)
+QBN700000000390329966  372144
+QLN700000000274Monagh By-Pass (Glen Road)
+QBN700000000274330047  372293
+QLN700000000276Opp Fruithill Park/Kennedy Way
+QBN700000000276330173  372195
+QLN700000000280Kennedy Way Council Depot
+QBN700000000280330408  371959
+QLN700000000458Westwood Centre
+QBN700000000458330681  371935
+QLN700000000460Kennedy Centre
+QBN700000000460330637  372114
+QLN700000000462Milltown Cemetery
+QBN700000000462330687  372353
+QLN700000000504Falls Park
+QBN700000000504330784  372574
+QLN700000000506Rossa House
+QBN700000000506331029  372712
+QLN700000000508Falls Road (City Cemetry)
+QBN700000000508331198  372902
+QLN700000000510Falls Road (St.James)
+QBN700000000510331352  373172
+QLN700000000512Beechview Park
+QBN700000000512331427  373282
+QLN700000000514Ard-Na-Va
+QBN700000000514331547  373362
+QLN700000000516Beechmount
+QBN700000000516331798  373471
+QLN700000000518St Mary's College
+QBN700000000518331921  373554
+QLN700000000520Childrens Hospital
+QBN700000000520332032  373630
+QLN700000000522Falls Road (Royal Hospitals)
+QBN700000000522332190  373811
+QLN700000000524Dunville Park
+QBN700000000524332272  373984
+QLN700000000526Falls Library
+QBN700000000526332399  374151
+QLN700000000528Twin Spires
+QBN700000000528332660  374268
+QLN700000000534Barrack Street
+QBN700000000534333371  374345
+QLN700000000532Divis Tower
+QBN700000000532332992  374404
+QLN700000001424King Street
+QBN700000001424333524  374190
+QPNULB Ulsterbus               Ulsterbus
+QQ
+QVNSB
+QDNULB 106 OBelfast, Europa Buscentre - Crumlin, Main Street
+QDNULB 106aOBelfast, Europa Buscentre - Crumlin, Main Street
+QDNULB 106 ICrumlin, Main Street - Belfast, Europa Buscentre
+QDNULB 106aICrumlin, Main Street - Belfast, Europa Buscentre
+QDNULB 106 OBelfast, Europa/GVS Buscentre - Crumlin, Main Street
+QDNULB 106aOBelfast, Europa/GVS Buscentre - Crumlin, Main Street
+QDNULB 106 ICrumlin, Main Street - Belfast, Europa/GVS Buscentre
+QDNULB 106aICrumlin, Main Street - Belfast, Europa/GVS Buscentre

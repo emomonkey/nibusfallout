@@ -1,0 +1,1282 @@
+ATCO-CIF0500Ulsterbus                       OMNITIMES       20180604085344
+QDNULB 263 OBelfast - Kilroot - Whitehead                                       
+QSNULB 2235  20180720201808180000100 X263 41107 LF              O
+QNLS   Limited Stop: First setting down point is Whiteabbey Station Road.      
+QNF    Fridays Only                                                            
+QO7000000017452235   T1  
+QI70000000174922362236P   T1  
+QNp    Pick Up Only                                                            
+QI70000000151822372237P   T0  
+QNp    Pick Up Only                                                            
+QI70000000353122452245S   T1  
+QNs    Set Down Only                                                           
+QI70000000353222452245S   T0  
+QNs    Set Down Only                                                           
+QI70000000353522472247S   T0  
+QNs    Set Down Only                                                           
+QI70000000353622482248S   T0  
+QNs    Set Down Only                                                           
+QI70000000353722492249S   T1  
+QNs    Set Down Only                                                           
+QI70000000353822492249S   T0  
+QNs    Set Down Only                                                           
+QI70000000353922512251S   T0  
+QNs    Set Down Only                                                           
+QI70000000360422522252S   T1  
+QNs    Set Down Only                                                           
+QI70000000354422542254S   T0  
+QNs    Set Down Only                                                           
+QI70000000354522542254S   T0  
+QNs    Set Down Only                                                           
+QI70000000354622552255S   T0  
+QNs    Set Down Only                                                           
+QI70000000354722562256S   T0  
+QNs    Set Down Only                                                           
+QI70000000354822562256S   T0  
+QNs    Set Down Only                                                           
+QI70000000354922562256S   T0  
+QNs    Set Down Only                                                           
+QI70000000355022572257S   T0  
+QNs    Set Down Only                                                           
+QI70000000355122572257S   T0  
+QNs    Set Down Only                                                           
+QI70000000355222582258S   T0  
+QNs    Set Down Only                                                           
+QI70000000355322592259S   T1  
+QNs    Set Down Only                                                           
+QI70000000355423002300S   T0  
+QNs    Set Down Only                                                           
+QI70000000355523002300S   T0  
+QNs    Set Down Only                                                           
+QI70000000355623012301S   T1  
+QNs    Set Down Only                                                           
+QI70000000355723022302S   T0  
+QNs    Set Down Only                                                           
+QI70000000355823032303S   T0  
+QNs    Set Down Only                                                           
+QI70000000355923032303S   T0  
+QNs    Set Down Only                                                           
+QI70000000356023042304S   T0  
+QNs    Set Down Only                                                           
+QI70000000356123052305S   T0  
+QNs    Set Down Only                                                           
+QI70000000356223062306S   T1  
+QNs    Set Down Only                                                           
+QI70000000356323062306S   T0  
+QNs    Set Down Only                                                           
+QI70000000356423072307S   T0  
+QNs    Set Down Only                                                           
+QI70000000356523092309S   T0  
+QNs    Set Down Only                                                           
+QI70000000356623102310S   T0  
+QNs    Set Down Only                                                           
+QI70000000356723102310S   T0  
+QNs    Set Down Only                                                           
+QI70000000356823122312S   T0  
+QNs    Set Down Only                                                           
+QI70000000356923132313S   T0  
+QNs    Set Down Only                                                           
+QI70000000357023132313S   T0  
+QNs    Set Down Only                                                           
+QI70000000357123142314S   T0  
+QNs    Set Down Only                                                           
+QI70000000357223142314S   T0  
+QNs    Set Down Only                                                           
+QT7000000035732316   T1  
+QNs    Set Down Only                                                           
+QDNULB 263 OBelfast - Kilroot - Whitehead                                       
+QSNULB 2400  20180720201808180000100 X263 41107 LF              O
+QNLS   Limited Stop: First setting down point is Whiteabbey Station Road.      
+QNF    Fridays Only                                                            
+QO7000000017452400   T1  
+QI70000000174924012401P   T1  
+QNp    Pick Up Only                                                            
+QI70000000151824022402P   T0  
+QNp    Pick Up Only                                                            
+QI70000000353124102410S   T1  
+QNs    Set Down Only                                                           
+QI70000000353224102410S   T0  
+QNs    Set Down Only                                                           
+QI70000000353524122412S   T0  
+QNs    Set Down Only                                                           
+QI70000000353624132413S   T0  
+QNs    Set Down Only                                                           
+QI70000000353724142414S   T1  
+QNs    Set Down Only                                                           
+QI70000000353824142414S   T0  
+QNs    Set Down Only                                                           
+QI70000000353924162416S   T0  
+QNs    Set Down Only                                                           
+QI70000000360424172417S   T1  
+QNs    Set Down Only                                                           
+QI70000000354424192419S   T0  
+QNs    Set Down Only                                                           
+QI70000000354524192419S   T0  
+QNs    Set Down Only                                                           
+QI70000000354624202420S   T0  
+QNs    Set Down Only                                                           
+QI70000000354724212421S   T0  
+QNs    Set Down Only                                                           
+QI70000000354824212421S   T0  
+QNs    Set Down Only                                                           
+QI70000000354924212421S   T0  
+QNs    Set Down Only                                                           
+QI70000000355024222422S   T0  
+QNs    Set Down Only                                                           
+QI70000000355124222422S   T0  
+QNs    Set Down Only                                                           
+QI70000000355224232423S   T0  
+QNs    Set Down Only                                                           
+QI70000000355324242424S   T1  
+QNs    Set Down Only                                                           
+QI70000000355424252425S   T0  
+QNs    Set Down Only                                                           
+QI70000000355524252425S   T0  
+QNs    Set Down Only                                                           
+QI70000000355624262426S   T1  
+QNs    Set Down Only                                                           
+QI70000000355724272427S   T0  
+QNs    Set Down Only                                                           
+QI70000000355824282428S   T0  
+QNs    Set Down Only                                                           
+QI70000000355924282428S   T0  
+QNs    Set Down Only                                                           
+QI70000000356024292429S   T0  
+QNs    Set Down Only                                                           
+QI70000000356124302430S   T0  
+QNs    Set Down Only                                                           
+QI70000000356224312431S   T1  
+QNs    Set Down Only                                                           
+QI70000000356324312431S   T0  
+QNs    Set Down Only                                                           
+QI70000000356424322432S   T0  
+QNs    Set Down Only                                                           
+QI70000000356524342434S   T0  
+QNs    Set Down Only                                                           
+QI70000000356624352435S   T0  
+QNs    Set Down Only                                                           
+QI70000000356724352435S   T0  
+QNs    Set Down Only                                                           
+QI70000000356824372437S   T0  
+QNs    Set Down Only                                                           
+QI70000000356924382438S   T0  
+QNs    Set Down Only                                                           
+QI70000000357024382438S   T0  
+QNs    Set Down Only                                                           
+QI70000000357124392439S   T0  
+QNs    Set Down Only                                                           
+QI70000000357224392439S   T0  
+QNs    Set Down Only                                                           
+QT7000000035732441   T1  
+QNs    Set Down Only                                                           
+QDNULB 263 OBelfast - Kilroot - Whitehead                                       
+QSNULB 2235  20180720201808180000010 X263 41006 LF              O
+QNLS   Limited Stop: First setting down point is Whiteabbey Station Road.      
+QO7000000017452235   T1  
+QNp    Pick Up Only                                                            
+QI70000000174922362236P   T1  
+QNp    Pick Up Only                                                            
+QI70000000151822372237P   T0  
+QNp    Pick Up Only                                                            
+QI70000000353122452245S   T1  
+QNs    Set Down Only                                                           
+QI70000000353222452245S   T0  
+QNs    Set Down Only                                                           
+QI70000000353522472247S   T0  
+QNs    Set Down Only                                                           
+QI70000000353622482248S   T0  
+QNs    Set Down Only                                                           
+QI70000000353722492249S   T1  
+QNs    Set Down Only                                                           
+QI70000000353822492249S   T0  
+QNs    Set Down Only                                                           
+QI70000000353922512251S   T0  
+QNs    Set Down Only                                                           
+QI70000000360422522252S   T1  
+QNs    Set Down Only                                                           
+QI70000000354422542254S   T0  
+QNs    Set Down Only                                                           
+QI70000000354522542254S   T0  
+QNs    Set Down Only                                                           
+QI70000000354622552255S   T0  
+QNs    Set Down Only                                                           
+QI70000000354722562256S   T0  
+QNs    Set Down Only                                                           
+QI70000000354822562256S   T0  
+QNs    Set Down Only                                                           
+QI70000000354922562256S   T0  
+QNs    Set Down Only                                                           
+QI70000000355022572257S   T0  
+QNs    Set Down Only                                                           
+QI70000000355122572257S   T0  
+QNs    Set Down Only                                                           
+QI70000000355222582258S   T0  
+QNs    Set Down Only                                                           
+QI70000000355322592259S   T1  
+QNs    Set Down Only                                                           
+QI70000000355423002300S   T0  
+QNs    Set Down Only                                                           
+QI70000000355523002300S   T0  
+QNs    Set Down Only                                                           
+QI70000000355623012301S   T1  
+QNs    Set Down Only                                                           
+QI70000000355723022302S   T0  
+QNs    Set Down Only                                                           
+QI70000000355823032303S   T0  
+QNs    Set Down Only                                                           
+QI70000000355923032303S   T0  
+QNs    Set Down Only                                                           
+QI70000000356023042304S   T0  
+QNs    Set Down Only                                                           
+QI70000000356123052305S   T0  
+QNs    Set Down Only                                                           
+QI70000000356223062306S   T1  
+QNs    Set Down Only                                                           
+QI70000000356323062306S   T0  
+QNs    Set Down Only                                                           
+QI70000000356423072307S   T0  
+QNs    Set Down Only                                                           
+QI70000000356523092309S   T0  
+QNs    Set Down Only                                                           
+QI70000000356623102310S   T0  
+QNs    Set Down Only                                                           
+QI70000000356723102310S   T0  
+QNs    Set Down Only                                                           
+QI70000000356823122312S   T0  
+QNs    Set Down Only                                                           
+QI70000000356923132313S   T0  
+QNs    Set Down Only                                                           
+QI70000000357023132313S   T0  
+QNs    Set Down Only                                                           
+QI70000000357123142314S   T0  
+QNs    Set Down Only                                                           
+QI70000000357223142314S   T0  
+QNs    Set Down Only                                                           
+QT7000000035732316   T1  
+QNs    Set Down Only                                                           
+QDNULB 263 OBelfast - Kilroot - Whitehead                                       
+QSNULB 2400  20180720201808180000010 X263 41006 LF              O
+QNLS   Limited Stop: First setting down point is Whiteabbey Station Road.      
+QO7000000017452400   T1  
+QNp    Pick Up Only                                                            
+QI70000000174924012401P   T1  
+QNp    Pick Up Only                                                            
+QI70000000151824022402P   T0  
+QNp    Pick Up Only                                                            
+QI70000000353124102410S   T1  
+QNs    Set Down Only                                                           
+QI70000000353224102410S   T0  
+QNs    Set Down Only                                                           
+QI70000000353524122412S   T0  
+QNs    Set Down Only                                                           
+QI70000000353624132413S   T0  
+QNs    Set Down Only                                                           
+QI70000000353724142414S   T1  
+QNs    Set Down Only                                                           
+QI70000000353824142414S   T0  
+QNs    Set Down Only                                                           
+QI70000000353924162416S   T0  
+QNs    Set Down Only                                                           
+QI70000000360424172417S   T1  
+QNs    Set Down Only                                                           
+QI70000000354424192419S   T0  
+QNs    Set Down Only                                                           
+QI70000000354524192419S   T0  
+QNs    Set Down Only                                                           
+QI70000000354624202420S   T0  
+QNs    Set Down Only                                                           
+QI70000000354724212421S   T0  
+QNs    Set Down Only                                                           
+QI70000000354824212421S   T0  
+QNs    Set Down Only                                                           
+QI70000000354924212421S   T0  
+QNs    Set Down Only                                                           
+QI70000000355024222422S   T0  
+QNs    Set Down Only                                                           
+QI70000000355124222422S   T0  
+QNs    Set Down Only                                                           
+QI70000000355224232423S   T0  
+QNs    Set Down Only                                                           
+QI70000000355324242424S   T1  
+QNs    Set Down Only                                                           
+QI70000000355424252425S   T0  
+QNs    Set Down Only                                                           
+QI70000000355524252425S   T0  
+QNs    Set Down Only                                                           
+QI70000000355624262426S   T1  
+QNs    Set Down Only                                                           
+QI70000000355724272427S   T0  
+QNs    Set Down Only                                                           
+QI70000000355824282428S   T0  
+QNs    Set Down Only                                                           
+QI70000000355924282428S   T0  
+QNs    Set Down Only                                                           
+QI70000000356024292429S   T0  
+QNs    Set Down Only                                                           
+QI70000000356124302430S   T0  
+QNs    Set Down Only                                                           
+QI70000000356224312431S   T1  
+QNs    Set Down Only                                                           
+QI70000000356324312431S   T0  
+QNs    Set Down Only                                                           
+QI70000000356424322432S   T0  
+QNs    Set Down Only                                                           
+QI70000000356524342434S   T0  
+QNs    Set Down Only                                                           
+QI70000000356624352435S   T0  
+QNs    Set Down Only                                                           
+QI70000000356724352435S   T0  
+QNs    Set Down Only                                                           
+QI70000000356824372437S   T0  
+QNs    Set Down Only                                                           
+QI70000000356924382438S   T0  
+QNs    Set Down Only                                                           
+QI70000000357024382438S   T0  
+QNs    Set Down Only                                                           
+QI70000000357124392439S   T0  
+QNs    Set Down Only                                                           
+QI70000000357224392439S   T0  
+QNs    Set Down Only                                                           
+QT7000000035732441   T1  
+QNs    Set Down Only                                                           
+QLN700000001649Laganside Bus Std.
+QBN700000001649334261  374463
+QLN700000001745Laganside Bus Station
+QBN700000001745334054  374399
+QLN700000001749Royal Avenue (Castle Court)
+QBN700000001749333784  374392
+QLN700000001518Interpoint
+QBN700000001518333859  374874
+QLN700000000536Little George Street
+QBN700000000536333937  375014
+QLN700000000538Yorkgate Station
+QBN700000000538334140  375387
+QLN700000000540York Street (St Paul's)
+QBN700000000540334198  375745
+QLN700000000542Mountcollyer
+QBN700000000542334135  376061
+QLN700000000544Grove Baths
+QBN700000000544334171  376401
+QLN700000000546Bute Street
+QBN700000000546334193  376501
+QLN700000000548Skegoneill Ave
+QBN700000000548334174  376832
+QLN700000000550Seaview
+QBN700000000550334206  377014
+QLN700000000552York Park
+QBN700000000552334176  377213
+QLN700000000554Shore Road (Safeway)
+QBN700000000554334141  377426
+QLN700000000556Fortwilliam
+QBN700000000556334166  377658
+QLN700000000558Mount Vernon
+QBN700000000558334173  377943
+QLN700000000560Lowwood Park
+QBN700000000560334160  378134
+QLN700000000562Loughside
+QBN700000000562334140  378271
+QLN700000000564Donegall Park Avenue
+QBN700000000564334131  378561
+QLN700000000566Shore Crescent
+QBN700000000566334127  378791
+QLN700000000568Parkmount
+QBN700000000568334132  378937
+QLN700000000570Shore Road (Grays Lane)
+QBN700000000570334197  379219
+QLN700000000572Greencastle
+QBN700000000572334290  379443
+QLN700000000574M2 Onslip
+QBN700000000574334326  379687
+QLN700000000576Bawnmore
+QBN700000000576334377  379961
+QLN700000000578Whitehouse
+QBN700000000578334544  380265
+QLN700000001592Merville Garden Village
+QBN700000001592334877  380628
+QLN700000001593Merville Mews
+QBN700000001593334963  380824
+QLN700000001594Martin Park
+QBN700000001594335017  381052
+QLN700000001404Shore Road (M5 Roundabout)
+QBN700000001404335099  381363
+QLN700000001356Northern Regional College
+QBN700000001356335295  381808
+QLN700000003531Whiteabbey Station Road
+QBN700000003531335518  382425
+QLN700000003532Dillions Avenue
+QBN700000003532335674  382621
+QLN700000003533W/Abbey Presbyterian Church
+QBN700000003533335969  382992
+QLN700000003534Circular Road Whiteabbey
+QBN700000003534336202  383240
+QLN700000003535Jordanstown Station Road
+QBN700000003535336623  383668
+QLN700000003536Jordanstown University
+QBN700000003536336784  383811
+QLN700000003537Silverstream House
+QBN700000003537337191  384132
+QLN700000003538Neills Lane
+QBN700000003538337363  384283
+QLN700000003539Shorelands
+QBN700000003539337654  384569
+QLN700000003604Lower Greenisland Station Road
+QBN700000003604337843  384798
+QLN700000003726St Colemans Church
+QBN700000003726337760  384958
+QLN700000003727Knockleigh Drive
+QBN700000003727337639  385100
+QLN700000003728Glassillan Court
+QBN700000003728337485  385292
+QLN700000003729Glassillan Court Shops
+QBN700000003729337358  385205
+QLN700000003730Rossmore Green
+QBN700000003730337183  385263
+QLN700000003731Greenisland Terminus
+QBN700000003731337046  385180
+QLN700000003732Glassillan Grove Flats
+QBN700000003732337258  385216
+QLN700000003733Abbeyfield Sheltered Dwelling
+QBN700000003733337404  385271
+QLN700000003734Glassillan Court
+QBN700000003734337507  385267
+QLN700000003735Knockleigh Drive
+QBN700000003735337690  385050
+QLN700000003736Longfield Gardens
+QBN700000003736337797  384924
+QLN700000003541Ravenhill Nursing Home
+QBN700000003541338207  385173
+QLN700000003542Greenisland Post Office
+QBN700000003542338469  385417
+QLN700000003543Island View
+QBN700000003543338688  385686
+QLN700000003544Carreras
+QBN700000003544338923  385974
+QLN700000003545Trooperslane
+QBN700000003545339257  386332
+QLN700000003546Magowan Tyres
+QBN700000003546339610  386556
+QLN700000003547Sloefield
+QBN700000003547339879  386710
+QLN700000003548Quality Hotel
+QBN700000003548340165  386882
+QLN700000003549Fortfields Fitness Centre
+QBN700000003549340422  387011
+QLN700000015442Carrickfergus,Tesco Superstore
+QBN700000015442340852  387468
+QLN700000003550Model Primary School
+QBN700000003550340710  387116
+QLN700000003551Davy Street
+QBN700000003551341077  387211
+QLN700000003552Carrick Castle
+QBN700000003552341262  387274
+QLN700000003553Joymount
+QBN700000003553341565  387565
+QLN700000003704West Street
+QBN700000003704341178  387430
+QLN700000003703Victoria Street
+QBN700000003703341258  387588
+QLN700000015443Carrickfergus, Rail Station
+QBN700000015443341179  387679
+QLN700000003554Scotch Quarter
+QBN700000003554341946  387825
+QLN700000003555Royal Oak
+QBN700000003555342164  387962
+QLN700000003556Downshire Halt
+QBN700000003556342328  388105
+QLN700000003557Downshire Road
+QBN700000003557342616  388318
+QLN700000003558Saint Colmans Church
+QBN700000003558342878  388497
+QLN700000003559Pumping Station
+QBN700000003559343077  388652
+QLN700000003717Trailcock Road
+QBN700000003717343180  388879
+QLN700000003719Dromore Road
+QBN700000003719342877  389065
+QLN700000003720Alexander Road
+QBN700000003720342443  388837
+QLN700000003721Castle Road
+QBN700000003721342297  388602
+QLN700000003723Old Grange
+QBN700000003723342081  389014
+QLN700000003724Ulidia School
+QBN700000003724341968  389035
+QLN700000003685Oakfield Church
+QBN700000003685341282  389221
+QLN700000003686Oakfield Primary School
+QBN700000003686341279  389390
+QLN700000003687Beechfield Close
+QBN700000003687341262  389683
+QLN700000003688Church Of Nazarene
+QBN700000003688341375  389838
+QLN700000003689Bessfield
+QBN700000003689341462  390030
+QLN700000003661Salatober Nursery
+QBN700000003661341239  389839
+QLN700000003662Salatober Road
+QBN700000003662341056  389685
+QLN700000003634Milebush Corner
+QBN700000003634340801  389623
+QLN700000003560Trailcock Road
+QBN700000003560343280  388871
+QLN700000003561Eden Village
+QBN700000003561343454  389006
+QLN700000003562Kilroot
+QBN700000003562343622  389141
+QLN700000003563Kilroot Business Park
+QBN700000003563344018  389534
+QLN700000003564Salt Mines
+QBN700000003564344470  389896
+QLN700000003565Rawbrae Road
+QBN700000003565345459  390802
+QLN700000003566Mcevoys Shop
+QBN700000003566346210  390969
+QLN700000003567Quay Lane
+QBN700000003567346511  391091
+QLN700000003568Raphael Road
+QBN700000003568347091  391607
+QLN700000003569Cable Road
+QBN700000003569346866  392096
+QLN700000003570Brooklands Park
+QBN700000003570346795  392482
+QLN700000003571Old Forge
+QBN700000003571347187  392579
+QLN700000003572Connors Shop
+QBN700000003572347407  392400
+QLN700000003573Whitehead Terminus
+QBN700000003573347521  391900
+QLN700000003574Connors Shop
+QBN700000003574347451  392349
+QLN700000003575Old Forde
+QBN700000003575347170  392573
+QLN700000003576Brooklands Avenue
+QBN700000003576346797  392477
+QLN700000003577Cable Road
+QBN700000003577346902  392015
+QLN700000003578Raphael Road
+QBN700000003578347110  391633
+QLN700000003579Mcevoys Shop
+QBN700000003579346221  390944
+QLN700000003580Rawbrae Road
+QBN700000003580345351  390688
+QLN700000003581Kilroot Business Park
+QBN700000003581343997  389477
+QLN700000003582Kilroot
+QBN700000003582343590  389084
+QLN700000003712Old Grange Drive
+QBN700000003712342099  389004
+QLN700000003684Straidwalk
+QBN700000003684341165  389122
+QLN700000003690Milebush Cottages
+QBN700000003690340920  389575
+QLN700000003664Berkerley Road
+QBN700000003664340559  389596
+QLN700000003665Windslow Heights
+QBN700000003665340355  389563
+QLN700000003666Meadow Hill
+QBN700000003666340021  389478
+QLN700000003691Oakland Park
+QBN700000003691340976  389298
+QLN700000003692Carrick Grammar School
+QBN700000003692341047  388984
+QLN700000003693Cherry Tree House
+QBN700000003693341104  388804
+QLN700000003694Northlands
+QBN700000003694340998  388609
+QLN700000003695Northlands/Sunnylands Ave
+QBN700000003695340788  388609
+QLN700000003696Thorndale Square
+QBN700000003696340744  388504
+QLN700000003697Chichester Square
+QBN700000003697340786  388335
+QLN700000015453Sunnylands Avenue
+QBN700000015453340863  388175
+QLN700000003699Bridewell Drive
+QBN700000003699341165  388292
+QLN700000003701Carrrickfergus Golf Club
+QBN700000003701341255  388277
+QLN700000015452Prince William Way
+QBN700000015452341334  388001
+QLN700000015437Barn Road
+QBN700000015437341875  388177
+QLN700000015450Elizabeth Avenue, Bus Stop
+QBN700000015450342283  388168
+QLN700000003585Eden Village
+QBN700000003585343413  388933
+QLN700000003583Eden Post Office
+QBN700000003583343233  388801
+QLN700000003722Victoria Road
+QBN700000003722342329  388263
+QLN700000003713Castle Road
+QBN700000003713342243  388595
+QLN700000003714Downshire Road
+QBN700000003714342415  388750
+QLN700000003715Alexander Road
+QBN700000003715342454  388848
+QLN700000003716Dromore Road
+QBN700000003716342811  389030
+QLN700000003718Trailcock Road
+QBN700000003718343129  389038
+QLN700000003584Eden Pumping Station
+QBN700000003584343105  388651
+QLN700000003586Saint Colmans Church
+QBN700000003586342872  388464
+QLN700000003587Downshire Road
+QBN700000003587342610  388285
+QLN700000003588Downshire Halt
+QBN700000003588342344  388083
+QLN700000003589Royal Oak
+QBN700000003589342207  387970
+QLN700000003590Scotch Quarter
+QBN700000003590341931  387798
+QLN700000003591Joymount/Carrickfergus
+QBN700000003591341558  387526
+QLN700000003592Carrick Castle
+QBN700000003592341286  387256
+QLN700000003593Davy Street
+QBN700000003593341001  387163
+QLN700000003594Model Primary School
+QBN700000003594340837  387132
+QLN700000003595Forfield Fitness Club
+QBN700000003595340576  387038
+QLN700000003596Quality Hotel
+QBN700000003596340183  386860
+QLN700000003597Wilsons Garage
+QBN700000003597339959  386727
+QLN700000003598Magowan Tyres
+QBN700000003598339574  386497
+QLN700000003599Trooperslane
+QBN700000003599339235  386272
+QLN700000003600Carreras
+QBN700000003600338833  385806
+QLN700000003601Greenisland Post Office
+QBN700000003601338466  385391
+QLN700000003602Ravenhill Nursing Home
+QBN700000003602338208  385145
+QLN700000003603Russels Cellars
+QBN700000003603338022  384971
+QLN700000003540Lower Greenisland Station Road
+QBN700000003540337884  384842
+QLN700000003605Shorelands
+QBN700000003605337657  384525
+QLN700000003606Neills Lane
+QBN700000003606337374  384260
+QLN700000003607Silverstream House
+QBN700000003607337217  384123
+QLN700000003608Jordanstown University
+QBN700000003608336759  383766
+QLN700000003609Jordanstown Road
+QBN700000003609336541  383555
+QLN700000003610Circular Road Whiteabbey
+QBN700000003610336168  383166
+QLN700000015195Whiteabbey Presbyterian Church
+QBN700000015195336004  383010
+QLN700000003611Dillons Avenue
+QBN700000003611335756  382688
+QLN700000003612Whiteabbey Station Road
+QBN700000003612335512  382381
+QLN700000001401Northern Regional College
+QBN700000001401335409  382015
+QLN700000001402Shore Road (M5 Roundabout)
+QBN700000001402335108  381359
+QLN700000001403Doagh Road
+QBN700000001403335070  381254
+QLN700000001595Merville Mews
+QBN700000001595334968  380800
+QLN700000001596Merville Garden Village
+QBN700000001596334842  380555
+QLN700000000580Whitehouse
+QBN700000000580334567  380267
+QLN700000000582Bawnmore
+QBN700000000582334392  379969
+QLN700000000584Shore Road (Grays Lane)
+QBN700000000584334181  379084
+QLN700000000586Parkmount
+QBN700000000586334144  378890
+QLN700000000588Shore Crescent
+QBN700000000588334129  378665
+QLN700000000590Donegall Park Avenue
+QBN700000000590334140  378554
+QLN700000000592Loughside
+QBN700000000592334147  378324
+QLN700000000594Lowwood Park
+QBN700000000594334175  378011
+QLN700000000596Mount Vernon
+QBN700000000596334217  377822
+QLN700000000598Shore Road (Safeway)
+QBN700000000598334145  377503
+QLN700000000600York Drive
+QBN700000000600334176  377255
+QLN700000000604Seaview
+QBN700000000604334202  377090
+QLN700000000606Skegoneill
+QBN700000000606334174  376750
+QLN700000000608Fife Street
+QBN700000000608334181  376614
+QLN700000000610Ivan Street
+QBN700000000610334168  376357
+QLN700000000612Mountcollyer
+QBN700000000612334148  376095
+QLN700000000616York Street (St Paul's)
+QBN700000000616334216  375736
+QLN700000000618Yorkgate Station
+QBN700000000618334247  375591
+QLN700000001417Nelson Street Bus Lane
+QBN700000001417334395  375581
+QLN700000001418Nelson Street (Dock Street)
+QBN700000001418334302  375357
+QLN700000001419Nelson Street (M3)
+QBN700000001419334168  375089
+QLN700000001420Dunbar Link
+QBN700000001420333936  374906
+QLN700000001515Interpoint
+QBN700000001515333849  374819
+QLN700000001516Central Library
+QBN700000001516333760  374682
+QLN700000001422Royal Avenue
+QBN700000001422333783  374438
+QLN700000001785Castle Junction
+QBN700000001785333883  374326
+QLN700000001786Donegall Place
+QBN700000001786333829  374149
+QLN700000001647High Street
+QBN700000001647334024  374405
+QLN700000015150Victoria Centre
+QBN700000015150334136  374128
+QLN700000001405Abbey Park
+QBN700000001405334931  381362
+QLN700000001406Rush Park
+QBN700000001406334825  381564
+QLN700000001407Doagh Road (Green End)
+QBN700000001407334734  381824
+QLN700000001408Abbot's Cross
+QBN700000001408334702  382066
+QLN700000001409Heather Park
+QBN700000001409334678  382256
+QLN700000001410Cloughfern (Whiteabbey Hospital)
+QBN700000001410334651  382515
+QLN700000001358Abbey Court
+QBN700000001358335377  382322
+QLN700000001360Fernagh Avenue
+QBN700000001360335035  382498
+QLN700000001362Cloughfern (Station Road)
+QBN700000001362334820  382548
+QLN700000001411Knockenagh Avenue
+QBN700000001411334570  382769
+QLN700000001412King's Road
+QBN700000001412334446  383079
+QLN700000001413Hillcrest Villas
+QBN700000001413334344  383338
+QLN700000001414Doagh Road (Cherrylands)
+QBN700000001414334264  383533
+QLN700000003613Abbey Green
+QBN700000003613334310  384238
+QLN700000003614Monkstown Community High
+QBN700000003614334324  384461
+QLN700000003615Lisbane Avenue
+QBN700000003615334310  384637
+QLN700000003616Monkstown Top Road
+QBN700000003616334305  385049
+QLN700000003617Oaklands
+QBN700000003617334630  385143
+QLN700000003618Brambles
+QBN700000003618334765  385167
+QLN700000003678Hedgelea
+QBN700000003678335030  385235
+QLN700000003619Hedgelea
+QBN700000003619335387  385400
+QLN700000003620Crows Farm
+QBN700000003620335855  385621
+QLN700000003621Farm Lodge
+QBN700000003621336139  385684
+QLN700000003622Jet Servise Station
+QBN700000003622336351  385732
+QLN700000003623Upper Greenisland Station Road
+QBN700000003623336829  385923
+QLN700000003624Presbyterian Church
+QBN700000003624337063  386032
+QLN700000003625Downview
+QBN700000003625337362  386235
+QLN700000003626Trooperslane Road
+QBN700000003626338606  386945
+QLN700000003627Woodburn Corner
+QBN700000003627339309  388591
+QLN700000003628Prospect Road
+QBN700000003628339519  389209
+QLN700000003629Hillview Farm
+QBN700000003629339692  389335
+QLN700000003630Meadow Hill
+QBN700000003630339984  389476
+QLN700000003663Milebush Corner
+QBN700000003663340857  389645
+QLN700000003635Salatober Road
+QBN700000003635341043  389688
+QLN700000003636Salatober Nursery
+QBN700000003636341236  389849
+QLN700000003637Bradford Heights
+QBN700000003637341731  390282
+QLN700000003638Copperwood Road
+QBN700000003638342057  390513
+QLN700000003639Craiglands
+QBN700000003639342336  390704
+QLN700000003640Beltoy Corner
+QBN700000003640343035  390927
+QLN700000003746Dalways Bawn Road
+QBN700000003746344192  391085
+QLN700000003641Milltown Cemetry
+QBN700000003641344724  392780
+QLN700000003744Ballycarry Post Office
+QBN700000003744344786  393848
+QLN700000003745West Street Ballycarry
+QBN700000003745344738  394048
+QLN700000003642Woodlands
+QBN700000003642345091  394152
+QLN700000003643Island Road
+QBN700000003643345609  394315
+QLN700000003644Ballycarry Halt
+QBN700000003644346272  394541
+QLN700000003645Lough Cottage
+QBN700000003645346731  394629
+QLN700000003646Duffs Corner
+QBN700000003646347191  394671
+QLN700000003647Mcreas Brae
+QBN700000003647347308  393071
+QLN700000015445Copperwood Road
+QBN700000015445342215  390419
+QLN700000003660Bradford Heights
+QBN700000003660341709  390258
+QLN700000003698Sunnylands Roundabout
+QBN700000003698340849  388186
+QLN700000003648Mcraes Brae
+QBN700000003648347272  393123
+QLN700000003649Duffs Corner
+QBN700000003649347189  394582
+QLN700000003650Lough Cottage
+QBN700000003650346731  394607
+QLN700000003651Ballycarry Halt
+QBN700000003651346266  394521
+QLN700000003652Island Road
+QBN700000003652345619  394294
+QLN700000003653Woodlands
+QBN700000003653345095  394131
+QLN700000003654Ballycarry Village
+QBN700000003654344760  394039
+QLN700000003655Ballycarry Post Office
+QBN700000003655344804  393870
+QLN700000003656Milltown
+QBN700000003656344731  392783
+QLN700000003657Beltoy Corner
+QBN700000003657343049  390924
+QLN700000003658Craiglands
+QBN700000003658342348  390705
+QLN700000003659Castlemeadows
+QBN700000003659342066  390514
+QLN700000003632Berkeley Road
+QBN700000003632340502  389577
+QLN700000003631Windslow Heights
+QBN700000003631340226  389535
+QLN700000003667Hillview Farm
+QBN700000003667339651  389292
+QLN700000003668Prospect Road
+QBN700000003668339532  389207
+QLN700000003669Woodburn Corner
+QBN700000003669339318  388580
+QLN700000003670Trooperslane
+QBN700000003670338494  386855
+QLN700000003671Downview Road
+QBN700000003671337491  386325
+QLN700000003672Patterson Hall
+QBN700000003672337044  386013
+QLN700000003673Upper Greenisland Station Road
+QBN700000003673336859  385924
+QLN700000003674Jet Service Station
+QBN700000003674336362  385727
+QLN700000003675Farm Lodge
+QBN700000003675336232  385695
+QLN700000003676Crows Farm
+QBN700000003676335845  385599
+QLN700000003677The Kennels
+QBN700000003677335390  385376
+QLN700000003679The Brambles
+QBN700000003679334772  385159
+QLN700000003680Oaklands
+QBN700000003680334624  385133
+QLN700000003681Monkstown Top Road
+QBN700000003681334311  385049
+QLN700000003682Lisbane Avenue
+QBN700000003682334320  384619
+QLN700000003683Jordanstown Road
+QBN700000003683334344  384329
+QLN700000001443Doagh Road (Cherrylands)
+QBN700000001443334236  383621
+QLN700000001444Hillcrest Villas
+QBN700000001444334315  383428
+QLN700000001448King's Road
+QBN700000001448334433  383136
+QLN700000001449Knockenagh Avenue
+QBN700000001449334589  382748
+QLN700000001397Cloughfern (Station Road)
+QBN700000001397334752  382572
+QLN700000001450Cloughfern (Whiteabbey Hospital)
+QBN700000001450334665  382468
+QLN700000001398Fernagh Avenue
+QBN700000001398334960  382525
+QLN700000001399Whiteabbey Halt
+QBN700000001399335136  382472
+QLN700000001400Abbey Court
+QBN700000001400335377  382334
+QLN700000001451Heather Park
+QBN700000001451334683  382284
+QLN700000001452Abbot's Cross
+QBN700000001452334718  382002
+QLN700000001453Doagh Road (Green End)
+QBN700000001453334745  381806
+QLN700000001454Rush Park
+QBN700000001454334834  381564
+QLN700000001455Abbey Park
+QBN700000001455334947  381340
+QLN700000015462The Rhinka
+QBN700000015462347544  394719
+QLN700000015459Mullaghboy
+QBN700000015459346348  400672
+QLN700000015460Kilcoan Primary School
+QBN700000015460346222  399040
+QLN700000015439Browns Bay, Village
+QBN700000015439343670  402813
+QLN700000015436Ballylumford
+QBN700000015436342051  402244
+QLN700000015461Millbay Bridge, Bus Stop
+QBN700000015461344813  399555
+QLN700000003741Jordanstown Turning Circle
+QBN700000003741336763  383739
+QLN700000003705Lacken Walk
+QBN700000003705334499  382805
+QLN700000003706Lacken Gardens
+QBN700000003706334453  382678
+QLN700000003707Tulleevin Walk
+QBN700000003707334353  382614
+QLN700000003708Renagh Park
+QBN700000003708334190  382545
+QLN700000003709Altnacreeve Park
+QBN700000003709334159  382465
+QLN700000003789Green End
+QBN700000003789334591  381758
+QLN700000003786Rathmullan Drive
+QBN700000003786334512  381748
+QLN700000003806Rathcoole Diamond
+QBN700000003806334481  381475
+QLN700000003807Avonlea Gardens
+QBN700000003807334527  381320
+QLN700000003808Armoy Gardens
+QBN700000003808334587  381104
+QLN700000003809Newtownabbey Community School
+QBN700000003809334803  380988
+QLN700000000784Abbeycentre
+QBN700000000784334307  380520
+QLN700000001340Newtownabbey Courthouse
+QBN700000001340334040  380870
+QLN700000001342Valley Retail Park
+QBN700000001342333818  381218
+QLN700000001344Valley Leisure Centre
+QBN700000001344333591  381416
+QLN700000001346Valley Buisness Centre
+QBN700000001346333354  381799
+QLN700000001597Bombardier
+QBN700000001597333129  381855
+QLN700000001598Old Council Depot
+QBN700000001598332747  381762
+QLN700000001599Elmfield Road
+QBN700000001599332462  381608
+QLN700000001209Elmfield
+QBN700000001209332263  381777
+QLN700000001211Church Road
+QBN700000001211332071  381969
+QLN700000001213Glengormley (Ulster Bank)
+QBN700000001213331820  382156
+QLN700000001520Glengormley Park
+QBN700000001520331688  382416
+QLN700000001522Hillview Park
+QBN700000001522331601  382723
+QLN700000001523Ballyclare Road (Northcott)
+QBN700000001523331546  382906
+QLN700000001524Glenvarna Walk
+QBN700000001524331432  383347
+QLN700000001525Carwood Avenue
+QBN700000001525331379  383546
+QLN700000001526Manse Road
+QBN700000001526331339  383685
+QLN700000001485Ballycraigy Road
+QBN700000001485331312  383888
+QLN700000001486Ballyearl Drive
+QBN700000001486331302  384261
+QLN700000001487Ballyhenry (Ballyearl Way)
+QBN700000001487331437  384421
+QLN700000001488Milewater Court
+QBN700000001488331544  384512
+QLN700000001489Carn Court
+QBN700000001489331815  384522
+QLN700000001490New Mossley (Manse Way)
+QBN700000001490331747  384239
+QLN700000001504Carn Court
+QBN700000001504331787  384516
+QLN700000001505Carn Crescent
+QBN700000001505331642  384501
+QLN700000001506Milewater Drive
+QBN700000001506331513  384509
+QLN700000001508Ballyhenry (Ballyearl Way)
+QBN700000001508331444  384366
+QLN700000001509Ballyearl Drive
+QBN700000001509331342  384285
+QLN700000001510Ballycraigy Road
+QBN700000001510331316  383898
+QLN700000001527Manse Road
+QBN700000001527331360  383637
+QLN700000001528Ladysmith Lane
+QBN700000001528331417  383423
+QLN00000015
+QBN00000015
+QLN700000001529Ballyclare Road (Northcott)
+QBN700000001529331535  382984
+QLN700000001530Hillview Park
+QBN700000001530331597  382765
+QLN700000001532Glengormley Park
+QBN700000001532331678  382481
+QLN700000001235Glengormley (Ulster Bank)
+QBN700000001235331888  382102
+QLN700000001237Church Road
+QBN700000001237332129  381946
+QLN700000001239Elmfield
+QBN700000001239332251  381818
+QLN700000001600Elmfield Road
+QBN700000001600332467  381617
+QLN700000001601Old Council Depot
+QBN700000001601332746  381769
+QLN700000001602Bombardier
+QBN700000001602333111  381851
+QLN700000001348Valley Buisness Centre
+QBN700000001348333360  381802
+QLN700000001350Valley Leisure Centre
+QBN700000001350333594  381434
+QLN700000001352Valley Retail Park
+QBN700000001352333801  381253
+QLN700000001354Newtownabbey Courthouse
+QBN700000001354334041  380898
+QLN700000000780Abbeycentre
+QBN700000000780334365  380771
+QLN700000000782Abbeycentre
+QBN700000000782334486  380707
+QLN700000003772Newtownabbey Community School
+QBN700000003772334810  380977
+QLN700000003773Armoy Gardens
+QBN700000003773334582  381099
+QLN700000003774Avonlea Gardens
+QBN700000003774334520  381304
+QLN700000003805Rathcoole Diamond
+QBN700000003805334440  381531
+QLN700000003787Rathmullan Drive
+QBN700000003787334499  381734
+QLN700000003788Green End
+QBN700000003788334625  381757
+QLN700000003702Prince William Way
+QBN700000003702341323  388019
+QLN700000015456Woodburn Corner
+QBN700000015456339357  388597
+QLN700000015449Victoria Estate, Princes Way
+QBN700000015449342213  388383
+QLN700000015448Victoria Road
+QBN700000015448342234  388497
+QLN700000015454Carrickfergus, Sandes Court
+QBN700000015454340608  388033
+QLN700000015441Carrickfergus, Sandringham Avenue
+QBN700000015441340419  389113
+QLN700000015440Comorant Park
+QBN700000015440341024  389246
+QLN700000015457Fulmar Avenue
+QBN700000015457341069  389163
+QLN700000015458Dunluskin
+QBN700000015458341512  388885
+QLN700000003725Love Lane
+QBN700000003725341660  388900
+QLN700000015451Taylors Avenue (Health Centre)
+QBN700000015451341850  388013
+QLN700000014708Regent Park
+QBN700000014708342770  389195
+QLN700000014709Bluefield Road
+QBN700000014709342584  389424
+QLN700000014711Prince Andrew Way
+QBN700000014711342472  389374
+QLN700000014710Prince Andrew Way
+QBN700000014710342467  389382
+QLN700000015438Broadlands Gardens
+QBN700000015438342547  389760
+QLN700000015447Tudor Road
+QBN700000015447342334  389945
+QLN700000015446Plantation Avenue
+QBN700000015446342332  390299
+QLN700000014808McAllister's Cottage
+QBN700000014808332085  385685
+QLN700000014807Forkins Corner
+QBN700000014807331582  387378
+QLN700000014806Dorvic Caravans
+QBN700000014806330415  388881
+QLN700000014805Boyce's Halt
+QBN700000014805329492  390168
+QLN700000004616Ballyclare Bus Depot
+QBN700000004616329001  390828
+QLN700000004617Main St Ballyclare
+QBN700000004617328888  391098
+QLN700000004618The Square Ballyclare
+QBN700000004618328711  391180
+QLN700000014775BallyclareSecondary School
+QBN700000014775328601  391174
+QLN700000014777The Chapel
+QBN700000014777328360  391021
+QLN700000005844Marvista Ave
+QBN700000005844327977  390846
+QLN700000005845The Cloughan
+QBN700000005845327730  390719
+QLN700000014779Graveyard
+QBN700000014779327567  390632
+QLN700000005846Thornditch
+QBN700000005846326993  390181
+QLN700000005847Doagh Village
+QBN700000005847326329  389571
+QLN700000005848Anderstown Park
+QBN700000005848326184  389504
+QLN700000014789Burn Road
+QBN700000014789326034  389371
+QLN700000005849The Chase
+QBN700000005849322917  387782
+QLN700000005850Parkgate Village
+QBN700000005850322758  387709
+QLN700000014791Loughmore Rd
+QBN700000014791322040  387185
+QLN700000014792Footbridge
+QBN700000014792320868  387210
+QLN700000005833Donegore
+QBN700000005833320050  387343
+QLN700000005832Lower Burnside
+QBN700000005832319446  387273
+QLN700000005831Rathmore School
+QBN700000005831318721  386909
+QLN700000005796Greystone Roundabout
+QBN700000005796316927  386863
+QLN700000005765Footway Rathenraw
+QBN700000005765316722  387149
+QLN700000005640Birchill Road
+QBN700000005640316168  387659
+QLN700000005641Footbridge
+QBN700000005641315871  387863
+QLN700000005818Bush Town Road
+QBN700000005818316130  388472
+QLN700000015537Old Peoples Home
+QBN700000015537316682  389018
+QLN700000005820Antrim Hospital
+QBN700000005820316826  388816
+QLN700000005645Antrim Depot
+QBN700000005645315273  387032
+QLN700000015538Old People's Home
+QBN700000015538316709  389003
+QLN700000014793Bush Road
+QBN700000014793316621  388922
+QLN700000014794Bush Road 2
+QBN700000014794316071  388326
+QLN700000005642Steeple Green
+QBN700000005642315657  387841
+QLN700000005643Steeple View
+QBN700000005643315567  387580
+QLN700000005644Subway Station Road
+QBN700000005644315501  387389
+QLN700000005646Subway Station Road
+QBN700000005646315496  387429
+QLN700000005647Council Offices
+QBN700000005647315559  387615
+QLN700000005648Footbridge Stiles Way
+QBN700000005648315898  387881
+QLN700000005649Birchill Road
+QBN700000005649316305  387572
+QLN700000005797Greystone Roundabout
+QBN700000005797316963  386828
+QLN700000005853Rathmore School
+QBN700000005853318739  386935
+QLN700000005852Lower Burnside
+QBN700000005852319195  387129
+QLN700000015765Dunegore
+QBN700000015765320050  387361
+QLN700000005834Footbridge
+QBN700000005834320854  387229
+QLN700000005851Paradise Park
+QBN700000005851322460  387582
+QLN700000005836Parkgate Village
+QBN700000005836322816  387750
+QLN700000005837Four Mile Burn
+QBN700000005837324116  387955
+QLN700000014787Burn Road
+QBN700000014787326035  389389
+QLN700000005838Doagh Village
+QBN700000005838326316  389588
+QLN700000005839Thornditch
+QBN700000005839326924  390137
+QLN700000005840Graveyard
+QBN700000005840327570  390657
+QLN700000005841The Cloughan
+QBN700000005841327732  390729
+QLN700000005842Clare Heights
+QBN700000005842327946  390833
+QLN700000005843Ollardale
+QBN700000005843328293  391012
+QLN700000015193Secondary School
+QBN700000015193328526  391121
+QLN700000004619Woodsides Ballyclare
+QBN700000004619328768  391221
+QLN700000004620Safeway Ballyclare
+QBN700000004620328906  391094
+QLN700000014814Forkins Corner
+QBN700000014814331610  387375
+QLN700000014809McAllister's Cottage
+QBN700000014809332102  385689
+QPNULB Ulsterbus               Ulsterbus
+QQ
+QPNUTS Ulsterbus Town Services Ulsterbus Town Services
+QQ
+QVNDD      DOUBLE DECK
+QVNLF      LOW FLOOR
+QVNMB      MINIBUS
+QVNRUR     55-SEAT RURAL BUS (4xx)
+QDNULB 163bOBelfast - Kilroot - Whitehead
+QDNULB 163cOBelfast - Carrickfergus Rail Station
+QDNULB 163 OBelfast - Kilroot - Whitehead
+QDNULB 563 OBelfast - Kilroot - Whitehead
+QDNULB 563bOBelfast - Kilroot - Whitehead
+QDNULB 263 OBelfast - Kilroot - Whitehead
+QDNULB 263aOBelfast - Carrickfergus
+QDNULB 263aICarrickfergus - Belfast
+QDNULB 563 IWhitehead - Kilroot - Belfast
+QDNULB 263 IWhitehead - Kilroot - Belfast
+QDNULB 566 IGreenisland - Belfast
+QDNULB 163bIWhitehead - Kilroot - Belfast
+QDNULB 163 IWhitehead - Kilroot - Belfast
+QDNULB 163dICarrickfergus - Belfast
+QDNULB 563bIWhitehead - Kilroot - Belfast
+QDNULB 563aIWhitehead - Kilroot - Carrickfergus
+QDNULB 568 OBelfast - Carrickfergus
+QDNULB 568aOBelfast - Carrickfergus
+QDNULB 168 OBelfast - Carrickfergus - Ballycarry - Whitehead
+QDNULB 168cOBelfast - Carrickfergus
+QDNULB 168aIWhitehead - Ballycarry - Carrickfergus - Belfast
+QDNULB 168 IWhitehead - Ballycarry - Carrickfergus - Belfast
+QDNULB 568bIWhitehead - Ballycarry - Carrickfergus - Belfast
+QDNULB 568 ICarrickfergus - Belfast
+QDNULB 568aICarrickfergus - Belfast
+QDNULB 169 OWhitehead, Cable Road - Brown's Bay, Village
+QDNULB 169aOWhitehead, Cable Road - Brown's Bay, Village
+QDNUTS 367 ONewtownabbey Town Service
+QDNUTS 367 INewtownabbey Town Service
+QDNUTS 365aOCarrickfergus Town Service
+QDNUTS 365bOCarrickfergus Town Service
+QDNUTS 365cOCarrickfergus Town Service
+QDNUTS 365dOCarrickfergus Town Service
+QDNUTS 365eOCarrickfergus Town Service
+QDNUTS 365fOCarrickfergus Town Service
+QDNULB 168bOCarrickfergus - Antrim Area Hospital - Antrim
+QDNULB 168bIAntrim Area Hospital - Antrim - Carrickfergus

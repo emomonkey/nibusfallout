@@ -1,0 +1,762 @@
+ATCO-CIF0500Ulsterbus                       OMNITIMES       20180521110530
+QDNULB 652 OBelfast, Europa Buscentre - Cairnshill Park N Ride                  
+QSNULB 0930  20180702999999991111100 X652       DD              O
+QO7000000153630930   T1  
+QNp    pick up only                                                            
+QI70000000163709350935P   T1  
+QNp    pick up only                                                            
+QI70000000027709400940P   T1  
+QNp    pick up only                                                            
+QI70000000028109440944P   T1  
+QNp    pick up only                                                            
+QI70000001532809590959B   T1  
+QI70000001589610011001S   T1  
+QNs    set down only                                                           
+QI70000001469610031003S   T1  
+QNs    set down only                                                           
+QI70000000767310041004S   T1  
+QNs    set down only                                                           
+QT7000000153741005   T1  
+QNs    set down only                                                           
+QDNULB 652 OBelfast, Europa Buscentre - Cairnshill Park N Ride                  
+QSNULB 1000  20180702999999991111100 X652       DD              O
+QO7000000153631000   T1  
+QNp    pick up only                                                            
+QI70000000163710051005P   T1  
+QNp    pick up only                                                            
+QI70000000027710081008P   T1  
+QNp    pick up only                                                            
+QI70000000028110101010P   T1  
+QNp    pick up only                                                            
+QT7000000153281025   T1  
+QNs    set down only                                                           
+QDNULB 652 OBelfast, Europa Buscentre - Cairnshill Park N Ride                  
+QSNULB 1100  20180702999999991111100 X652       DD              O
+QO7000000153631100   T1  
+QNp    pick up only                                                            
+QI70000000163711051105P   T1  
+QNp    pick up only                                                            
+QI70000000027711081108P   T1  
+QNp    pick up only                                                            
+QI70000000028111101110P   T1  
+QNp    pick up only                                                            
+QT7000000153281125   T1  
+QNs    set down only                                                           
+QDNULB 652 OBelfast, Europa Buscentre - Cairnshill Park N Ride                  
+QSNULB 1200  20180702999999991111100 X652       DD              O
+QO7000000153631200   T1  
+QNp    pick up only                                                            
+QI70000000163712051205P   T1  
+QNp    pick up only                                                            
+QI70000000027712101210P   T1  
+QNp    pick up only                                                            
+QI70000000028112141214P   T1  
+QNp    pick up only                                                            
+QI70000001532812291229B   T1  
+QI70000001589612311231S   T1  
+QNs    set down only                                                           
+QI70000001469612331233S   T1  
+QNs    set down only                                                           
+QI70000000767312341234S   T1  
+QNs    set down only                                                           
+QT7000000153741235   T1  
+QNs    set down only                                                           
+QDNULB 652 OBelfast, Europa Buscentre - Cairnshill Park N Ride                  
+QSNULB 1300  20180702999999991111100 X652       SD              O
+QO7000000153631300   T1  
+QNp    pick up only                                                            
+QI70000000163713051305P   T1  
+QNp    pick up only                                                            
+QI70000000027713081308P   T1  
+QNp    pick up only                                                            
+QI70000000028113101310P   T1  
+QNp    pick up only                                                            
+QT7000000153281325   T1  
+QNs    set down only                                                           
+QDNULB 652 OBelfast, Europa Buscentre - Cairnshill Park N Ride                  
+QSNULB 1400  20180702999999991111100 X652       SD              O
+QO7000000153631400   T1  
+QNp    pick up only                                                            
+QI70000000163714051405P   T1  
+QNp    pick up only                                                            
+QI70000000027714081408P   T1  
+QNp    pick up only                                                            
+QI70000000028114101410P   T1  
+QNp    pick up only                                                            
+QT7000000153281425   T1  
+QNs    set down only                                                           
+QDNULB 652 OBelfast, Europa Buscentre - Cairnshill Park N Ride                  
+QSNULB 1430  20180702999999991111100 X652       DD              O
+QO7000000153631430   T1  
+QNp    pick up only                                                            
+QI70000000163714351435P   T1  
+QNp    pick up only                                                            
+QI70000000027714381438P   T1  
+QNp    pick up only                                                            
+QI70000000028114401440P   T1  
+QNp    pick up only                                                            
+QT7000000153281455   T1  
+QNs    set down only                                                           
+QDNULB 652 OBelfast, Europa Buscentre - Cairnshill Park N Ride                  
+QSNULB 1500  20180702999999991111100 X652       SD              O
+QO7000000153631500   T1  
+QNp    pick up only                                                            
+QI70000000163715051505P   T1  
+QNp    pick up only                                                            
+QI70000000027715081508P   T1  
+QNp    pick up only                                                            
+QI70000000028115101510P   T1  
+QNp    pick up only                                                            
+QT7000000153281525   T1  
+QNs    set down only                                                           
+QDNULB 652 OBelfast, Europa Buscentre - Cairnshill Park N Ride                  
+QSNULB 1600  20180702999999991111100 X652       DD              O
+QO7000000153631600   T1  
+QNp    pick up only                                                            
+QI70000000163716051605P   T1  
+QNp    pick up only                                                            
+QI70000000027716101610P   T1  
+QNp    pick up only                                                            
+QI70000000028116141614P   T1  
+QNp    pick up only                                                            
+QI70000001532816291629B   T1  
+QI70000001589616321632S   T1  
+QNs    set down only                                                           
+QI70000001469616351635S   T1  
+QNs    set down only                                                           
+QI70000000767316371637S   T1  
+QNs    set down only                                                           
+QT7000000153741640   T1  
+QNs    set down only                                                           
+QDNULB 652 OBelfast, Europa Buscentre - Cairnshill Park N Ride                  
+QSNULB 1620  20180702999999991111100 X652       DD              O
+QO7000000153631620   T1  
+QI70000000163716251625P   T1  
+QI70000000027716301630P   T1  
+QI70000000028116341634P   T1  
+QI70000001532816491649B   T1  
+QI70000001589616511651S   T1  
+QI70000001469616531653S   T1  
+QI70000000767316541654S   T1  
+QT7000000153741655   T1  
+QDNULB 652 OBelfast, Europa Buscentre - Cairnshill Park N Ride                  
+QSNULB 1630  20180702999999991111100 X652       DD              O
+QO7000000153631630   T1  
+QNp    pick up only                                                            
+QI70000000163716351635P   T1  
+QNp    pick up only                                                            
+QI70000000027716381638P   T1  
+QNp    pick up only                                                            
+QI70000000028116401640P   T1  
+QNp    pick up only                                                            
+QT7000000153281655   T1  
+QNs    set down only                                                           
+QDNULB 652 OBelfast, Europa Buscentre - Cairnshill Park N Ride                  
+QSNULB 1645  20180702999999991111100SX652       DD              O
+QNSch  Schooldays Only                                                         
+QO7000000153631645   T1  
+QNp    pick up only                                                            
+QI70000000163716501650P   T1  
+QNp    pick up only                                                            
+QI70000000027716551655P   T1  
+QNp    pick up only                                                            
+QI70000000028117001700P   T1  
+QNp    pick up only                                                            
+QI70000001532817201720B   T1  
+QI70000001589617231723S   T1  
+QNs    set down only                                                           
+QI70000001469617261726S   T1  
+QNs    set down only                                                           
+QI70000000767317281728S   T1  
+QNs    set down only                                                           
+QT7000000153741730   T1  
+QNs    set down only                                                           
+QDNULB 652 OBelfast, Europa Buscentre - Cairnshill Park N Ride                  
+QSNULB 1645  20180702999999991111100HX652       DD              O
+QNNSch School Holidays                                                         
+QO7000000153631645   T1  
+QNp    pick up only                                                            
+QI70000000163716501650P   T1  
+QNp    pick up only                                                            
+QI70000000027716551655P   T1  
+QNp    pick up only                                                            
+QI70000000028117001700P   T1  
+QNp    pick up only                                                            
+QT7000000153281720   T1  
+QNs    set down only                                                           
+QDNULB 652 OBelfast, Europa Buscentre - Cairnshill Park N Ride                  
+QSNULB 1700  20180702999999991111100 X652       DD              O
+QO7000000153631700   T1  
+QNp    pick up only                                                            
+QI70000000163717051705P   T1  
+QNp    pick up only                                                            
+QI70000000027717101710P   T1  
+QNp    pick up only                                                            
+QI70000000028117151715P   T1  
+QNp    pick up only                                                            
+QI70000001532817351735B   T1  
+QI70000001589617381738S   T1  
+QNs    set down only                                                           
+QI70000001469617411741S   T1  
+QNs    set down only                                                           
+QI70000000767317431743S   T1  
+QNs    set down only                                                           
+QT7000000153741745   T1  
+QNs    set down only                                                           
+QDNULB 652 OBelfast, Europa Buscentre - Cairnshill Park N Ride                  
+QSNULB 1715  20180702999999991111100 X652       DD              O
+QO7000000153631715   T1  
+QNp    pick up only                                                            
+QI70000000163717201720P   T1  
+QNp    pick up only                                                            
+QI70000000027717251725P   T1  
+QNp    pick up only                                                            
+QI70000000028117301730P   T1  
+QNp    pick up only                                                            
+QI70000001532817501750B   T1  
+QI70000001589617531753S   T1  
+QNs    set down only                                                           
+QI70000001469617561756S   T1  
+QNs    set down only                                                           
+QI70000000767317581758S   T1  
+QNs    set down only                                                           
+QT7000000153741800   T1  
+QNs    set down only                                                           
+QDNULB 652 OBelfast, Europa Buscentre - Cairnshill Park N Ride                  
+QSNULB 1730  20180702999999991111100 X652       DD              O
+QO7000000153631730   T1  
+QNp    pick up only                                                            
+QI70000000163717351735P   T1  
+QNp    pick up only                                                            
+QI70000000027717401740P   T1  
+QNp    pick up only                                                            
+QI70000000028117451745P   T1  
+QNp    pick up only                                                            
+QI70000001532818051805B   T1  
+QI70000001589618081808S   T1  
+QNs    set down only                                                           
+QI70000001469618111811S   T1  
+QNs    set down only                                                           
+QI70000000767318131813S   T1  
+QNs    set down only                                                           
+QT7000000153741815   T1  
+QNs    set down only                                                           
+QDNULB 652bOBelfast, Europa Buscentre - Cairnshill Park N Ride -Ballynahinch, Wi
+QSNULB 1745  20180702999999991111100 X652b      DD              O
+QO7000000153631745   T1  
+QNp    pick up only                                                            
+QI70000000163717501750P   T1  
+QNp    pick up only                                                            
+QI70000000027717551755P   T1  
+QNp    pick up only                                                            
+QI70000000028118001800P   T1  
+QNp    pick up only                                                            
+QI70000001532818201820B   T1  
+QI70000001589618231823S   T1  
+QNs    set down only                                                           
+QI70000001469618261826S   T1  
+QNs    set down only                                                           
+QI70000000767318281828S   T1  
+QNs    set down only                                                           
+QI70000001537418301830S   T1  
+QNs    set down only                                                           
+QI70000000663018341834B   T1  
+QT7000000076901845   T1  
+QNs    set down only                                                           
+QDNULB 652bOBelfast, Europa Buscentre - Cairnshill Park N Ride -Ballynahinch, Wi
+QSNULB 1800  20180702999999991111100 X652b      DD              O
+QO7000000153631800   T1  
+QNp    pick up only                                                            
+QI70000000163718051805P   T1  
+QNp    pick up only                                                            
+QI70000000027718101810P   T1  
+QNp    pick up only                                                            
+QI70000000028118151815P   T1  
+QNp    pick up only                                                            
+QI70000001532818351835B   T1  
+QI70000001589618381838S   T1  
+QNs    set down only                                                           
+QI70000001469618411841S   T1  
+QNs    set down only                                                           
+QI70000000767318431843S   T1  
+QNs    set down only                                                           
+QI70000001537418451845S   T1  
+QNs    set down only                                                           
+QI70000000663018491849B   T1  
+QT7000000076901900   T1  
+QNs    set down only                                                           
+QDNULB 652bOBelfast, Europa Buscentre - Cairnshill Park N Ride -Ballynahinch, Wi
+QSNULB 1830  20180702999999991111100 X652b      DD              O
+QO7000000153631830   T1  
+QNp    pick up only                                                            
+QI70000000163718351835P   T1  
+QNp    pick up only                                                            
+QI70000000027718381838P   T1  
+QNp    pick up only                                                            
+QI70000000028118401840P   T1  
+QNp    pick up only                                                            
+QI70000001532818551855B   T1  
+QI70000001589618581858S   T1  
+QNs    set down only                                                           
+QI70000001469619011901S   T1  
+QNs    set down only                                                           
+QI70000000767319031903S   T1  
+QNs    set down only                                                           
+QI70000001537419051905S   T1  
+QNs    set down only                                                           
+QI70000000663019091909B   T1  
+QT7000000076901920   T1  
+QNs    set down only                                                           
+QDNULB 652 ICairnshill Park & Ride - Belfast, Europa Buscentre                  
+QSNULB 0650  20180702999999991111100 X652       DD              I
+QO7000000153740650   T1  
+QNp    pick up only                                                            
+QI70000000766706510651P   T1  
+QNp    pick up only                                                            
+QI70000001469406530653P   T1  
+QNp    pick up only                                                            
+QI70000000181606540654P   T1  
+QNp    pick up only                                                            
+QI70000001532806550700B   T1  
+QNp    pick up only                                                            
+QI70000000044107150715S   T1  
+QNs    set down only                                                           
+QI70000000044507180718S   T1  
+QNs    set down only                                                           
+QI70000001542107210721S   T1  
+QNs    set down only                                                           
+QT7000000153630725   T1  
+QNs    set down only                                                           
+QDNULB 652 ICairnshill Park & Ride - Belfast, Europa Buscentre                  
+QSNULB 0705  20180702999999991111100 X652       DD              I
+QO7000000153740705   T1  
+QNp    pick up only                                                            
+QI70000000766707080708P   T1  
+QNp    pick up only                                                            
+QI70000001469407130713P   T1  
+QNp    pick up only                                                            
+QI70000000181607180718P   T1  
+QNp    pick up only                                                            
+QI70000001532807250730B   T1  
+QNp    pick up only                                                            
+QI70000000044107430743S   T1  
+QNs    set down only                                                           
+QI70000000044507470747S   T1  
+QNs    set down only                                                           
+QI70000001542107510751S   T1  
+QNs    set down only                                                           
+QT7000000153630755   T1  
+QNs    set down only                                                           
+QDNULB 652 ICairnshill Park & Ride - Belfast, Europa Buscentre                  
+QSNULB 0715  20180702999999991111100 X652       DD              I
+QO7000000153740715   T1  
+QNp    pick up only                                                            
+QI70000000766707180718P   T1  
+QNp    pick up only                                                            
+QI70000001469407230723P   T1  
+QNp    pick up only                                                            
+QI70000000181607280728P   T1  
+QNp    pick up only                                                            
+QI70000001532807350740B   T1  
+QNp    pick up only                                                            
+QI70000000044107530753S   T1  
+QNs    set down only                                                           
+QI70000000044507570757S   T1  
+QNs    set down only                                                           
+QI70000001542108010801S   T1  
+QNs    set down only                                                           
+QT7000000153630805   T1  
+QNs    set down only                                                           
+QDNULB 652 ICairnshill Park & Ride - Belfast, Europa Buscentre                  
+QSNULB 0725  20180702999999991111100 X652       DD              I
+QO7000000153740725   T1  
+QNp    pick up only                                                            
+QI70000000766707280728P   T1  
+QNp    pick up only                                                            
+QI70000001469407330733P   T1  
+QNp    pick up only                                                            
+QI70000000181607380738P   T1  
+QNp    pick up only                                                            
+QI70000001532807450750B   T1  
+QNp    pick up only                                                            
+QI70000000044108030803S   T1  
+QNs    set down only                                                           
+QI70000000044508070807S   T1  
+QNs    set down only                                                           
+QI70000001542108110811S   T1  
+QNs    set down only                                                           
+QT7000000153630815   T1  
+QNs    set down only                                                           
+QDNULB 652 ICairnshill Park & Ride - Belfast, Europa Buscentre                  
+QSNULB 0735  20180702999999991111100 X652       DD              I
+QO7000000153740735   T1  
+QNp    pick up only                                                            
+QI70000000766707380738P   T1  
+QNp    pick up only                                                            
+QI70000001469407430743P   T1  
+QNp    pick up only                                                            
+QI70000000181607480748P   T1  
+QNp    pick up only                                                            
+QI70000001532807550800B   T1  
+QNp    pick up only                                                            
+QI70000000044108130813S   T1  
+QNs    set down only                                                           
+QI70000000044508170817S   T1  
+QNs    set down only                                                           
+QI70000001542108210821S   T1  
+QNs    set down only                                                           
+QT7000000153630825   T1  
+QNs    set down only                                                           
+QDNULB 652 ICairnshill Park & Ride - Belfast, Europa Buscentre                  
+QSNULB 0745  20180702999999991111100 X652       DD              I
+QO7000000153740745   T1  
+QNp    pick up only                                                            
+QI70000000766707480748P   T1  
+QNp    pick up only                                                            
+QI70000001469407530753P   T1  
+QNp    pick up only                                                            
+QI70000000181607580758P   T1  
+QNp    pick up only                                                            
+QI70000001532808050810B   T1  
+QNp    pick up only                                                            
+QI70000000044108230823S   T1  
+QNs    set down only                                                           
+QI70000000044508270827S   T1  
+QNs    set down only                                                           
+QI70000001542108310831S   T1  
+QNs    set down only                                                           
+QT7000000153630835   T1  
+QNs    set down only                                                           
+QDNULB 652 ICairnshill Park & Ride - Belfast, Europa Buscentre                  
+QSNULB       20180702999999991111100SX652       LF              I
+QNSch  Schooldays Only                                                         
+QO7000000153280815   T1  
+QNp    pick up only                                                            
+QI70000000044108300830S   T1  
+QNs    set down only                                                           
+QI70000000044508330833S   T1  
+QNs    set down only                                                           
+QI70000001542108360836S   T1  
+QNs    set down only                                                           
+QT7000000153630840   T1  
+QNs    set down only                                                           
+QDNULB 652 ICairnshill Park & Ride - Belfast, Europa Buscentre                  
+QSNULB 0755  20180702999999991111100 X652       DD              I
+QO7000000153740755   T1  
+QNp    pick up only                                                            
+QI70000000766707580758P   T1  
+QNp    pick up only                                                            
+QI70000001469408030803P   T1  
+QNp    pick up only                                                            
+QI70000000181608080808P   T1  
+QNp    pick up only                                                            
+QI70000001532808150820B   T1  
+QNp    pick up only                                                            
+QI70000000044108330833S   T1  
+QNs    set down only                                                           
+QI70000000044508370837S   T1  
+QNs    set down only                                                           
+QI70000001542108410841S   T1  
+QNs    set down only                                                           
+QT7000000153630845   T1  
+QNs    set down only                                                           
+QDNULB 652 ICairnshill Park & Ride - Belfast, Europa Buscentre                  
+QSNULB 0830  20180702999999991111100 X652       DD              I
+QO7000000153280830   T1  
+QNp    pick up only                                                            
+QI70000000044108450845S   T1  
+QNs    set down only                                                           
+QI70000000044508480848S   T1  
+QNs    set down only                                                           
+QI70000001542108510851S   T1  
+QNs    set down only                                                           
+QT7000000153630855   T1  
+QNs    set down only                                                           
+QDNULB 652 ICairnshill Park & Ride - Belfast, Europa Buscentre                  
+QSNULB 0840  20180702999999991111100SX652       DD              I
+QNSch  Schooldays Only                                                         
+QO7000000153280840   T1  
+QNp    pick up only                                                            
+QI70000000044108530853S   T1  
+QNs    set down only                                                           
+QI70000000044508570857S   T1  
+QNs    set down only                                                           
+QI70000001542109010901S   T1  
+QNs    set down only                                                           
+QT7000000153630905   T1  
+QNs    set down only                                                           
+QDNULB 652 ICairnshill Park & Ride - Belfast, Europa Buscentre                  
+QSNULB 0815  20180702999999991111100HX652       DD              I
+QNNSch School Holidays                                                         
+QO7000000153740815   T1  
+QNp    pick up only                                                            
+QI70000000766708180818P   T1  
+QNp    pick up only                                                            
+QI70000001469408230823P   T1  
+QNp    pick up only                                                            
+QI70000000181608280828P   T1  
+QNp    pick up only                                                            
+QI70000001532808350840B   T1  
+QNp    pick up only                                                            
+QI70000000044108530853S   T1  
+QNs    set down only                                                           
+QI70000000044508570857S   T1  
+QNs    set down only                                                           
+QI70000001542109010901S   T1  
+QNs    set down only                                                           
+QT7000000153630905   T1  
+QNs    set down only                                                           
+QDNULB 652 ICairnshill Park & Ride - Belfast, Europa Buscentre                  
+QSNULB 0850  20180702999999991111100 X652       DD              I
+QO7000000153280850   T1  
+QNp    pick up only                                                            
+QI70000000044109050905S   T1  
+QNs    set down only                                                           
+QI70000000044509080908S   T1  
+QNs    set down only                                                           
+QI70000001542109110911S   T1  
+QNs    set down only                                                           
+QT7000000153630915   T1  
+QNs    set down only                                                           
+QDNULB 652 ICairnshill Park & Ride - Belfast, Europa Buscentre                  
+QSNULB 0900  20180702999999991111100 X652       DD              I
+QO7000000153280900   T1  
+QNp    pick up only                                                            
+QI70000000044109150915S   T1  
+QNs    set down only                                                           
+QI70000000044509180918S   T1  
+QNs    set down only                                                           
+QI70000001542109210921S   T1  
+QNs    set down only                                                           
+QT7000000153630925   T1  
+QNs    set down only                                                           
+QDNULB 652 ICairnshill Park & Ride - Belfast, Europa Buscentre                  
+QSNULB 0915  20180702999999991111100 X652       DD              I
+QO7000000153280915   T1  
+QNp    pick up only                                                            
+QI70000000044109300930S   T1  
+QNs    set down only                                                           
+QI70000000044509330933S   T1  
+QNs    set down only                                                           
+QI70000001542109360936S   T1  
+QNs    set down only                                                           
+QT7000000153630940   T1  
+QNs    set down only                                                           
+QDNULB 652 ICairnshill Park & Ride - Belfast, Europa Buscentre                  
+QSNULB 0930  20180702999999991111100 X652       DD              I
+QO7000000153280930   T1  
+QNp    pick up only                                                            
+QI70000000044109450945S   T1  
+QNs    set down only                                                           
+QI70000000044509480948S   T1  
+QNs    set down only                                                           
+QI70000001542109510951S   T1  
+QNs    set down only                                                           
+QT7000000153630955   T1  
+QNs    set down only                                                           
+QDNULB 652 ICairnshill Park & Ride - Belfast, Europa Buscentre                  
+QSNULB 1030  20180702999999991111100 X652       DD              I
+QO7000000153281030   T1  
+QNp    pick up only                                                            
+QI70000000044110451045S   T1  
+QNs    set down only                                                           
+QI70000000044510481048S   T1  
+QNs    set down only                                                           
+QI70000001542110511051S   T1  
+QNs    set down only                                                           
+QT7000000153631055   T1  
+QNs    set down only                                                           
+QDNULB 652 ICairnshill Park & Ride - Belfast, Europa Buscentre                  
+QSNULB 1130  20180702999999991111100 X652       DD              I
+QO7000000153281130   T1  
+QNp    pick up only                                                            
+QI70000000044111451145S   T1  
+QNs    set down only                                                           
+QI70000000044511481148S   T1  
+QNs    set down only                                                           
+QI70000001542111511151S   T1  
+QNs    set down only                                                           
+QT7000000153631155   T1  
+QNs    set down only                                                           
+QDNULB 652 ICairnshill Park & Ride - Belfast, Europa Buscentre                  
+QSNULB 1220  20180702999999991111100 X652       SD              I
+QO7000000153741220   T1  
+QNp    pick up only                                                            
+QI70000000766712221222P   T1  
+QNp    pick up only                                                            
+QI70000001469412251225P   T1  
+QNp    pick up only                                                            
+QI70000000181612261226P   T1  
+QNp    pick up only                                                            
+QI70000001532812271230B   T1  
+QNp    pick up only                                                            
+QI70000000044112451245S   T1  
+QNs    set down only                                                           
+QI70000000044512481248S   T1  
+QNs    set down only                                                           
+QI70000001542112511251S   T1  
+QNs    set down only                                                           
+QT7000000153631255   T1  
+QNs    set down only                                                           
+QDNULB 652 ICairnshill Park & Ride - Belfast, Europa Buscentre                  
+QSNULB 1330  20180702999999991111100 X652       SD              I
+QO7000000153281330   T1  
+QNp    pick up only                                                            
+QI70000000044113451345S   T1  
+QNs    set down only                                                           
+QI70000000044513481348S   T1  
+QNs    set down only                                                           
+QI70000001542113511351S   T1  
+QNs    set down only                                                           
+QT7000000153631355   T1  
+QNs    set down only                                                           
+QDNULB 652 ICairnshill Park & Ride - Belfast, Europa Buscentre                  
+QSNULB 1400  20180702999999991111100 X652       DD              I
+QO7000000153281400   T1  
+QNp    pick up only                                                            
+QI70000000044114151415S   T1  
+QNs    set down only                                                           
+QI70000000044514181418S   T1  
+QNs    set down only                                                           
+QI70000001542114211421S   T1  
+QNs    set down only                                                           
+QT7000000153631425   T1  
+QNs    set down only                                                           
+QDNULB 652 ICairnshill Park & Ride - Belfast, Europa Buscentre                  
+QSNULB 1430  20180702999999991111100 X652       SD              I
+QO7000000153281430   T1  
+QNp    pick up only                                                            
+QI70000000044114451445S   T1  
+QNs    set down only                                                           
+QI70000000044514481448S   T1  
+QNs    set down only                                                           
+QI70000001542114511451S   T1  
+QNs    set down only                                                           
+QT7000000153631455   T1  
+QNs    set down only                                                           
+QDNULB 652 ICairnshill Park & Ride - Belfast, Europa Buscentre                  
+QSNULB 1500  20180702999999991111100 X652       DD              I
+QO7000000153281500   T1  
+QNp    pick up only                                                            
+QI70000000044115151515S   T1  
+QNs    set down only                                                           
+QI70000000044515181518S   T1  
+QNs    set down only                                                           
+QI70000001542115211521S   T1  
+QNs    set down only                                                           
+QT7000000153631525   T1  
+QNs    set down only                                                           
+QDNULB 652 ICairnshill Park & Ride - Belfast, Europa Buscentre                  
+QSNULB 1520  20180702999999991111100HX652       DD              I
+QNNSch School Holidays                                                         
+QO7000000153741520   T1  
+QNp    pick up only                                                            
+QI70000000766715221522P   T1  
+QNp    pick up only                                                            
+QI70000001469415251525P   T1  
+QNp    pick up only                                                            
+QI70000000181615261526P   T1  
+QNp    pick up only                                                            
+QI70000001532815271530B   T1  
+QNp    pick up only                                                            
+QI70000000044115451545S   T1  
+QNs    set down only                                                           
+QI70000000044515481548S   T1  
+QNs    set down only                                                           
+QI70000001542115511551S   T1  
+QNs    set down only                                                           
+QT7000000153631555   T1  
+QNs    set down only                                                           
+QDNULB 652 ICairnshill Park & Ride - Belfast, Europa Buscentre                  
+QSNULB 1550  20180702999999991111100 X652       DD              I
+QO7000000153741550   T1  
+QNp    pick up only                                                            
+QI70000000766715521552P   T1  
+QNp    pick up only                                                            
+QI70000001469415551555P   T1  
+QNp    pick up only                                                            
+QI70000000181615561556P   T1  
+QNp    pick up only                                                            
+QI70000001532815571600B   T1  
+QNp    pick up only                                                            
+QI70000000044116151615S   T1  
+QNs    set down only                                                           
+QI70000000044516181618S   T1  
+QNs    set down only                                                           
+QI70000001542116211621S   T1  
+QNs    set down only                                                           
+QT7000000153631625   T1  
+QNs    set down only                                                           
+QDNULB 652 ICairnshill Park & Ride - Belfast, Europa Buscentre                  
+QSNULB 1650  20180702999999991111100 X652       DD              I
+QO7000000153741645   T1  
+QNp    pick up only                                                            
+QI70000000766716471647P   T1  
+QNp    pick up only                                                            
+QI70000001469416501650P   T1  
+QNp    pick up only                                                            
+QI70000000181616511651P   T1  
+QNp    pick up only                                                            
+QI70000001532816521655B   T1  
+QNp    pick up only                                                            
+QI70000000044117101710S   T1  
+QNs    set down only                                                           
+QI70000000044517131713S   T1  
+QNs    set down only                                                           
+QI70000001542117161716S   T1  
+QNs    set down only                                                           
+QT7000000153631720   T1  
+QNs    set down only                                                           
+QDNULB 652 ICairnshill Park & Ride - Belfast, Europa Buscentre                  
+QSNULB 1700  20180702999999991111100 X652       DD              I
+QO7000000153741700   T1  
+QI70000000766717021702P   T1  
+QI70000001469417051705P   T1  
+QI70000000181617061706P   T1  
+QI70000001532817071710B   T1  
+QI70000000044117251725S   T1  
+QI70000000044517281728S   T1  
+QI70000001542117311731S   T1  
+QT7000000153631735   T1  
+QLN700000015363Europa Buscentre
+QBN700000015363333448  373764
+QLN700000001637Adelaide St.
+QBN700000001637333940  373912
+QLN700000000277Botanic Avenue (Shaftsbury Square)
+QBN700000000277333639  373167
+QLN700000000281College Green
+QBN700000000281333753  372699
+QLN700000015328Cairnshill Park & Ride
+QBN700000015328335572  368401
+QLN700000015896Carryduff, Manse Road
+QBN700000015896336712  366037
+QLN700000014696Shopping Centre
+QBN700000014696336766  365011
+QLN700000007673Winchester Heights
+QBN700000007673336609  364490
+QLN700000015374Carryduff, Drumalig Turning Circle
+QBN700000015374336424  363528
+QLN700000006630Temple X Rds
+QBN700000006630335740  360527
+QLN700000007690Windmill Street
+QBN700000007690336680  352404
+QLN700000007667Winchester Heights
+QBN700000007667336589  364486
+QLN700000014694Queensway
+QBN700000014694336828  365300
+QLN700000001816Manse Rd.
+QBN700000001816336616  366185
+QLN700000000441College Green
+QBN700000000441333706  372749
+QLN700000000445Botanic Avenue (Shaftsbury Square)
+QBN700000000445333630  373156
+QLN700000015421Belfast, Bedford Street
+QBN700000015421333749  373890
+QPNULB Ulsterbus               Ulsterbus
+QQ
+QVNDD      Double Deck
+QVNSD
+QVNLF      Low Floor
+QDNULB 652 OBelfast, Europa Buscentre - Cairnshill Park N Ride
+QDNULB 652bOBelfast, Europa Buscentre - Cairnshill Park N Ride -Ballynahinch, Wi
+QDNULB 652 ICairnshill Park & Ride - Belfast, Europa Buscentre

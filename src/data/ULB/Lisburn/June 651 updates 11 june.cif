@@ -1,0 +1,163 @@
+ATCO-CIF0500Ulsterbus                       OMNITIMES       20180425145104
+QDNULB 651 OBelfast, Europa Buscentre - Sprucefield Park & Ride                 
+QSNULB 0655  20180611999999991111100 X651                       O
+QO7000000153630655   T1  
+QI70000000180106560656B   T0  
+QT7000000154240715   T1  
+QDNULB 651 OBelfast, Europa Buscentre - Sprucefield Park & Ride                 
+QSNULB 0745  20180611999999991111100 X651                       O
+QO7000000153630745   T1  
+QI70000000180107460746B   T0  
+QT7000000154240805   T1  
+QDNULB 651 OBelfast, Europa Buscentre - Sprucefield Park & Ride                 
+QSNULB 1445  20180611999999990000100 X651                       O
+QNF    Fridays Only                                                            
+QO7000000153631445   T1  
+QI70000000180114461446B   T0  
+QT7000000154241505   T1  
+QDNULB 651 OBelfast, Europa Buscentre - Sprucefield Park & Ride                 
+QSNULB 1545  20180611999999990000100 X651                       O
+QNF    Fridays Only                                                            
+QO7000000153631545   T1  
+QI70000000180115461546B   T0  
+QT7000000154241605   T1  
+QDNULB 651 OBelfast, Europa Buscentre - Sprucefield Park & Ride                 
+QSNULB 1615  20180611999999991111100 X651                       O
+QO7000000153631615   T1  
+QI70000000180116161616B   T0  
+QT7000000154241635   T1  
+QDNULB 651 OBelfast, Europa Buscentre - Sprucefield Park & Ride                 
+QSNULB 1635  20180611999999991111100 X651       DD              O
+QO7000000153631635   T1  
+QI70000000180116361636B   T0  
+QT7000000154241655   T1  
+QDNULB 651 OBelfast, Europa Buscentre - Sprucefield Park & Ride                 
+QSNULB 1655  20180611999999991111100 X651                       O
+QO7000000153631655   T1  
+QI70000000180116561656B   T0  
+QT7000000154241715   T1  
+QDNULB 651 OBelfast, Europa Buscentre - Sprucefield Park & Ride                 
+QSNULB 1710  20180611999999991111100 X651                       O
+QO7000000153631710   T1  
+QI70000000180117111711B   T0  
+QT7000000154241730   T1  
+QDNULB 651 OBelfast, Europa Buscentre - Sprucefield Park & Ride                 
+QSNULB 1730  20180611999999991111100 X651       DD              O
+QO7000000153631730   T1  
+QI70000000180117311731B   T0  
+QT7000000154241750   T1  
+QDNULB 651 OBelfast, Europa Buscentre - Sprucefield Park & Ride                 
+QSNULB 1750  20180611999999991111100 X651                       O
+QO7000000153631750   T1  
+QI70000000180117511751B   T0  
+QT7000000154241810   T1  
+QDNULB 651 OBelfast, Europa Buscentre - Sprucefield Park & Ride                 
+QSNULB 1810  20180611999999991111100 X651                       O
+QO7000000153631810   T1  
+QI70000000180118111811B   T0  
+QT7000000154241830   T1  
+QDNULB 651 OBelfast, Europa Buscentre - Sprucefield Park & Ride                 
+QSNULB 1830  20180611999999991111100 X651       DD              O
+QO7000000153631830   T1  
+QI70000000180118311831B   T0  
+QT7000000154241850   T1  
+QDNULB 651 OBelfast, Europa Buscentre - Sprucefield Park & Ride                 
+QSNULB 1900  20180611999999991111100 X651                       O
+QO7000000153631900   T1  
+QI70000000180119011901B   T0  
+QT7000000154241920   T1  
+QDNULB 651 ISprucefield Park & Ride - Belfast, Europa Buscentre                 
+QSNULB 0630  20180611999999991111100 X651                       I
+QO7000000154240630   T1  
+QI70000000180006480648B   T0  
+QT7000000153630650   T1  
+QDNULB 651 ISprucefield Park & Ride - Belfast, Europa Buscentre                 
+QSNULB 0650  20180611999999991111100 X651                       I
+QO7000000154240650   T1  
+QI70000000180007080708B   T0  
+QT7000000153630710   T1  
+QDNULB 651 ISprucefield Park & Ride - Belfast, Europa Buscentre                 
+QSNULB 0720  20180611999999991111100 X651                       I
+QO7000000154240720   T1  
+QI70000000180007380738B   T0  
+QT7000000153630740   T1  
+QDNULB 651 ISprucefield Park & Ride - Belfast, Europa Buscentre                 
+QSNULB 0740  20180611999999991111100 X651                       I
+QO7000000154240740   T1  
+QI70000000180007580758B   T0  
+QT7000000153630810   T1  
+QDNULB 651 ISprucefield Park & Ride - Belfast, Europa Buscentre                 
+QSNULB 0800  20180611999999991111100 X651                       I
+QO7000000154240800   T1  
+QI70000000180008180818B   T0  
+QT7000000153630830   T1  
+QDNULB 651 ISprucefield Park & Ride - Belfast, Europa Buscentre                 
+QSNULB 0820  20180611999999991111100 X651                       I
+QO7000000154240820   T1  
+QI70000000180008380838B   T0  
+QT7000000153630850   T1  
+QDNULB 651 ISprucefield Park & Ride - Belfast, Europa Buscentre                 
+QSNULB 0840  20180611999999991111100 X651                       I
+QO7000000154240840   T1  
+QI70000000180008580858B   T0  
+QT7000000153630910   T1  
+QDNULB 651 ISprucefield Park & Ride - Belfast, Europa Buscentre                 
+QSNULB 0900  20180611999999991111100 X651                       I
+QO7000000154240900   T1  
+QI70000000180009180918B   T0  
+QT7000000153630920   T1  
+QDNULB 651 ISprucefield Park & Ride - Belfast, Europa Buscentre                 
+QSNULB 0930  20180611999999991111100 X651                       I
+QO7000000154240930   T1  
+QI70000000180009480948B   T0  
+QT7000000153630950   T1  
+QDNULB 651 ISprucefield Park & Ride - Belfast, Europa Buscentre                 
+QSNULB 1510  20180611999999990000100 X651                       I
+QNF    Fridays Only                                                            
+QO7000000154241510   T1  
+QI70000000180015281528B   T0  
+QT7000000153631530   T1  
+QDNULB 651 ISprucefield Park & Ride - Belfast, Europa Buscentre                 
+QSNULB 1610  20180611999999990000100 X651                       I
+QNF    Fridays Only                                                            
+QO7000000154241610   T1  
+QI70000000180016281628B   T0  
+QT7000000153631630   T1  
+QDNULB 651 ISprucefield Park & Ride - Belfast, Europa Buscentre                 
+QSNULB 1640  20180611999999991111100 X651                       I
+QO7000000154241640   T1  
+QI70000000180016581658B   T0  
+QT7000000153631700   T1  
+QDNULB 651 ISprucefield Park & Ride - Belfast, Europa Buscentre                 
+QSNULB 1700  20180611999999991111100 X651       DD              I
+QO7000000154241700   T1  
+QI70000000180017181718B   T0  
+QT7000000153631720   T1  
+QDNULB 651 ISprucefield Park & Ride - Belfast, Europa Buscentre                 
+QSNULB 1720  20180611999999991111100 X651                       I
+QO7000000154241720   T1  
+QI70000000180017381738B   T0  
+QT7000000153631740   T1  
+QDNULB 651 ISprucefield Park & Ride - Belfast, Europa Buscentre                 
+QSNULB 1735  20180611999999991111100 X651                       I
+QO7000000154241735   T1  
+QI70000000180017531753B   T0  
+QT7000000153631755   T1  
+QDNULB 651 ISprucefield Park & Ride - Belfast, Europa Buscentre                 
+QSNULB 1755  20180611999999991111100 X651       DD              I
+QO7000000154241755   T1  
+QI70000000180018131813B   T0  
+QT7000000153631815   T1  
+QLN700000015363Europa Buscentre
+QBN700000015363333448  373764
+QLN700000001801Europa Busway
+QBN700000001801332700  373424
+QLN700000015424Sprucefield, Park & Ride
+QBN700000015424324765  362261
+QLN700000001800Europa Busway
+QBN700000001800332672  373438
+QPNULB Ulsterbus               Ulsterbus
+QQ
+QVNDD      Double Deck
+QDNULB 651 OBelfast, Europa Buscentre - Sprucefield Park & Ride
+QDNULB 651 ISprucefield Park & Ride - Belfast, Europa Buscentre

@@ -1,0 +1,386 @@
+ATCO-CIF0500Ulsterbus                       OMNITIMES       20171130125741
+QDNGLE 256 OBelfast, Europa Buscentre - Larne, Bus Station                      
+QSNGLE 1310  20180107999999990000001 X256                       O
+QNNA   Does not serve Craigyhill Estate and Linn Road                          
+QO7000000002401310   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000174613151315P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000151813221322P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000472213301330B   T1  
+QI70000000473013351335B   T1  
+QI70000000463113431343S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000000464813531353S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000000465013551355S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000000467413571357S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000000465113591359S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000000465214011401S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000000465314031403S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000000465414051405S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000000465514071407S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000000465714091409S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000000466014111411S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000000466114131413S   T0  
+QNs    SET DOWN ONLY                                                           
+QT7000000046631415   T1  
+QNs    SET DOWN ONLY                                                           
+QDNGLE 256 OBelfast, Europa Buscentre - Larne, Bus Station                      
+QSNGLE 1610  20180107999999990000001 X256                       O
+QO7000000002401610   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000174616151615P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000151816221622P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000472216301630B   T1  
+QI70000000473016351635B   T1  
+QI70000000463116431643S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000000464816531653S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000000465016551655B   T0  
+QI70000000467416571657B   T0  
+QI70000000465116591659B   T0  
+QI70000000465217011701S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000000465317031703S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000000465417051705S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000000465517071707S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000000465717091709S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000000466017111711S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000000466117131713S   T0  
+QNs    SET DOWN ONLY                                                           
+QT7000000046631715   T1  
+QNs    SET DOWN ONLY                                                           
+QDNGLE 256 OBelfast, Europa Buscentre - Larne, Bus Station                      
+QSNGLE 1815  20180107999999990000001 X256                       O
+QO7000000002401815   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000174618201820P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000151818271827P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000472218351835B   T1  
+QI70000000473018401840B   T1  
+QI70000000463118481848S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000000464818581858S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000000465019001900B   T0  
+QI70000000467419021902B   T0  
+QI70000000465119041904B   T0  
+QI70000000465219061906S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000000465319081908S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000000465419101910S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000000465519121912S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000000465719141914S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000000466019161916S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000000466119181918S   T0  
+QNs    SET DOWN ONLY                                                           
+QT7000000046631920   T1  
+QNs    SET DOWN ONLY                                                           
+QDNGLE 256 ILarne, Bus Station - Belfast, Europa Buscentre                      
+QSNGLE 1200  20180107999999990000001 X256                       I
+QO7000000046631200   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000466612001200P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000466712011201P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000466812011201P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000465612011201P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000466912011201P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000467012021202P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000467212021202P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000499412031203P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000499512031203P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000499612031203P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000499712041204P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000499812041204P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000499912041204P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000500012041204P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000500112041204P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000500212051205P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000500312051205P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000500412051205P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000464812081208P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000468812161216P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000461612241224B   T1  
+QI70000000470312301230B   T1  
+QI70000000141712511251S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000000141912531253S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000000142012541254S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000000151512551255S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000000174812561256S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000000164712571257S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000000163513011301S   T0  
+QNs    SET DOWN ONLY                                                           
+QT7000000002401305   T1  
+QNs    SET DOWN ONLY                                                           
+QDNGLE 256 ILarne, Bus Station - Belfast, Europa Buscentre                      
+QSNGLE 1500  20180107999999990000001 X256                       I
+QNNA   Does not serve Craigyhill Estate and Linn Road                          
+QO7000000046631500   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000466615011501P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000466715011501P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000466815021502P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000465615021502P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000466915021502P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000467015031503P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000467215041504P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000467315041504P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000467515051505P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000464815081508P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000468815161516P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000461615241524B   T1  
+QI70000000470315301530B   T1  
+QI70000000141715511551S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000000141915531553S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000000142015541554S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000000151515551555S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000000174815561556S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000000164715571557S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000000163516011601S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000000143416021602S   T0  
+QNs    SET DOWN ONLY                                                           
+QT7000000002401605   T1  
+QNs    SET DOWN ONLY                                                           
+QDNGLE 256 ILarne, Bus Station - Belfast, Europa Buscentre                      
+QSNGLE 1715  20180107999999990000001 X256                       I
+QNNA   Does not serve Craigyhill Estate and Linn Road                          
+QO7000000046631715   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000466617161716P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000466717161716P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000466817171717P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000465617171717P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000466917171717P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000467017181718P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000467217191719P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000467317191719P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000467517201720P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000000464817231723P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000468817311731P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000461617371737B   T1  
+QI70000000470317431743B   T1  
+QI70000000141718021802S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000000141918041804S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000000142018051805S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000000151518061806S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000000174818061806S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000000164718081808S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000000163518111811S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000000143418121812S   T0  
+QNs    SET DOWN ONLY                                                           
+QT7000000002401815   T1  
+QNs    SET DOWN ONLY                                                           
+QLN700000000240Europa Stand One
+QBN700000000240333439  373811
+QLN700000001746Bridge Street 1
+QBN700000001746333965  374396
+QLN700000001518Interpoint
+QBN700000001518333859  374874
+QLN700000004722Ballyrobert
+QBN700000004722328719  387233
+QLN700000004730Elim Church
+QBN700000004730328948  390870
+QLN700000004631Ballynure Service Station
+QBN700000004631331831  393662
+QLN700000004648Millbrook
+QBN700000004648337554  401095
+QLN700000004967Costcutter Store
+QBN700000004967338746  402522
+QLN700000004968Cedric Dr
+QBN700000004968338679  402694
+QLN700000004969Fairway
+QBN700000004969338651  402894
+QLN700000004970150 Linn Rd
+QBN700000004970338731  403325
+QLN700000004971Green Drive
+QBN700000004971338756  403474
+QLN700000004972Community Ctr
+QBN700000004972338700  403653
+QLN700000004973Killyglen Rd
+QBN700000004973338741  403862
+QLN700000005344Ballycraigy X Rds
+QBN700000005344338855  403878
+QLN700000004974Killyglen Rd Roundabout
+QBN700000004974338916  403884
+QLN700000004975Cemetery
+QBN700000004975339092  403660
+QLN700000004976Criagyhillbungalows
+QBN700000004976339174  403445
+QLN700000004977Supermarket
+QBN700000004977339225  403278
+QLN700000004650Antiville Road
+QBN700000004650338926  402498
+QLN700000004674Antiville Rd
+QBN700000004674339050  402775
+QLN700000004651Upper Cairncastle Road-Roddens
+QBN700000004651339164  402976
+QLN700000004652Roddens
+QBN700000004652339312  403109
+QLN700000004653Lisnamoyle
+QBN700000004653339698  403283
+QLN700000004654Larne High School
+QBN700000004654339888  403164
+QLN700000004655Laharna Ave
+QBN700000004655339904  402941
+QLN700000004657Gardenmore Church
+QBN700000004657340085  402729
+QLN700000004660Larne Med Church
+QBN700000004660340547  402712
+QLN700000004661Circular Rd
+QBN700000004661340413  402496
+QLN700000004663Larne Bus Station
+QBN700000004663340052  402260
+QLN700000004666Princess Gardens
+QBN700000004666340494  402771
+QLN700000004667Smiley Park
+QBN700000004667340279  402787
+QLN700000004668Victoria Rd:Opposite Elim Church
+QBN700000004668340071  402715
+QLN700000004656Thorndale Ave
+QBN700000004656339952  402720
+QLN700000004669The Roddens
+QBN700000004669339886  402950
+QLN700000004670The Roddens
+QBN700000004670339867  403156
+QLN700000004672The Roddens 2
+QBN700000004672339328  403088
+QLN700000004673Cairncastle Rd:Roddens
+QBN700000004673339186  402970
+QLN700000004675Antiville Rd Mill Rd Jct
+QBN700000004675338940  402485
+QLN700000004994Upper Cairncastle Rd
+QBN700000004994339212  403230
+QLN7000000049953 Graigyhill Bungalows
+QBN700000004995339149  403457
+QLN70000000499660 Upper Cairncastle Rd
+QBN700000004996339074  403648
+QLN70000000499716 Killyglen Rd
+QBN700000004997338916  403865
+QLN700000004998Killyglen Rd
+QBN700000004998338759  403850
+QLN700000004999Linn Rd Community Ctr
+QBN700000004999338716  403671
+QLN700000005000Garron Crescent
+QBN700000005000338775  403483
+QLN700000005001143 Linn Rd
+QBN700000005001338750  403311
+QLN70000000500277A Linn Rd
+QBN700000005002338671  402890
+QLN700000005003Antiville Shops
+QBN700000005003338698  402696
+QLN70000000500413 Linn Rd
+QBN700000005004338764  402520
+QLN700000004688Ballynure
+QBN700000004688331851  393676
+QLN700000004616Ballyclare Bus Depot
+QBN700000004616329001  390828
+QLN700000004703Ballyrobert
+QBN700000004703328737  387244
+QLN700000001417Nelson Street Bus Lane
+QBN700000001417334395  375581
+QLN700000001419Nelson Street (M3)
+QBN700000001419334168  375089
+QLN700000001420Dunbar Link
+QBN700000001420333936  374906
+QLN700000001515Interpoint
+QBN700000001515333849  374819
+QLN700000001748Lower Donegal Street
+QBN700000001748333920  374609
+QLN700000001647High Street
+QBN700000001647334024  374405
+QLN700000001635May Street
+QBN700000001635334188  373976
+QLN700000001434Donegall Square South
+QBN700000001434333888  373940
+QPNGLE Goldline Express        Goldline Express
+QQ
+QDNGLE 256 OBelfast, Europa Buscentre - Larne, Bus Station
+QDNGLE 256 ILarne, Bus Station - Belfast, Europa Buscentre

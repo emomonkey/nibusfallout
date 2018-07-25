@@ -1,0 +1,27 @@
+ATCO-CIF0500Ulsterbus                       OMNITIMES       20170808150419
+QDNUTS 341 ONewry, Buscentre - Newry, Rail Station                              
+QSNUTS 1845  20180319201803191000000 X341       M               O
+QO7000000154701835   T1  
+QT7000000038841840   T1  
+QDNUTS 341 INewry, Rail Station - Newry, Buscentre                              
+QSNUTS       20180319201803191000000 X341                       I
+QO7000000038841845   T1  
+QT7000000154701850   T1  
+QDNUTS 341 INewry, Rail Station - Newry, Buscentre                              
+QSNUTS 1915  20180319201803191000000 X341       M               I
+QO7000000038841915   T1  
+QT7000000154701920   T1  
+QLN700000015470Newry, Buscentre
+QBN700000015470308468  326431
+QLN700000003884Newry Railway Station
+QBN700000003884306915  327943
+QPNUTS Ulsterbus Town Services Ulsterbus Town Services
+QQ
+QVNM       MINIBUS
+QVNLF      LOWFLOOR
+QVNSH      DEDICATED SCHOOL BUS
+QVNDD
+QVNSD      STANDARD SINGLE DECKER
+QVNGL      GOLDLINER
+QDNUTS 341 ONewry, Buscentre - Newry, Rail Station
+QDNUTS 341 INewry, Rail Station - Newry, Buscentre

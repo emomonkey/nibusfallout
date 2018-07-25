@@ -1,0 +1,495 @@
+ATCO-CIF0500Ulsterbus                       OMNITIMES       20180514142941
+QDNGLE 234 OFoyle Street - Coleraine                                            
+QSNGLE       20180702201809021111100 X234                       O
+QO7000000132140730   T1  
+QI70000001522807340734P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001313207350735P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000001317807420742P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000001315607520752B   T1  
+QI70000001568107550755B   T1  
+QI70000001568207550755B   T0  
+QI70000001314507580758B   T1  
+QI70000001314708020802B   T1  
+QI70000001314808060806B   T1  
+QI70000001314908070807B   T1  
+QI70000001335708150815B   T1  
+QI70000001568808410841S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000001073908430843S   T0  
+QNs    SET DOWN ONLY                                                           
+QT7000000156870845   T1  
+QDNGLE 234 OFoyle Street - Coleraine                                            
+QSNGLE       20180702201809021111100 X234                       O
+QO7000000132140840   T1  
+QI70000001522808440844P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001313208450845P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000001317808520852P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000001315609020902B   T1  
+QI70000001568109050905B   T1  
+QI70000001568209050905B   T0  
+QI70000001314509080908B   T1  
+QI70000001314709120912B   T1  
+QI70000001314809160916B   T1  
+QI70000001314909170917B   T1  
+QI70000001335709250925B   T1  
+QI70000001568809510951S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000001073909530953S   T0  
+QNs    SET DOWN ONLY                                                           
+QT7000000156870955   T1  
+QDNGLE 234 OFoyle Street - Coleraine                                            
+QSNGLE       20180702201809021111100 X234                       O
+QO7000000132141010   T1  
+QI70000001522810141014P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001313210151015P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000001317810221022P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000001315610321032B   T1  
+QI70000001568110351035B   T1  
+QI70000001568210351035B   T0  
+QI70000001314510381038B   T1  
+QI70000001314710421042B   T1  
+QI70000001314810461046B   T1  
+QI70000001314910471047B   T1  
+QI70000001335710551055B   T1  
+QI70000001568811211121S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000001073911231123S   T0  
+QNs    SET DOWN ONLY                                                           
+QT7000000156871125   T1  
+QDNGLE 234 OFoyle Street - Coleraine                                            
+QSNGLE       20180702201809021111100 X234                       O
+QO7000000132141210   T1  
+QI70000001522812141214P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001313212151215P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000001317812221222P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000001315612321232B   T1  
+QI70000001568112351235B   T1  
+QI70000001568212351235B   T0  
+QI70000001314512381238B   T1  
+QI70000001314712421242B   T1  
+QI70000001314812461246B   T1  
+QI70000001314912471247B   T1  
+QI70000001335712551255B   T1  
+QI70000001568813211321S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000001073913231323S   T0  
+QNs    SET DOWN ONLY                                                           
+QT7000000156871325   T1  
+QDNGLE 234 OFoyle Street - Coleraine                                            
+QSNGLE 1410  20180702201809021111100 X234                       O
+QO7000000132141340   T1  
+QI70000001522813441344P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001313213451345P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000001317813521352P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000001315614021402B   T1  
+QI70000001568114051405B   T1  
+QI70000001568214051405B   T0  
+QI70000001314514081408B   T1  
+QI70000001314714121412B   T1  
+QI70000001314814161416B   T1  
+QI70000001314914171417B   T1  
+QI70000001335714251425B   T1  
+QI70000001568814511451S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000001073914531453S   T0  
+QNs    SET DOWN ONLY                                                           
+QT7000000156871455   T1  
+QDNGLE 234 OFoyle Street - Coleraine                                            
+QSNGLE       20180702201809021111100 X234                       O
+QO7000000132141610   T1  
+QI70000001522816141614P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001313216151615P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000001317816221622P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000001315616321632B   T1  
+QI70000001568116351635B   T1  
+QI70000001568216351635B   T0  
+QI70000001314516381638B   T1  
+QI70000001314716421642B   T1  
+QI70000001314816461646B   T1  
+QI70000001314916471647B   T1  
+QI70000001335716551655B   T1  
+QI70000001568817211721S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000001073917231723S   T0  
+QNs    SET DOWN ONLY                                                           
+QT7000000156871725   T1  
+QDNGLE 234 OFoyle Street - Coleraine                                            
+QSNGLE       20180702201809021111100 X234                       O
+QO7000000132141740   T1  
+QI70000001522817441744P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001313217451745P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000001317817531753P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000001314518081808B   T1  
+QI70000001314718121812B   T1  
+QI70000001314818161816B   T1  
+QI70000001314918171817B   T1  
+QI70000001335718251825B   T1  
+QI70000001568818461846S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000001073918491849S   T0  
+QNs    SET DOWN ONLY                                                           
+QT7000000156871850   T1  
+QDNGLE 234 IColeraine - Foyle Street                                            
+QSNGLE       20180702201809021111100 X234                       I
+QO7000000156870720   T1  
+QI70000001568907240724P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000001335707500750B   T1  
+QI70000001315307540754B   T1  
+QI70000001315407550755B   T1  
+QI70000001315507570757B   T1  
+QI70000001316308010801B   T1  
+QI70000001491608050805B   T0  
+QI70000001317508170817S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000001338108250825S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000001321208270827S   T0  
+QNs    SET DOWN ONLY                                                           
+QT7000000132140830   T1  
+QDNGLE 234 IColeraine - Foyle Street                                            
+QSNGLE 0910  20180702201809021111100 X234                       I
+QO7000000156870920   T1  
+QI70000001568909240924P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000001335709500950B   T1  
+QI70000001315309540954B   T1  
+QI70000001315409550955B   T1  
+QI70000001315509570957B   T1  
+QI70000001316310011001B   T1  
+QI70000001491610031003B   T0  
+QI70000001568110041004B   T1  
+QI70000001316910081008B   T1  
+QI70000001317510201020S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000001338110291029S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000001321210311031S   T0  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141035   T1  
+QDNGLE 234 IColeraine - Foyle Street                                            
+QSNGLE       20180702201809021111100 X234                       I
+QO7000000156871150   T1  
+QI70000001568911541154P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000001335712201220B   T1  
+QI70000001315312241224B   T1  
+QI70000001315412251225B   T1  
+QI70000001315512271227B   T1  
+QI70000001316312311231B   T1  
+QI70000001491612331233B   T0  
+QI70000001568112341234B   T1  
+QI70000001316912381238B   T1  
+QI70000001317512501250S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000001338112591259S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000001321213011301S   T0  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141305   T1  
+QDNGLE 234 IColeraine - Foyle Street                                            
+QSNGLE 1340  20180702201809021111100SX234                       I
+QNSch  Schooldays Only                                                         
+QO7000000133571320   T1  
+QI70000001315313241324B   T1  
+QI70000001315413251325B   T1  
+QI70000001315513271327B   T1  
+QI70000001316313311331B   T1  
+QI70000001491613331333B   T0  
+QI70000001568113341334B   T1  
+QI70000001316913381338B   T1  
+QI70000001317513501350S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000001338113591359S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000001321214011401S   T0  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141405   T1  
+QDNGLE 234 IColeraine - Foyle Street                                            
+QSNGLE       20180702201809021111100 X234                       I
+QO7000000156871350   T1  
+QI70000001568913541354P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000001335714201420B   T1  
+QI70000001315314241424B   T1  
+QI70000001315414251425B   T1  
+QI70000001315514271427B   T1  
+QI70000001316314311431B   T1  
+QI70000001491614331433B   T0  
+QI70000001568114341434B   T1  
+QI70000001316914381438B   T1  
+QI70000001317514501450S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000001338114591459S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000001321215011501S   T0  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141505   T1  
+QDNGLE 234 IColeraine - Foyle Street                                            
+QSNGLE 1540  20180702201809021111100HX234                       I
+QNNSch School Holidays                                                         
+QO7000000156871500   T1  
+QI70000001568915041504P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000001335715301530B   T1  
+QI70000001315315341534B   T1  
+QI70000001315415351535B   T1  
+QI70000001315515371537B   T1  
+QI70000001316315411541B   T1  
+QI70000001491615431543B   T0  
+QI70000001568115441544B   T1  
+QI70000001316915481548B   T1  
+QI70000001317516001600B   T0  
+QI70000001338116091609B   T0  
+QI70000001321216111611B   T0  
+QT7000000132141615   T1  
+QDNGLE 234 IColeraine - Foyle Street                                            
+QSNGLE       20180702201809021111100 X234                       I
+QO7000000156871620   T1  
+QI70000001568916241624P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000001335716501650B   T1  
+QI70000001315316541654B   T1  
+QI70000001315416551655B   T1  
+QI70000001315516571657B   T1  
+QI70000001316317011701B   T1  
+QI70000001491617031703B   T0  
+QI70000001568117041704B   T1  
+QI70000001317517191719S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000001321217311731S   T0  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141735   T1  
+QDNGLE 234 IColeraine - Foyle Street                                            
+QSNGLE 1740  20180702201809021111100 X234                       I
+QO7000000156871750   T1  
+QI70000001568917541754P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000001335718201820B   T1  
+QI70000001315318241824B   T1  
+QI70000001315418251825B   T1  
+QI70000001315518271827B   T1  
+QI70000001316318311831B   T1  
+QI70000001491618331833B   T0  
+QI70000001568118341834B   T1  
+QI70000001316918381838B   T1  
+QI70000001317518501850S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000001338118591859S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000001321219011901S   T0  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141905   T1  
+QDNGLE 234 OFoyle Street - Coleraine                                            
+QSNGLE 1010  20180702201809020000010 X234                       O
+QO7000000132141010   T1  
+QI70000001522810141014B   T1  
+QI70000001313210151015P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000001317810221022P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000001315610321032B   T1  
+QI70000001568110351035B   T1  
+QI70000001568210351035B   T0  
+QI70000001314510381038B   T1  
+QI70000001314710421042B   T1  
+QI70000001314810461046B   T1  
+QI70000001314910471047B   T1  
+QI70000001335710551055B   T1  
+QI70000001568811211121S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000001073911231123S   T0  
+QNs    SET DOWN ONLY                                                           
+QT7000000156871125   T1  
+QDNGLE 234 OFoyle Street - Coleraine                                            
+QSNGLE 1410  20180702201809020000010 X234                       O
+QO7000000132141410   T1  
+QI70000001522814141414B   T1  
+QI70000001313214151415P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000001317814221422P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000001315614321432B   T1  
+QI70000001568114351435B   T1  
+QI70000001568214351435B   T0  
+QI70000001314514381438B   T1  
+QI70000001314714421442B   T1  
+QI70000001314814461446B   T1  
+QI70000001314914471447B   T1  
+QI70000001335714551455B   T1  
+QI70000001568815211521S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000001073915231523S   T0  
+QNs    SET DOWN ONLY                                                           
+QT7000000156871525   T1  
+QDNGLE 234 OFoyle Street - Coleraine                                            
+QSNGLE 1740  20180702201809020000010 X234                       O
+QO7000000132141740   T1  
+QI70000001522817441744B   T1  
+QI70000001313217451745P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000001317817521752P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000001315618021802B   T1  
+QI70000001568118051805B   T1  
+QI70000001568218051805B   T0  
+QI70000001314518081808B   T1  
+QI70000001314718121812B   T1  
+QI70000001314818161816B   T1  
+QI70000001314918171817B   T1  
+QI70000001335718251825B   T1  
+QI70000001568818511851S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000001073918531853S   T0  
+QNs    SET DOWN ONLY                                                           
+QT7000000156871855   T1  
+QDNGLE 234 IColeraine - Foyle Street                                            
+QSNGLE 1150  20180702201809020000010 X234                       I
+QO7000000156871150   T1  
+QI70000001568911541154P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000001335712201220B   T1  
+QI70000001315312241224B   T1  
+QI70000001315412251225B   T1  
+QI70000001315512271227B   T1  
+QI70000001316312311231B   T1  
+QI70000001491612331233B   T0  
+QI70000001568112341234B   T1  
+QI70000001316912381238B   T1  
+QI70000001317512501250S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000001338112591259S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000001321213011301S   T0  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141305   T1  
+QDNGLE 234 IColeraine - Foyle Street                                            
+QSNGLE 1550  20180702201809020000010 X234                       I
+QO7000000156871550   T1  
+QI70000001568915541554P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000001335716201620B   T1  
+QI70000001315316241624B   T1  
+QI70000001315416251625B   T1  
+QI70000001315516271627B   T1  
+QI70000001316316311631B   T1  
+QI70000001491616331633B   T0  
+QI70000001568116341634B   T1  
+QI70000001316916381638B   T1  
+QI70000001317516501650S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000001338116591659S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000001321217011701S   T0  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141705   T1  
+QDNGLE 234 IColeraine - Foyle Street                                            
+QSNGLE 1900  20180702201809020000010 X234                       I
+QO7000000156871900   T1  
+QI70000001568919041904P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000001335719301930B   T1  
+QI70000001315319341934B   T1  
+QI70000001315419351935B   T1  
+QI70000001315519371937B   T1  
+QI70000001316319411941B   T1  
+QI70000001491619441944B   T0  
+QI70000001316919481948B   T1  
+QI70000001317519581958S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000001338120052005S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000001321220072007S   T0  
+QNs    SET DOWN ONLY                                                           
+QT7000000132142010   T1  
+QDNGLE 234 OFoyle Street - Coleraine                                            
+QSNGLE       20180702201809020000001 X234                       O
+QO7000000133572015   T1  
+QI70000001568820362036S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000001073920392039S   T0  
+QNs    SET DOWN ONLY                                                           
+QT7000000156872040   T1  
+QDNGLE 234 IColeraine - Foyle Street                                            
+QSNGLE       20180702201809020000001 X234                       I
+QO7000000156872045   T1  
+QI70000001568920482048P   T0  
+QNp    PICK UP ONLY                                                            
+QT7000000133572110   T1  
+QLN700000013214Foyle Street Depot
+QBN700000013214243685  416800
+QLN700000015228Waterside House (Country)
+QBN700000015228243915  416105
+QLN700000013132May Street
+QBN700000013132244223  416866
+QLN700000013178Maydown, Enagh Crescent
+QBN700000013178247793  419772
+QLN700000013156Eglinton Main Street
+QBN700000013156252790  420301
+QLN700000015681City of Derry Airport
+QBN700000015681254074  421696
+QLN700000015682Airport Roundabout
+QBN700000015682254240  421333
+QLN700000013145Greysteel
+QBN700000013145256601  420945
+QLN700000013147Walworth Estate
+QBN700000013147261347  422153
+QLN700000013148Ballykelly
+QBN700000013148262818  422358
+QLN700000013149King's Lane
+QBN700000013149263560  422436
+QLN700000013357Limavady Depot
+QBN700000013357267252  423481
+QLN700000015688Jet Centre 1
+QBN700000015688284245  431116
+QLN700000010739Rose Garens
+QBN700000010739284774  432633
+QLN700000015687Coleraine, Buscentre
+QBN700000015687285358  432601
+QLN700000010832Central Stop
+QBN700000010832284386  434366
+QLN700000015689Jet Centre
+QBN700000015689284256  431106
+QLN700000013153King's Lane
+QBN700000013153263420  422374
+QLN700000013154Ballykelly
+QBN700000013154262822  422334
+QLN700000013155Walworth 5
+QBN700000013155261214  422125
+QLN700000013163Greeysteel  Nichol Oil
+QBN700000013163256663  420951
+QLN700000014916LONGFIELD 5
+QBN700000014916254182  421321
+QLN700000013169Eglinton Main Street
+QBN700000013169252781  420280
+QLN700000013175Maydown Roundabout
+QBN700000013175247797  419740
+QLN700000013381Ebrington
+QBN700000013381244257  416900
+QLN700000013212Duke St
+QBN700000013212243961  416112
+QPNGLE Goldline Express        Goldline Express
+QQ
+QDNGLE 234 OFoyle Street - Coleraine
+QDNGLE 234 IColeraine - Foyle Street

@@ -1,0 +1,753 @@
+ATCO-CIF0500Ulsterbus                       OMNITIMES       20180302122243
+QDNGLE X3  ODerry, Foyle Street Buscentre - Dublin, Busaras                     
+QSNGLE 0415  20180402201809021111111 AX3        GL              O
+QO7000000132140415   T1  
+QI70000001333204400440P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001345004440444P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000001186504520452P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000001146705050505P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001537605250525P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000993505300530P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001584906000600B   T1  
+QI70000001585106150615P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001592006350635P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001587006550655S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001609007450745S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000156420805   T1  
+QDNGLE X3  ODerry, Foyle Street Buscentre - Dublin, Busaras                     
+QSNGLE 0700  20180402201809021111111 AX3                        O
+QO7000000132140700   T1  
+QI70000001333207300730P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001345007350735P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000001186507440744P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000001146708000800P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001537608200820P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000993508300830P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001584909050905B   T1  
+QI70000001587010001000S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001609010401040S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000156421100   T1  
+QDNGLE X3  ODerry, Foyle Street Buscentre - Dublin, Busaras                     
+QSNGLE 1200  20180402201809021111111 AX3                        O
+QO7000000132141200   T1  
+QI70000001333212301230P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001345012351235P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000001186512441244P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000001146713001300P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001537613201320P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000993513301330P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001584914051405B   T1  
+QI70000001587015001500S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001609015401540S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000156421600   T1  
+QDNGLE X3  ODerry, Foyle Street Buscentre - Dublin, Busaras                     
+QSNGLE 1500  20180402201809021111111 AX3        GL              O
+QO7000000132141500   T1  
+QI70000001333215301530P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001345015351535P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000001186515441544P   T0  
+QNp    PICK UP ONLY                                                            
+QI70000001146716001600P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001537616201620P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000993516301630P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001584917051705B   T1  
+QI70000001587018001800S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001609018401840S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000156421900   T1  
+QDNGLE X3  IBusaras - Dublin - Foyle Street Buscentre - Derry                   
+QSNGLE 1000  20180402201809021111111 AX3        GL              I
+QO7000000156421000   T1  
+QI70000001564310201020P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001587111001100P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001584912051205B   T1  
+QI70000000993412251225S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001537612351235S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001146713001300S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001185713141314S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000001345513241324S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000001333213301330S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141400   T1  
+QDNGLE X3  IBusaras - Dublin - Foyle Street Buscentre - Derry                   
+QSNGLE 1215  20180402201809021111111 AX3        GL              I
+QO7000000156421215   T1  
+QI70000001564312351235P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001587113151315P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001584914201420B   T1  
+QI70000000993414401440S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001537614501450S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001146715151515S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001185715291529S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000001345515391539S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000001333215451545S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141615   T1  
+QDNGLE X3  IBusaras - Dublin - Foyle Street Buscentre - Derry                   
+QSNGLE 2015  20180402201809021111111 AX3        GL              I
+QO7000000156422015   T1  
+QI70000001564320352035P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001587121152115P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001584922102210B   T1  
+QI70000000993422302230S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001537622402240S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001146723052305S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001185723192319S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000001345523292329S   T0  
+QNs    SET DOWN ONLY                                                           
+QI70000001333223352335S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132142405   T1  
+QDNGLE X4  ODerry - Dublin                                                      
+QSNGLE 0130  20180402201809021111100 AX4        GL              O
+QO7000000132140050   T1  
+QI70000001573900550055P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574701200120P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001423101350135P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001423201400140P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001402701550155P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000912702050205P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000961902100210P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000802602200220P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001609003550355S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000156420415   T1  
+QDNGLE X4  ODerry - Dublin                                                      
+QSNGLE 0550  20180402201809021111100 AX4        GL              O
+QO7000000132140550   T1  
+QI70000001573905550555P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574706200620B   T1  
+QI70000001423106350635B   T1  
+QI70000001423206450645B   T1  
+QI70000001402707050705B   T1  
+QI70000000912707300730B   T1  
+QI70000000961907400740B   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000823507550755B   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001609009350935S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000156420955   T1  
+QDNGLE X4  ODerry - Dublin                                                      
+QSNGLE 0950  20180402201809021111100 AX4        GL              O
+QO7000000132140950   T1  
+QI70000001573909550955P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574710201020B   T1  
+QI70000001423110351035B   T1  
+QI70000001423210451045B   T1  
+QI70000001402711051105B   T1  
+QI70000000912711301130B   T1  
+QI70000000961911401140B   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000823511551155B   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001609013351335S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000156421355   T1  
+QDNGLE X4  ODerry - Dublin                                                      
+QSNGLE 1730  20180402201809021111100 AX4        GL              O
+QO7000000132141730   T1  
+QI70000001573917351735P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574718001800B   T1  
+QI70000001423118151815B   T1  
+QI70000001423218251825B   T1  
+QI70000001402718451845B   T1  
+QI70000000912719101910B   T1  
+QI70000000961919201920B   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000802619351935B   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001609021152115S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000156422135   T1  
+QDNGLE X4  IDublin - Derry                                                      
+QSNGLE 0630  20180402201809021111100 AX4        GL              I
+QO7000000156420545   T1  
+QI70000001564306050605P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000823507300730B   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000000962207400740B   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000000912708050805B   T1  
+QI70000001402508250825B   T1  
+QI70000001423208450845S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001423008550855S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001331109100910S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333109350935S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132140945   T1  
+QDNGLE X4  IDublin - Derry                                                      
+QSNGLE 1100  20180402201809021111100 AX4        GL              I
+QO7000000156421100   T1  
+QI70000001564311201120P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000823512451245B   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000000962212551255B   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000000912713251325B   T1  
+QI70000001402513501350B   T1  
+QI70000001423214101410S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001423014201420S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001331114351435S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333115001500S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141505   T1  
+QDNGLE X4  IDublin - Derry                                                      
+QSNGLE 1515  20180402201809021111100 AX4        GL              I
+QO7000000156421515   T1  
+QI70000001564315351535P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000823517001700B   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000000962217101710B   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000000912717401740B   T1  
+QI70000001402518051805B   T1  
+QI70000001423218251825S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001423018351835S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001331118501850S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333119151915S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141920   T1  
+QDNGLE X4  IDublin - Derry                                                      
+QSNGLE 1800  20180402201809021111100 AX4        GL              I
+QO7000000156421800   T1  
+QI70000001564318201820P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000823619451945B   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000000962219551955B   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000000912720152015B   T1  
+QI70000001402520402040B   T1  
+QI70000001423221002100S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001423021102110S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001331121252125S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333121502150S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132142155   T1  
+QDNGLE X4  IDublin - Derry                                                      
+QSNGLE 2230  20180402201809021111100 AX4        GL              I
+QO7000000156422300   T1  
+QI70000001564323202320P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000823624402440S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000000962224502450S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000000912724552455S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001402525152515S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001423225302530S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001423025402540S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001331125552555S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333126202620S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132142625   T1  
+QDNGLE X4  ODerry - Dublin                                                      
+QSNGLE 0130  20180402201809020000010 XX4        GL              O
+QO7000000132140050   T1  
+QI70000001573900550055P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574701200120P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001423101350135P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001423201400140P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001402701550155P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000912702050205P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000961902100210P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000802602200220P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001609003550355S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000156420415   T1  
+QDNGLE X4  ODerry - Dublin                                                      
+QSNGLE 0550  20180402201809020000010 XX4        GL              O
+QO7000000132140550   T1  
+QI70000001573905550555P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574706200620B   T1  
+QI70000001423106350635B   T1  
+QI70000001423206450645B   T1  
+QI70000001402707050705B   T1  
+QI70000000912707300730B   T1  
+QI70000000961907400740B   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000823507550755B   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001609009350935S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000156420955   T1  
+QDNGLE X4  ODerry - Dublin                                                      
+QSNGLE 0950  20180402201809020000010 XX4        GL              O
+QO7000000132140950   T1  
+QI70000001573909550955P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574710201020B   T1  
+QI70000001423110351035B   T1  
+QI70000001423210451045B   T1  
+QI70000001402711051105B   T1  
+QI70000000912711301130B   T1  
+QI70000000961911401140B   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000823511551155B   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001609013351335S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000156421355   T1  
+QDNGLE X4  ODerry - Dublin                                                      
+QSNGLE 1730  20180402201809020000010 XX4        GL              O
+QO7000000132141730   T1  
+QI70000001573917351735P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574718001800B   T1  
+QI70000001423118151815B   T1  
+QI70000001423218251825B   T1  
+QI70000001402718451845B   T1  
+QI70000000912719101910B   T1  
+QI70000000961919201920B   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000802619351935B   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001609021152115S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000156422135   T1  
+QDNGLE X4  IDublin - Derry                                                      
+QSNGLE 0630  20180402201809020000010 XX4        GL              I
+QO7000000156420545   T1  
+QI70000001564306050605P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000823507300730B   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000000962207400740B   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000000912708050805B   T1  
+QI70000001402508300830B   T1  
+QI70000001423208500850S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001423009000900S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001331109150915S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333109400940S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132140945   T1  
+QDNGLE X4  IDublin - Derry                                                      
+QSNGLE 1100  20180402201809020000010 XX4        GL              I
+QO7000000156421100   T1  
+QI70000001564311201120P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000823512451245B   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000000962212551255B   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000000912713251325B   T1  
+QI70000001402513501350B   T1  
+QI70000001423214101410S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001423014201420S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001331114351435S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333115001500S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141505   T1  
+QDNGLE X4  IDublin - Derry                                                      
+QSNGLE 1515  20180402201809020000010 XX4        GL              I
+QO7000000156421515   T1  
+QI70000001564315351535P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000823517001700B   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000000962217101710B   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000000912717401740B   T1  
+QI70000001402518051805B   T1  
+QI70000001423218251825S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001423018351835S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001331118501850S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333119151915S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141920   T1  
+QDNGLE X4  IDublin - Derry                                                      
+QSNGLE 1800  20180402201809020000010 XX4        GL              I
+QO7000000156421800   T1  
+QI70000001564318201820P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000823619451945B   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000000962219551955B   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000000912720152015B   T1  
+QI70000001402520402040B   T1  
+QI70000001423221002100S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001423021102110S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001331121252125S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333121502150S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132142155   T1  
+QDNGLE X4  IDublin - Derry                                                      
+QSNGLE 2230  20180402201809020000010 XX4        GL              I
+QO7000000156422300   T1  
+QI70000001564323202320P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000823624402440S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000000962224502450S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000000912724552455S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001402525152515S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001423225302530S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001423025402540S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001331125552555S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333126202620S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132142625   T1  
+QDNGLE X4  ODerry - Dublin                                                      
+QSNGLE 0130  20180402201809020000001 XX4        GL              O
+QO7000000132140050   T1  
+QI70000001573900550055P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574701200120P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001423101350135P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001423201400140P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001402701550155P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000912702050205P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000961902100210P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000802602200220P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001609003550355S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000156420415   T1  
+QDNGLE X4  ODerry - Dublin                                                      
+QSNGLE 0550  20180402201809020000001 XX4        GL              O
+QO7000000132140550   T1  
+QI70000001573905550555P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574706200620B   T1  
+QI70000001423106350635B   T1  
+QI70000001423206450645B   T1  
+QI70000001402707050705B   T1  
+QI70000000912707300730B   T1  
+QI70000000961907400740B   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000802607550755B   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001609009350935S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000156420955   T1  
+QDNGLE X4  ODerry - Dublin                                                      
+QSNGLE 0950  20180402201809020000001 XX4        GL              O
+QO7000000132140950   T1  
+QI70000001573909550955P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574710201020B   T1  
+QI70000001423110351035B   T1  
+QI70000001423210451045B   T1  
+QI70000001402711051105B   T1  
+QI70000000912711301130B   T1  
+QI70000000961911401140B   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000802611551155B   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001609013351335S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000156421355   T1  
+QDNGLE X4  ODerry - Dublin                                                      
+QSNGLE 1730  20180402201809020000001 XX4        GL              O
+QO7000000132141730   T1  
+QI70000001573917351735P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574718001800B   T1  
+QI70000001423118151815B   T1  
+QI70000001423218251825B   T1  
+QI70000001402718451845B   T1  
+QI70000000912719101910B   T1  
+QI70000000961919201920B   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000802619351935B   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001609021152115S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000156422135   T1  
+QDNGLE X4  IDublin - Derry                                                      
+QSNGLE 0630  20180402201809020000001 XX4        GL              I
+QO7000000156420545   T1  
+QI70000001564306050605P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000823607300730B   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000000962207400740B   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000000912708050805B   T1  
+QI70000001402508300830B   T1  
+QI70000001423208500850S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001423009000900S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001331109150915S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333109400940S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132140945   T1  
+QDNGLE X4  IDublin - Derry                                                      
+QSNGLE 1100  20180402201809020000001 XX4        GL              I
+QO7000000156421100   T1  
+QI70000001564311201120P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000823612451245B   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000000962212551255B   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000000912713251325B   T1  
+QI70000001402513501350B   T1  
+QI70000001423214101410S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001423014201420S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001331114351435S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333115001500S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141505   T1  
+QDNGLE X4  IDublin - Derry                                                      
+QSNGLE 1515  20180402201809020000001 XX4        GL              I
+QO7000000156421515   T1  
+QI70000001564315351535P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000823617001700B   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000000962217101710B   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000000912717401740B   T1  
+QI70000001402518051805B   T1  
+QI70000001423218251825S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001423018351835S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001331118501850S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333119151915S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141920   T1  
+QDNGLE X4  IDublin - Derry                                                      
+QSNGLE 1800  20180402201809020000001 XX4        GL              I
+QO7000000156421800   T1  
+QI70000001564318201820P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000823619451945B   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000000962219551955B   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000000912720152015B   T1  
+QI70000001402520402040B   T1  
+QI70000001423221002100S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001423021102110S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001331121252125S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333121502150S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132142155   T1  
+QDNGLE X4  IDublin - Derry                                                      
+QSNGLE 2230  20180402201809020000001 XX4        GL              I
+QO7000000156422300   T1  
+QI70000001564323202320P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000823624402440S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000000962224502450S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000000912724552455S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001402525152515S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001423225302530S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001423025402540S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001331125552555S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333126202620S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132142625   T1  
+QLN700000013214Foyle Street Depot
+QBN700000013214243685  416800
+QLN700000013332Strabane Buscentre
+QBN700000013332234058  397741
+QLN700000013450Sion Mills Post Office
+QBN700000013450234045  393065
+QLN700000011865Newtownstewart By-Pass
+QBN700000011865240440  386175
+QLN700000011467Omagh Depot
+QBN700000011467245197  372814
+QLN700000015376Ballygawley P&R SB
+QBN700000015376262690  356890
+QLN700000009935Aughnacloy Main Street
+QBN700000009935266454  352362
+QLN700000015849Monaghan, Bus Station
+QBN700000015849267172  334179
+QLN700000015851Castleblayney, Hanratty's Pub
+QBN700000015851282674  319586
+QLN700000015920Carrickmacross, South By Pass
+QBN700000015920285232  303189
+QLN700000015870Ardee, Bypass
+QBN700000015870296017  291565
+QLN700000016090Dublin Airport Terminal 1
+QBN700000016090317097  243266
+QLN700000015642Dublin, Busaras Bus Station
+QBN700000015642316487  234685
+QLN700000015643Dublin Airport Airport
+QBN700000015643316895  243417
+QLN700000015871Ardee, Bypass
+QBN700000015871296014  291551
+QLN700000009934Aughnacloy Main Street
+QBN700000009934266483  352296
+QLN700000011857Newtownstewart By-Pass
+QBN700000011857240456  386148
+QLN700000013455Sion Mills
+QBN700000013455233990  393236
+QLN700000015739Altnagelvin Express Stop
+QBN700000015739245147  415632
+QLN700000015747Dungiven Express Stop Befast Bound
+QBN700000015747269387  409029
+QLN700000014231Maghera, Glenshane Road Belfast bound
+QBN700000014231284709  399557
+QLN700000014232Castledawson R'About
+QBN700000014232291652  392378
+QLN700000014027Cookstown Dublin Exp Stop
+QBN700000014027281277  378313
+QLN700000009127Dungannon Bus Station
+QBN700000009127279473  362080
+QLN700000009619Moy Square
+QBN700000009619284910  356175
+QLN700000008235Armagh Bus Centre
+QBN700000008235287550  345507
+QLN700000008026Acfe Lonsdale Road (Inward)
+QBN700000008026287573  345626
+QLN700000008236Armagh Bus Centre
+QBN700000008236287584  345536
+QLN700000009622Moy Square
+QBN700000009622284917  356153
+QLN700000014025Cookstown
+QBN700000014025281267  378303
+QLN700000014230Maghera, Park & Ride
+QBN700000014230284680  399495
+QLN700000013311Dungiven
+QBN700000013311269278  409148
+QLN700000013331Harberton Park
+QBN700000013331245113  415634
+QPNGLE Goldline Express        Goldline Express
+QQ
+QPNGLE GOLDLINE EXPRESS SERVICEGOLDLINE EXPRESS SERVICE
+QQ
+QVNGL      GOLDLINE EXPRESS
+QVNGL
+QDNGLE X3  ODerry, Foyle Street Buscentre - Dublin, Busaras
+QDNGLE X3  IBusaras - Dublin - Foyle Street Buscentre - Derry
+QDNGLE X4  ODerry - Dublin
+QDNGLE X4  IDublin - Derry

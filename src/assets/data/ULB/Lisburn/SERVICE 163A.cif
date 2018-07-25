@@ -1,0 +1,876 @@
+ATCO-CIF0500Ulsterbus                       OMNITIMES       20170807151952
+QDNULB 163AOQueens University, Botanic Ave - Jordanstown, University            
+QSNULB 0805  20170901201808311111100 X163A                      O
+QE20170901201709230
+QE20171216201801060
+QE20180324201804070
+QE20180602201809230
+QO7000000154250805   T1  
+QNp    Pick up only                                                            
+QI70000000163308150815P   T1  
+QNp    Pick up only                                                            
+QI70000000151808200820P   T1  
+QNp    Pick up only                                                            
+QI70000000135608320832B   T0  
+QT7000000037560845   T1  
+QDNULB 163AOQueens University, Botanic Ave - Jordanstown, University            
+QSNULB 0820  20170901201808311111100 X163A                      O
+QE20170901201709230
+QE20171216201801060
+QE20180324201804070
+QE20180602201809230
+QO7000000154250820   T1  
+QNp    Pick up only                                                            
+QI70000000163308300830P   T1  
+QNp    Pick up only                                                            
+QI70000000151808350835P   T1  
+QNp    Pick up only                                                            
+QI70000000135608470847B   T0  
+QT7000000037560900   T1  
+QDNULB 163AOQueens University, Botanic Ave - Jordanstown, University            
+QSNULB 1964  20170901201808311111100 X163A                      O
+QE20170901201709230
+QE20171216201801060
+QE20180324201804070
+QE20180602201809230
+QO7000000154250830   T1  
+QNp    Pick up only                                                            
+QI70000000163308400840P   T1  
+QNp    Pick up only                                                            
+QI70000000151808450845P   T1  
+QNp    Pick up only                                                            
+QI70000000135608570857B   T0  
+QT7000000037560910   T1  
+QDNULB 163AOQueens University, Botanic Ave - Jordanstown, University            
+QSNULB 0845  20170901201808311111100 X163A                      O
+QE20170901201709230
+QE20171216201801060
+QE20180324201804070
+QE20180602201809230
+QO7000000153630845   T1  
+QI70000000163308480848P   T1  
+QNp    Pick up only                                                            
+QI70000000151808550855P   T1  
+QNp    Pick up only                                                            
+QI70000000135609070907B   T0  
+QT7000000037560915   T1  
+QDNULB 163AOQueens University, Botanic Ave - Jordanstown, University            
+QSNULB 0840  20170901201808311111100 X163A                      O
+QE20170901201709230
+QE20171216201801060
+QE20180324201804070
+QE20180602201809230
+QO7000000154250840   T1  
+QNp    Pick up only                                                            
+QI70000000163308500850P   T1  
+QNp    Pick up only                                                            
+QI70000000151808550855P   T1  
+QNp    Pick up only                                                            
+QI70000000135609070907B   T0  
+QT7000000037560920   T1  
+QDNULB 163AOQueens University, Botanic Ave - Jordanstown, University            
+QSNULB 0850  20170901201808311111100 X163A                      O
+QE20170901201709230
+QE20171216201801060
+QE20180324201804070
+QE20180602201809230
+QO7000000154250850   T1  
+QNp    Pick up only                                                            
+QI70000000163309000900P   T1  
+QNp    Pick up only                                                            
+QI70000000151809050905P   T1  
+QNp    Pick up only                                                            
+QI70000000135609170917B   T0  
+QT7000000037560930   T1  
+QDNULB 163AOQueens University, Botanic Ave - Jordanstown, University            
+QSNULB 0900  20170901201808311111100 X163A                      O
+QE20170901201709230
+QE20171216201801060
+QE20180324201804070
+QE20180602201809230
+QO7000000154250900   T1  
+QI70000000163309100910P   T1  
+QNp    Pick up only                                                            
+QI70000000151809150915P   T1  
+QNp    Pick up only                                                            
+QI70000000135609270927B   T0  
+QT7000000037560940   T1  
+QDNULB 163AOQueens University, Botanic Ave - Jordanstown, University            
+QSNULB 0915  20170901201808311111100 X163A                      O
+QE20170901201709230
+QE20171216201801060
+QE20180324201804070
+QE20180602201809230
+QO7000000153630915   T1  
+QI70000000163309180918B   T1  
+QI70000000151809250925B   T1  
+QI70000000135609370937B   T0  
+QT7000000037560945   T1  
+QDNULB 163AOQueens University, Botanic Ave - Jordanstown, University            
+QSNULB 1964  20170901201808311111100 X163A                      O
+QE20170901201709230
+QE20171216201801060
+QE20180324201804070
+QE20180602201809230
+QO7000000154250910   T1  
+QNp    Pick up only                                                            
+QI70000000163309200920P   T1  
+QNp    Pick up only                                                            
+QI70000000151809250925P   T1  
+QNp    Pick up only                                                            
+QI70000000135609370937B   T0  
+QT7000000037560950   T1  
+QDNULB 163AOQueens University, Botanic Ave - Jordanstown, University            
+QSNULB       20170901201808311111100 X163A                      O
+QE20170901201709230
+QE20171216201801060
+QE20180324201804070
+QE20180602201809230
+QO7000000154250920   T1  
+QNp    Pick up only                                                            
+QI70000000163309300930P   T1  
+QNp    Pick up only                                                            
+QI70000000151809350935P   T1  
+QNp    Pick up only                                                            
+QI70000000135609470947B   T0  
+QT7000000037561000   T1  
+QDNULB 163AOQueens University, Botanic Ave - Jordanstown, University            
+QSNULB 0930  20170901201808311111100 X163A                      O
+QE20170901201709230
+QE20171216201801060
+QE20180324201804070
+QE20180602201809230
+QO7000000154250930   T1  
+QNp    Pick up only                                                            
+QI70000000163309400940P   T1  
+QNp    Pick up only                                                            
+QI70000000151809450945P   T1  
+QNp    Pick up only                                                            
+QI70000000135609570957B   T0  
+QT7000000037561010   T1  
+QDNULB 163AOQueens University, Botanic Ave - Jordanstown, University            
+QSNULB 0850  20170901201808311111100 X163A      DD              O
+QE20170901201709230
+QE20171216201801060
+QE20180324201804070
+QE20180602201809230
+QO7000000154250945   T1  
+QNp    Pick up only                                                            
+QI70000000163309550955P   T1  
+QNp    Pick up only                                                            
+QI70000000151810001000P   T1  
+QNp    Pick up only                                                            
+QI70000000135610121012B   T0  
+QT7000000037561025   T1  
+QDNULB 163AOQueens University, Botanic Ave - Jordanstown, University            
+QSNULB 1000  20170901201808311111100 X163A                      O
+QE20170901201709230
+QE20171216201801060
+QE20180324201804070
+QE20180602201809230
+QO7000000154251000   T1  
+QNp    Pick up only                                                            
+QI70000000163310101010P   T1  
+QNp    Pick up only                                                            
+QI70000000151810151015P   T1  
+QNp    Pick up only                                                            
+QI70000000135610271027B   T0  
+QT7000000037561040   T1  
+QDNULB 163AOQueens University, Botanic Ave - Jordanstown, University            
+QSNULB 1015  20170901201808311111100 X163A                      O
+QE20170901201709230
+QE20171216201801060
+QE20180324201804070
+QE20180602201809230
+QO7000000154251015   T1  
+QNp    Pick up only                                                            
+QI70000000163310251025P   T1  
+QNp    Pick up only                                                            
+QI70000000151810301030P   T1  
+QNp    Pick up only                                                            
+QI70000000135610421042B   T0  
+QT7000000037561055   T1  
+QDNULB 163AOQueens University, Botanic Ave - Jordanstown, University            
+QSNULB 1030  20170901201808311111100 X163A                      O
+QE20170901201709230
+QE20171216201801060
+QE20180324201804070
+QE20180602201809230
+QO7000000154251030   T1  
+QNp    Pick up only                                                            
+QI70000000163310401040P   T1  
+QNp    Pick up only                                                            
+QI70000000151810451045P   T1  
+QNp    Pick up only                                                            
+QI70000000135610571057B   T0  
+QT7000000037561110   T1  
+QDNULB 163AOQueens University, Botanic Ave - Jordanstown, University            
+QSNULB 1100  20170901201808311111100 X163A                      O
+QE20170901201709230
+QE20171216201801060
+QE20180324201804070
+QE20180602201809230
+QO7000000154251100   T1  
+QNp    Pick up only                                                            
+QI70000000163311101110P   T1  
+QNp    Pick up only                                                            
+QI70000000151811151115P   T1  
+QNp    Pick up only                                                            
+QI70000000135611271127B   T0  
+QT7000000037561140   T1  
+QDNULB 163AOQueens University, Botanic Ave - Jordanstown, University            
+QSNULB 1130  20170901201808311111100 X163A                      O
+QE20170901201709230
+QE20171216201801060
+QE20180324201804070
+QE20180602201809230
+QO7000000154251130   T1  
+QNp    Pick up only                                                            
+QI70000000163311401140P   T1  
+QNp    Pick up only                                                            
+QI70000000151811451145P   T1  
+QNp    Pick up only                                                            
+QI70000000135611571157B   T0  
+QT7000000037561210   T1  
+QDNULB 163AOQueens University, Botanic Ave - Jordanstown, University            
+QSNULB       20170901201808311111100 X163A                      O
+QE20170901201709230
+QE20171216201801060
+QE20180324201804070
+QE20180602201809230
+QO7000000154251145   T1  
+QNp    Pick up only                                                            
+QI70000000163311551155P   T1  
+QNp    Pick up only                                                            
+QI70000000151812001200P   T1  
+QNp    Pick up only                                                            
+QI70000000135612121212B   T0  
+QT7000000037561225   T1  
+QDNULB 163AOQueens University, Botanic Ave - Jordanstown, University            
+QSNULB 1200  20170901201808311111100 X163A                      O
+QE20170901201709230
+QE20171216201801060
+QE20180324201804070
+QE20180602201809230
+QO7000000154251200   T1  
+QNp    Pick up only                                                            
+QI70000000163312101210P   T1  
+QNp    Pick up only                                                            
+QI70000000151812151215P   T1  
+QNp    Pick up only                                                            
+QI70000000135612271227B   T0  
+QT7000000037561240   T1  
+QDNULB 163AOQueens University, Botanic Ave - Jordanstown, University            
+QSNULB 1230  20170901201808311111100 X163A                      O
+QE20170901201709230
+QE20171216201801060
+QE20180324201804070
+QE20180602201809230
+QO7000000154251230   T1  
+QNp    Pick up only                                                            
+QI70000000163312401240P   T1  
+QNp    Pick up only                                                            
+QI70000000151812451245P   T1  
+QNp    Pick up only                                                            
+QI70000000135612571257B   T0  
+QT7000000037561310   T1  
+QDNULB 163AOQueens University, Botanic Ave - Jordanstown, University            
+QSNULB 1245  20170901201808311111100 X163A                      O
+QE20170901201709230
+QE20171216201801060
+QE20180324201804070
+QE20180602201809230
+QO7000000153631245   T1  
+QNp    Pick up only                                                            
+QI70000000163312551255P   T1  
+QNp    Pick up only                                                            
+QI70000000151813001300P   T1  
+QNp    Pick up only                                                            
+QI70000000135613121312B   T0  
+QT7000000037561325   T1  
+QDNULB 163AOQueens University, Botanic Ave - Jordanstown, University            
+QSNULB 1300  20170901201808311111100 X163A                      O
+QE20170901201709230
+QE20171216201801060
+QE20180324201804070
+QE20180602201809230
+QO7000000154251300   T1  
+QNp    Pick up only                                                            
+QI70000000163313101310P   T1  
+QNp    Pick up only                                                            
+QI70000000151813151315P   T1  
+QNp    Pick up only                                                            
+QI70000000135613271327B   T0  
+QT7000000037561340   T1  
+QDNULB 163AOQueens University, Botanic Ave - Jordanstown, University            
+QSNULB 1330  20170901201808311111000 X163A                      O
+QE20170901201709230
+QE20171216201801060
+QE20180324201804070
+QE20180602201809230
+QNNF   Not Fridays                                                             
+QO7000000154251330   T1  
+QNp    Pick up only                                                            
+QI70000000163313401340P   T1  
+QNp    Pick up only                                                            
+QI70000000151813451345P   T1  
+QNp    Pick up only                                                            
+QI70000000135613571357B   T0  
+QT7000000037561410   T1  
+QDNULB 163AOQueens University, Botanic Ave - Jordanstown, University            
+QSNULB 1355  20170901201808311111000 X163A                      O
+QE20170901201709230
+QE20171216201801060
+QE20180324201804070
+QE20180602201809230
+QNNF   Not Fridays                                                             
+QO7000000154251355   T1  
+QNp    Pick up only                                                            
+QI70000000163314051405P   T1  
+QNp    Pick up only                                                            
+QI70000000151814101410P   T1  
+QNp    Pick up only                                                            
+QI70000000135614221422B   T0  
+QT7000000037561435   T1  
+QDNULB 163AOQueens University, Botanic Ave - Jordanstown, University            
+QSNULB 1410  20170901201808311111000 X163A                      O
+QE20170901201709230
+QE20171216201801060
+QE20180324201804070
+QE20180602201809230
+QNNF   Not Fridays                                                             
+QO7000000154251410   T1  
+QNp    Pick up only                                                            
+QI70000000163314201420P   T1  
+QNp    Pick up only                                                            
+QI70000000151814251425P   T1  
+QNp    Pick up only                                                            
+QI70000000135614371437B   T0  
+QT7000000037561450   T1  
+QDNULB 163AOQueens University, Botanic Ave - Jordanstown, University            
+QSNULB 1440  20170901201808311111000 X163A                      O
+QE20170901201709230
+QE20171216201801060
+QE20180324201804070
+QE20180602201809230
+QNNF   Not Fridays                                                             
+QO7000000154251440   T1  
+QNp    Pick up only                                                            
+QI70000000163314501450P   T1  
+QNp    Pick up only                                                            
+QI70000000151814551455P   T1  
+QNp    Pick up only                                                            
+QI70000000135615071507B   T0  
+QT7000000037561520   T1  
+QDNULB 163AOQueens University, Botanic Ave - Jordanstown, University            
+QSNULB 1515  20170901201808311111000 X163A                      O
+QE20170901201709230
+QE20171216201801060
+QE20180324201804070
+QE20180602201809230
+QNNF   Not Fridays                                                             
+QO7000000154251515   T1  
+QNp    Pick up only                                                            
+QI70000000163315251525P   T1  
+QNp    Pick up only                                                            
+QI70000000151815301530P   T1  
+QNp    Pick up only                                                            
+QI70000000135615421542B   T0  
+QT7000000037561555   T1  
+QDNULB 163AOQueens University, Botanic Ave - Jordanstown, University            
+QSNULB 1700  20170901201808311101000 X163A                      O
+QE20170901201709230
+QE20171216201801060
+QE20180324201804070
+QE20180602201809230
+QNNWF  Not Wednesdays and Fridays                                              
+QO7000000154251700   T1  
+QNp    Pick up only                                                            
+QI70000000163317101710P   T1  
+QNp    Pick up only                                                            
+QI70000000151817151715P   T1  
+QNp    Pick up only                                                            
+QI70000000135617271727B   T0  
+QT7000000037561740   T1  
+QDNULB 163AOQueens University, Botanic Ave - Jordanstown, University            
+QSNULB 1964  20170901201808311111000 X163A                      O
+QE20170901201709230
+QE20171216201801060
+QE20180324201804070
+QE20180602201809230
+QNNF   Not Fridays                                                             
+QO7000000154251745   T1  
+QNp    Pick up only                                                            
+QI70000000163317481748P   T1  
+QNp    Pick up only                                                            
+QI70000000151817551755P   T1  
+QNp    Pick up only                                                            
+QI70000000135618071807B   T0  
+QT7000000037561815   T1  
+QDNULB 163AOQueens University, Botanic Ave - Jordanstown, University            
+QSNULB 1825  20170901201808311101000 X163A                      O
+QE20170901201709230
+QE20171216201801060
+QE20180324201804070
+QE20180602201809230
+QNNWF  Not Wednesdays and Fridays                                              
+QO7000000154251825   T1  
+QNp    Pick up only                                                            
+QI70000000163318281828P   T1  
+QNp    Pick up only                                                            
+QI70000000151818351835P   T1  
+QNp    Pick up only                                                            
+QI70000000135618471847B   T0  
+QT7000000037561855   T1  
+QDNULB 163AIJordanstown University - Queens University, Botanic Ave             
+QSNULB 0850  20170901201808311111100 X163A                      I
+QE20170901201709230
+QE20171216201801060
+QE20180324201804070
+QE20180602201809230
+QO7000000037560850   T1  
+QI70000000140108570857B   T0  
+QI70000000151509090909B   T0  
+QI70000000142209120912S   T1  
+QNs    Set Down Only                                                           
+QT7000000153630915   T1  
+QNs    Set Down Only                                                           
+QDNULB 163AIJordanstown University - Queens University, Botanic Ave             
+QSNULB 0905  20170901201808311111100 X163A                      I
+QE20170901201709230
+QE20171216201801060
+QE20180324201804070
+QE20180602201809230
+QO7000000037560905   T1  
+QI70000000140109150915B   T0  
+QI70000000151509300930B   T0  
+QI70000000142209330933S   T1  
+QNs    Set Down Only                                                           
+QI70000001503909350935S   T0  
+QNs    Set Down Only                                                           
+QI70000000097609370937S   T0  
+QNs    Set Down Only                                                           
+QI70000000097709380938S   T0  
+QNs    Set Down Only                                                           
+QT7000000154250940   T1  
+QNs    Set Down Only                                                           
+QDNULB 163AIJordanstown University - Queens University, Botanic Ave             
+QSNULB 0935  20170901201808311111100 X163A                      I
+QE20170901201709230
+QE20171216201801060
+QE20180324201804070
+QE20180602201809230
+QO7000000037560935   T1  
+QI70000000140109420942B   T0  
+QI70000000151509540954B   T0  
+QI70000000142209570957S   T1  
+QNs    Set Down Only                                                           
+QT7000000153631000   T1  
+QDNULB 163AIJordanstown University - Queens University, Botanic Ave             
+QSNULB 0945  20170901201808311111100 X163A                      I
+QE20170901201709230
+QE20171216201801060
+QE20180324201804070
+QE20180602201809230
+QO7000000037560945   T1  
+QI70000000140109520952B   T0  
+QI70000000151510041004B   T0  
+QI70000000142210071007S   T1  
+QNs    Set Down Only                                                           
+QT7000000153631010   T1  
+QNs    Set Down Only                                                           
+QDNULB 163AIJordanstown University - Queens University, Botanic Ave             
+QSNULB 1015  20170901201808311111100 X163A                      I
+QE20170901201709230
+QE20171216201801060
+QE20180324201804070
+QE20180602201809230
+QO7000000037561015   T1  
+QI70000000140110221022B   T0  
+QI70000000151510341034B   T0  
+QI70000000142210371037S   T1  
+QNs    Set Down Only                                                           
+QT7000000153631040   T1  
+QNs    Set Down Only                                                           
+QDNULB 163AIJordanstown University - Queens University, Botanic Ave             
+QSNULB 1045  20170901201808311111100 X163A                      I
+QE20170901201709230
+QE20171216201801060
+QE20180324201804070
+QE20180602201809230
+QO7000000037561045   T1  
+QI70000000140110521052B   T0  
+QI70000000151511041104B   T0  
+QI70000000142211071107S   T1  
+QNs    Set Down Only                                                           
+QT7000000153631110   T1  
+QNs    Set Down Only                                                           
+QDNULB 163AIJordanstown University - Queens University, Botanic Ave             
+QSNULB 1115  20170901201808311111100 X163A                      I
+QE20170901201709230
+QE20171216201801060
+QE20180324201804070
+QE20180602201809230
+QO7000000037561115   T1  
+QI70000000140111251125B   T0  
+QI70000000151511401140B   T0  
+QI70000000142211431143S   T1  
+QNs    Set Down Only                                                           
+QI70000001503911451145S   T0  
+QNs    Set Down Only                                                           
+QI70000000097611471147S   T0  
+QNs    Set Down Only                                                           
+QI70000000097711481148S   T0  
+QNs    Set Down Only                                                           
+QT7000000154251150   T1  
+QNs    Set Down Only                                                           
+QDNULB 163AIJordanstown University - Queens University, Botanic Ave             
+QSNULB 1145  20170901201808311111100 X163A                      I
+QE20170901201709230
+QE20171216201801060
+QE20180324201804070
+QE20180602201809230
+QO7000000037561145   T1  
+QI70000000140111551155B   T0  
+QI70000000151512101210B   T0  
+QI70000000142212131213S   T1  
+QNs    Set Down Only                                                           
+QI70000001503912151215S   T0  
+QNs    Set Down Only                                                           
+QI70000000097612171217S   T0  
+QNs    Set Down Only                                                           
+QI70000000097712181218S   T0  
+QNs    Set Down Only                                                           
+QT7000000154251220   T1  
+QNs    Set Down Only                                                           
+QDNULB 163AIJordanstown University - Queens University, Botanic Ave             
+QSNULB 1215  20170901201808311111100 X163A                      I
+QE20170901201709230
+QE20171216201801060
+QE20180324201804070
+QE20180602201809230
+QO7000000037561215   T1  
+QI70000000140112251225B   T0  
+QI70000000151512401240B   T0  
+QI70000000142212431243S   T1  
+QNs    Set Down Only                                                           
+QI70000001503912451245S   T0  
+QNs    Set Down Only                                                           
+QI70000000097612471247S   T0  
+QNs    Set Down Only                                                           
+QI70000000097712481248S   T0  
+QNs    Set Down Only                                                           
+QT7000000154251250   T1  
+QNs    Set Down Only                                                           
+QDNULB 163AIJordanstown University - Queens University, Botanic Ave             
+QSNULB 1245  20170901201808311111100 X163A                      I
+QE20170901201709230
+QE20171216201801060
+QE20180324201804070
+QE20180602201809230
+QO7000000037561245   T1  
+QI70000000140112551255B   T0  
+QI70000000151513101310B   T0  
+QI70000000142213131313S   T1  
+QNs    Set Down Only                                                           
+QI70000001503913151315S   T0  
+QNs    Set Down Only                                                           
+QI70000000097613171317S   T0  
+QNs    Set Down Only                                                           
+QI70000000097713181318S   T0  
+QNs    Set Down Only                                                           
+QT7000000154251320   T1  
+QNs    Set Down Only                                                           
+QDNULB 163AIJordanstown University - Queens University, Botanic Ave             
+QSNULB 1315  20170901201808311111100 X163A                      I
+QE20170901201709230
+QE20171216201801060
+QE20180324201804070
+QE20180602201809230
+QO7000000037561315   T1  
+QI70000000140113251325B   T0  
+QI70000000151513401340B   T0  
+QI70000000142213431343S   T1  
+QNs    Set Down Only                                                           
+QI70000001503913451345S   T0  
+QNs    Set Down Only                                                           
+QI70000000097613471347S   T0  
+QNs    Set Down Only                                                           
+QI70000000097713481348S   T0  
+QNs    Set Down Only                                                           
+QT7000000154251350   T1  
+QNs    Set Down Only                                                           
+QDNULB 163AIJordanstown University - Queens University, Botanic Ave             
+QSNULB 1345  20170901201808311111100 X163A                      I
+QE20170901201709230
+QE20171216201801060
+QE20180324201804070
+QE20180602201809230
+QO7000000037561345   T1  
+QI70000000140113551355B   T0  
+QI70000000151514101410B   T0  
+QI70000000142214131413S   T1  
+QNs    Set Down Only                                                           
+QI70000001503914151415S   T0  
+QNs    Set Down Only                                                           
+QI70000000097614171417S   T0  
+QNs    Set Down Only                                                           
+QI70000000097714181418S   T0  
+QNs    Set Down Only                                                           
+QT7000000154251420   T1  
+QNs    Set Down Only                                                           
+QDNULB 163AIJordanstown University - Queens University, Botanic Ave             
+QSNULB 1415  20170901201808311111000 X163A                      I
+QE20170901201709230
+QE20171216201801060
+QE20180324201804070
+QE20180602201809230
+QNNF   Not Fridays                                                             
+QO7000000037561415   T1  
+QI70000000140114251425B   T0  
+QI70000000151514401440B   T0  
+QI70000000142214431443S   T1  
+QNs    Set Down Only                                                           
+QI70000001503914451445S   T0  
+QNs    Set Down Only                                                           
+QI70000000097614471447S   T0  
+QNs    Set Down Only                                                           
+QI70000000097714481448S   T0  
+QNs    Set Down Only                                                           
+QT7000000154251450   T1  
+QNs    Set Down Only                                                           
+QDNULB 163AIJordanstown University - Queens University, Botanic Ave             
+QSNULB 1450  20170901201808311111000 X163A                      I
+QE20170901201709230
+QE20171216201801060
+QE20180324201804070
+QE20180602201809230
+QNNF   Not Fridays                                                             
+QO7000000037561450   T1  
+QI70000000140114571457B   T0  
+QI70000000151515091509B   T0  
+QI70000000142215121512S   T1  
+QNs    Set Down Only                                                           
+QT7000000153631515   T1  
+QDNULB 163AIJordanstown University - Queens University, Botanic Ave             
+QSNULB 1455  20170901201808311111000 X163A                      I
+QE20170901201709230
+QE20171216201801060
+QE20180324201804070
+QE20180602201809230
+QNNF   Not Fridays                                                             
+QO7000000037561455   T1  
+QI70000000140115051505B   T0  
+QI70000000151515201520B   T0  
+QI70000000142215231523S   T1  
+QNs    Set Down Only                                                           
+QI70000001503915251525S   T0  
+QNs    Set Down Only                                                           
+QI70000000097615271527S   T0  
+QNs    Set Down Only                                                           
+QI70000000097715281528S   T0  
+QNs    Set Down Only                                                           
+QT7000000154251530   T1  
+QNs    Set Down Only                                                           
+QDNULB 163AIJordanstown University - Queens University, Botanic Ave             
+QSNULB 1530  20170901201808311111000 X163A                      I
+QE20170901201709230
+QE20171216201801060
+QE20180324201804070
+QE20180602201809230
+QNNF   Not Fridays                                                             
+QO7000000037561530   T1  
+QI70000000140115401540B   T0  
+QI70000000151515551555B   T0  
+QI70000000142215581558S   T1  
+QNs    Set Down Only                                                           
+QI70000001503916001600S   T0  
+QNs    Set Down Only                                                           
+QI70000000097616021602S   T0  
+QNs    Set Down Only                                                           
+QI70000000097716031603S   T0  
+QNs    Set Down Only                                                           
+QT7000000154251605   T1  
+QNs    Set Down Only                                                           
+QDNULB 163AIJordanstown University - Queens University, Botanic Ave             
+QSNULB 1600  20170901201808311111000 X163A                      I
+QE20170901201709230
+QE20171216201801060
+QE20180324201804070
+QE20180602201809230
+QNNF   Not Fridays                                                             
+QO7000000037561600   T1  
+QI70000000140116101610B   T0  
+QI70000000151516251625B   T0  
+QI70000000142216281628S   T1  
+QNs    Set Down Only                                                           
+QI70000001503916301630S   T0  
+QNs    Set Down Only                                                           
+QI70000000097616321632S   T0  
+QNs    Set Down Only                                                           
+QI70000000097716331633S   T0  
+QNs    Set Down Only                                                           
+QT7000000154251635   T1  
+QNs    Set Down Only                                                           
+QDNULB 163AIJordanstown University - Queens University, Botanic Ave             
+QSNULB 1630  20170901201808311111100 X163A                      I
+QE20170901201709230
+QE20171216201801060
+QE20180324201804070
+QE20180602201809230
+QO7000000037561630   T1  
+QI70000000140116401640B   T0  
+QI70000000151516551655B   T0  
+QI70000000142216581658S   T1  
+QNs    Set Down Only                                                           
+QI70000001503917001700S   T0  
+QNs    Set Down Only                                                           
+QI70000000097617021702S   T0  
+QNs    Set Down Only                                                           
+QI70000000097717031703S   T0  
+QNs    Set Down Only                                                           
+QT7000000154251705   T1  
+QNs    Set Down Only                                                           
+QDNULB 163AIJordanstown University - Queens University, Botanic Ave             
+QSNULB 1645  20170901201808311111000 X163A                      I
+QE20170901201709230
+QE20171216201801060
+QE20180324201804070
+QE20180602201809230
+QNNF   Not Fridays                                                             
+QO7000000037561645   T1  
+QI70000000140116551655B   T0  
+QI70000000151517101710B   T0  
+QI70000000142217131713S   T1  
+QNs    Set Down Only                                                           
+QI70000001503917151715S   T0  
+QNs    Set Down Only                                                           
+QI70000000097617171717S   T0  
+QNs    Set Down Only                                                           
+QI70000000097717181718S   T0  
+QNs    Set Down Only                                                           
+QT7000000154251720   T1  
+QNs    Set Down Only                                                           
+QDNULB 163AIJordanstown University - Queens University, Botanic Ave             
+QSNULB 1655  20170901201808311111000 X163A                      I
+QE20170901201709230
+QE20171216201801060
+QE20180324201804070
+QE20180602201809230
+QNNF   Not Fridays                                                             
+QO7000000037561655   T1  
+QI70000000140117051705B   T0  
+QI70000000151517201720B   T0  
+QI70000000142217231723S   T1  
+QNs    Set Down Only                                                           
+QI70000001503917251725S   T0  
+QNs    Set Down Only                                                           
+QI70000000097617271727S   T0  
+QNs    Set Down Only                                                           
+QI70000000097717281728S   T0  
+QNs    Set Down Only                                                           
+QT7000000154251730   T1  
+QNs    Set Down Only                                                           
+QDNULB 163AIJordanstown University - Queens University, Botanic Ave             
+QSNULB 1964  20170901201808311111000 X163A                      I
+QE20170901201709230
+QE20171216201801060
+QE20180324201804070
+QE20180602201809230
+QNNF   Not Fridays                                                             
+QO7000000037561710   T1  
+QI70000000140117201720B   T0  
+QI70000000151517351735B   T0  
+QI70000000142217381738S   T1  
+QNs    Set Down Only                                                           
+QI70000001503917401740S   T0  
+QNs    Set Down Only                                                           
+QI70000000097617421742S   T0  
+QNs    Set Down Only                                                           
+QI70000000097717431743S   T0  
+QNs    Set Down Only                                                           
+QT7000000154251745   T1  
+QNs    Set Down Only                                                           
+QDNULB 163AIJordanstown University - Queens University, Botanic Ave             
+QSNULB 1730  20170901201808311101000 X163A                      I
+QE20170901201709230
+QE20171216201801060
+QE20180324201804070
+QE20180602201809230
+QNNWF  Not Wednesdays and Fridays                                              
+QO7000000037561730   T1  
+QI70000000140117371737B   T0  
+QI70000000151517491749B   T0  
+QI70000000142217521752S   T1  
+QNs    Set Down Only                                                           
+QT7000000153631755   T1  
+QNs    Set Down Only                                                           
+QDNULB 163AIJordanstown University - Queens University, Botanic Ave             
+QSNULB 1745  20170901201808311101000 X163A                      I
+QE20170901201709230
+QE20171216201801060
+QE20180324201804070
+QE20180602201809230
+QNNWF  Not Wednesdays and Fridays                                              
+QO7000000037561745   T1  
+QI70000000140117551755B   T0  
+QI70000000151518101810B   T0  
+QI70000000142218131813S   T1  
+QNs    Set Down Only                                                           
+QI70000001503918151815S   T0  
+QNs    Set Down Only                                                           
+QI70000000097618171817S   T0  
+QNs    Set Down Only                                                           
+QI70000000097718181818S   T0  
+QNs    Set Down Only                                                           
+QT7000000154251820   T1  
+QNs    Set Down Only                                                           
+QDNULB 163AIJordanstown University - Queens University, Botanic Ave             
+QSNULB 1900  20170901201808311101000 X163A                      I
+QE20170901201709230
+QE20171216201801060
+QE20180324201804070
+QE20180602201809230
+QNNWF  Not Wednesdays and Fridays                                              
+QO7000000037561900   T1  
+QI70000000140119101910B   T0  
+QI70000000151519251925B   T0  
+QI70000000142219281928S   T1  
+QNs    Set Down Only                                                           
+QI70000001503919301930S   T0  
+QNs    Set Down Only                                                           
+QI70000000097619321932S   T0  
+QNs    Set Down Only                                                           
+QI70000000097719331933S   T0  
+QNs    Set Down Only                                                           
+QT7000000154251935   T1  
+QNs    Set Down Only                                                           
+QLN700000015425University Square, Botanic
+QBN700000015425333714  372780
+QLN700000015363Europa Buscentre
+QBN700000015363333448  373764
+QLN700000001633Great Northern Mall
+QBN700000001633333550  373738
+QLN700000001518Interpoint
+QBN700000001518333859  374874
+QLN700000001356Northern Regional College
+QBN700000001356335295  381808
+QLN700000003756Jordanstown University
+QBN700000003756336404  384070
+QLN700000001401Northern Regional College
+QBN700000001401335409  382015
+QLN700000001515Interpoint
+QBN700000001515333849  374819
+QLN700000001422Royal Avenue
+QBN700000001422333783  374438
+QLN700000015039Ulster Hall
+QBN700000015039333765  373789
+QLN700000000976Bradbury Place
+QBN700000000976333567  373155
+QLN700000000977University Road
+QBN700000000977333502  372909
+QPNULB Ulsterbus               Ulsterbus
+QQ
+QVNDD      Double Deck
+QDNULB 163AOQueens University, Botanic Ave - Jordanstown, University
+QDNULB 163AIJordanstown University - Queens University, Botanic Ave

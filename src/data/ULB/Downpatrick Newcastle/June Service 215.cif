@@ -1,0 +1,1354 @@
+ATCO-CIF0500Ulsterbus                       OMNITIMES       20180504205235
+QDNGLE 215 OBelfast, Europa Buscentre - Downpatrick, Buscentre                  
+QSNGLE 0650  20180610999999991111100 X215       GL              O
+QO70000001536306505  T1  
+QNp    Pick up only                                                            
+QI70000000163706530653P   T1  
+QNp    Pick up only                                                            
+QI70000000032506550655P   T1  
+QNp    Pick up only                                                            
+QI70000000767107100710B   T1  
+QI70000001469607130713B   T0  
+QI70000000664107160716B   T0  
+QI70000000665007200720B   T1  
+QI70000000666107250725B   T1  
+QI70000000656507270727B   T0  
+QI70000000626507290729B   T0  
+QI70000000626607310731B   T0  
+QI70000000626707330733B   T0  
+QT7000000062680735   T1  
+QNs    Set down only                                                           
+QDNGLE 215 OBelfast, Europa Buscentre - Downpatrick, Buscentre                  
+QSNGLE 0800  20180610999999991111100HX215       GL              O
+QNNSch School Holidays                                                         
+QO70000001536308005  T1  
+QNp    Pick up only                                                            
+QI70000000163708050805P   T1  
+QNp    Pick up only                                                            
+QI70000000032508080808P   T1  
+QNp    Pick up only                                                            
+QI70000000767108300830B   T1  
+QI70000001469608300830B   T0  
+QI70000000664108300830B   T0  
+QI70000000665008380838B   T1  
+QI70000000666108450845B   T1  
+QI70000000656508570857B   T0  
+QI70000000626508580858B   T0  
+QI70000000626608580858B   T0  
+QI70000000626708590859B   T0  
+QT7000000062680900   T1  
+QNs    Set down only                                                           
+QDNGLE 215 OBelfast, Europa Buscentre - Downpatrick, Buscentre                  
+QSNGLE 0845  20180610999999991111100 X215       GL              O
+QO70000001536308455  T1  
+QI70000000163708500850P   T1  
+QI70000000032508520852P   T1  
+QI70000000767109070907B   T1  
+QI70000001469609070907B   T0  
+QI70000000664109070907B   T0  
+QI70000000665009140914B   T1  
+QI70000000666109210921B   T1  
+QI70000000656509370937B   T0  
+QI70000000626509370937B   T0  
+QI70000000626609380938B   T0  
+QI70000000626709390939B   T0  
+QT7000000062680940   T1  
+QDNGLE 215 OBelfast, Europa Buscentre - Downpatrick, Buscentre                  
+QSNGLE 0915  20180610999999991111100 X215       GL              O
+QO70000001536309155  T1  
+QNp    Pick up only                                                            
+QI70000000163709200920P   T1  
+QNp    Pick up only                                                            
+QI70000000032509220922P   T1  
+QNp    Pick up only                                                            
+QI70000000767109370937B   T1  
+QI70000001469609370937B   T0  
+QI70000000664109370937B   T0  
+QI70000000665009440944B   T1  
+QI70000000666109510951B   T1  
+QI70000000656510071007B   T0  
+QI70000000626510071007B   T0  
+QI70000000626610081008B   T0  
+QI70000000626710091009B   T0  
+QT7000000062681010   T1  
+QNs    Set down only                                                           
+QDNGLE 215 OBelfast, Europa Buscentre - Downpatrick, Buscentre                  
+QSNGLE 1000  20180610999999991111100 X215       GL              O
+QO70000001536310005  T1  
+QNp    Pick up only                                                            
+QI70000000163710051005P   T1  
+QNp    Pick up only                                                            
+QI70000000032510071007P   T1  
+QNp    Pick up only                                                            
+QI70000000767110221022B   T1  
+QI70000001469610221022B   T0  
+QI70000000664110221022B   T0  
+QI70000000665010291029B   T1  
+QI70000000666110361036B   T1  
+QI70000000656510521052B   T0  
+QI70000000626510521052B   T0  
+QI70000000626610531053B   T0  
+QI70000000626710541054B   T0  
+QT7000000062681055   T1  
+QNs    Set down only                                                           
+QDNGLE 215 OBelfast, Europa Buscentre - Downpatrick, Buscentre                  
+QSNGLE 1100  20180610999999991111100 X215       GL              O
+QO70000001536311005  T1  
+QNp    Pick up only                                                            
+QI70000000163711051105P   T1  
+QNp    Pick up only                                                            
+QI70000000032511071107P   T1  
+QNp    Pick up only                                                            
+QI70000000767111221122B   T1  
+QI70000001469611221122B   T0  
+QI70000000664111221122B   T0  
+QI70000000665011291129B   T1  
+QI70000000666111361136B   T1  
+QI70000000656511521152B   T0  
+QI70000000626511521152B   T0  
+QI70000000626611531153B   T0  
+QI70000000626711541154B   T0  
+QT7000000062681155   T1  
+QNs    Set down only                                                           
+QDNGLE 215 OBelfast, Europa Buscentre - Downpatrick, Buscentre                  
+QSNGLE 1200  20180610999999991111100 X215       GL              O
+QO70000001536312005  T1  
+QNp    Pick up only                                                            
+QI70000000163712051205P   T1  
+QNp    Pick up only                                                            
+QI70000000032512071207P   T1  
+QNp    Pick up only                                                            
+QI70000000767112221222B   T1  
+QI70000001469612221222B   T0  
+QI70000000664112221222B   T0  
+QI70000000665012291229B   T1  
+QI70000000666112361236B   T1  
+QI70000000656512521252B   T0  
+QI70000000626512521252B   T0  
+QI70000000626612531253B   T0  
+QI70000000626712541254B   T0  
+QT7000000062681255   T1  
+QNs    Set down only                                                           
+QDNGLE 215 OBelfast, Europa Buscentre - Downpatrick, Buscentre                  
+QSNGLE 1300  20180610999999991111100 X215       GL              O
+QO70000001536313005  T1  
+QNp    Pick up only                                                            
+QI70000000163713051305P   T1  
+QNp    Pick up only                                                            
+QI70000000032513071307P   T1  
+QNp    Pick up only                                                            
+QI70000000767113221322B   T1  
+QI70000001469613221322B   T0  
+QI70000000664113221322B   T0  
+QI70000000665013291329B   T1  
+QI70000000666113361336B   T1  
+QI70000000656513521352B   T0  
+QI70000000626513521352B   T0  
+QI70000000626613531353B   T0  
+QI70000000626713541354B   T0  
+QT7000000062681355   T1  
+QNs    Set down only                                                           
+QDNGLE 215 OBelfast, Europa Buscentre - Downpatrick, Buscentre                  
+QSNGLE 1400  20180610999999991111100 X215       GL              O
+QO70000001536314005  T1  
+QNp    Pick up only                                                            
+QI70000000163714051405P   T1  
+QNp    Pick up only                                                            
+QI70000000032514071407P   T1  
+QNp    Pick up only                                                            
+QI70000000767114221422B   T1  
+QI70000001469614221422B   T0  
+QI70000000664114221422B   T0  
+QI70000000665014291429B   T1  
+QI70000000666114361436B   T1  
+QI70000000656514521452B   T0  
+QI70000000626514521452B   T0  
+QI70000000626614531453B   T0  
+QI70000000626714541454B   T0  
+QT7000000062681455   T1  
+QNs    Set down only                                                           
+QDNGLE 215 OBelfast, Europa Buscentre - Downpatrick, Buscentre                  
+QSNGLE 1500  20180610999999991111100 X215       GL              O
+QO70000001536315005  T1  
+QNp    Pick up only                                                            
+QI70000000163715051505P   T1  
+QNp    Pick up only                                                            
+QI70000000032515081508P   T1  
+QNp    Pick up only                                                            
+QI70000000767115301530B   T1  
+QI70000001469615301530B   T0  
+QI70000000664115301530B   T0  
+QI70000000665015381538B   T1  
+QI70000000666115451545B   T1  
+QI70000000656515571557B   T0  
+QI70000000626515581558B   T0  
+QI70000000626615581558B   T0  
+QI70000000626715591559B   T0  
+QT7000000062681600   T1  
+QNs    Set down only                                                           
+QDNGLE 215bOBelfast, Europa Buscentre - Downpatrick, Buscentre                  
+QSNGLE 1600  20180610999999991111100 X215b      GL              O
+QNFS   First Stop Saintfield                                                   
+QO70000001536316005  T1  
+QNp    Pick up only                                                            
+QI70000000163716051605P   T1  
+QNp    Pick up only                                                            
+QI70000000032516081608P   T1  
+QNp    Pick up only                                                            
+QI70000000665016381638B   T1  
+QI70000000666116451645B   T1  
+QT7000000062681705   T1  
+QNs    Set down only                                                           
+QDNGLE 215bOBelfast, Europa Buscentre - Downpatrick, Buscentre                  
+QSNGLE 1630  20180610999999991111100 X215b      GL              O
+QNFS   First Stop Saintfield                                                   
+QO70000001536316305  T1  
+QNp    Pick up only                                                            
+QI70000000163716361636P   T1  
+QNp    Pick up only                                                            
+QI70000000032516391639P   T1  
+QNp    Pick up only                                                            
+QI70000000665017151715B   T1  
+QI70000000666117251725B   T1  
+QT7000000062681745   T1  
+QNs    Set down only                                                           
+QDNGLE 215 OBelfast, Europa Buscentre - Downpatrick, Buscentre                  
+QSNGLE 1645  20180610999999991111100 X215       GL              O
+QO70000001536316455  T1  
+QNp    Pick up only                                                            
+QI70000000163716501650P   T1  
+QNp    Pick up only                                                            
+QI70000000032516531653P   T1  
+QNp    Pick up only                                                            
+QI70000000767117161716B   T1  
+QI70000000665017251725B   T1  
+QI70000000666117401740B   T1  
+QI70000000656517521752B   T0  
+QI70000000626517531753B   T0  
+QI70000000626617531753B   T0  
+QI70000000626717541754B   T0  
+QT7000000062681755   T1  
+QNs    Set down only                                                           
+QDNGLE 215bOBelfast, Europa Buscentre - Downpatrick, Buscentre                  
+QSNGLE 1700  20180610999999991111100 X215b      GL              O
+QNFS   First Stop Saintfield                                                   
+QO70000001536317005  T1  
+QNp    Pick up only                                                            
+QI70000000163717051705P   T1  
+QNp    Pick up only                                                            
+QI70000000032517081708P   T1  
+QNp    Pick up only                                                            
+QI70000000665017431743B   T1  
+QI70000000666117551755B   T1  
+QT7000000062681810   T1  
+QNs    Set down only                                                           
+QDNGLE 215bOBelfast, Europa Buscentre - Downpatrick, Buscentre                  
+QSNGLE 1715  20180610999999991111100 X215b      GL              O
+QNFS   First Stop Saintfield                                                   
+QO70000001536317155  T1  
+QNp    Pick up only                                                            
+QI70000000163717201720P   T1  
+QNp    Pick up only                                                            
+QI70000000032517231723P   T1  
+QNp    Pick up only                                                            
+QI70000000665017581758B   T1  
+QI70000000666118101810B   T1  
+QT7000000062681825   T1  
+QNs    Set down only                                                           
+QDNGLE 215 OBelfast, Europa Buscentre - Downpatrick, Buscentre                  
+QSNGLE 1730  20180610999999991111100 X215       GL              O
+QO70000001536317305  T1  
+QNp    Pick up only                                                            
+QI70000000163717351735P   T1  
+QNp    Pick up only                                                            
+QI70000000032517381738P   T1  
+QNp    Pick up only                                                            
+QI70000000767118001800B   T1  
+QI70000001469618001800B   T0  
+QI70000000664118001800B   T0  
+QI70000000665018081808B   T1  
+QI70000000666118151815B   T1  
+QI70000000656518361836B   T0  
+QI70000000626518371837B   T0  
+QI70000000626618381838B   T0  
+QI70000000626718391839B   T0  
+QT7000000062681840   T1  
+QNs    Set down only                                                           
+QDNGLE 215 OBelfast, Europa Buscentre - Downpatrick, Buscentre                  
+QSNGLE 1800  20180610999999991111100 X215       GL              O
+QO70000001536318005  T1  
+QNp    Pick up only                                                            
+QI70000000163718051805P   T1  
+QNp    Pick up only                                                            
+QI70000000032518081808P   T1  
+QNp    Pick up only                                                            
+QI70000000767118301830B   T1  
+QI70000001469618301830B   T0  
+QI70000000664118301830B   T0  
+QI70000000665018381838B   T1  
+QI70000000666118451845B   T1  
+QI70000000656518571857B   T0  
+QI70000000626518581858B   T0  
+QI70000000626618581858B   T0  
+QI70000000626718591859B   T0  
+QT7000000062681900   T1  
+QNs    Set down only                                                           
+QDNGLE 215 OBelfast, Europa Buscentre - Downpatrick, Buscentre                  
+QSNGLE 1900  20180610999999991111100 X215       GL              O
+QO70000001536319005  T1  
+QNp    Pick up only                                                            
+QI70000000163719051905P   T1  
+QNp    Pick up only                                                            
+QI70000000032519071907P   T1  
+QNp    Pick up only                                                            
+QI70000000767119221922B   T1  
+QI70000001469619221922B   T0  
+QI70000000664119221922B   T0  
+QI70000000665019291929B   T1  
+QI70000000666119361936B   T1  
+QI70000000656519521952B   T0  
+QI70000000626519521952B   T0  
+QI70000000626619531953B   T0  
+QI70000000626719541954B   T0  
+QT7000000062681955   T1  
+QNs    Set down only                                                           
+QDNGLE 215 IDownpatrick, Buscentre - Belfast, Europa Buscentre                  
+QSNGLE 0600  20180610999999991111100 X215       GL              I
+QO70000000626806001+2T1  
+QNp    Pick up only                                                            
+QI70000000624206000600B   T0  
+QI70000000624306000600B   T0  
+QI70000001520506080608B   T1  
+QI70000000658806100610B   T1  
+QI70000000659906180618B   T1  
+QI70000000663906210621B   T0  
+QI70000000766906210621B   T0  
+QI70000001469406220622B   T1  
+QI70000000041306350635S   T0  
+QNs    Set down only                                                           
+QI70000000041506360636S   T0  
+QNs    Set down only                                                           
+QI70000000041706360636S   T0  
+QNs    Set down only                                                           
+QI70000000041906370637S   T0  
+QNs    Set down only                                                           
+QI70000000042106370637S   T0  
+QNs    Set down only                                                           
+QI70000000042306380638S   T0  
+QNs    Set down only                                                           
+QI70000000042506390639B   T0  
+QI70000000042706390639B   T0  
+QI70000000043106400640B   T0  
+QI70000000164306420642B   T0  
+QI70000000014006430643B   T0  
+QT7000000153630645   T1  
+QNs    Set down only                                                           
+QDNGLE 215 IDownpatrick, Buscentre - Belfast, Europa Buscentre                  
+QSNGLE 0630  20180610999999991111100 X215       GL              I
+QO70000000626806301+2T1  
+QNp    Pick up only                                                            
+QI70000000624206300630B   T0  
+QI70000000624306310631B   T0  
+QI70000001520506400640B   T1  
+QI70000000658806420642B   T1  
+QI70000000659906520652B   T1  
+QI70000000663906590659B   T0  
+QI70000000766906590659B   T0  
+QI70000001469407000700B   T1  
+QI70000000041307110711S   T0  
+QNs    Set down only                                                           
+QI70000000041507120712S   T0  
+QNs    Set down only                                                           
+QI70000000041707120712S   T0  
+QNs    Set down only                                                           
+QI70000000041907130713S   T0  
+QNs    Set down only                                                           
+QI70000000042107130713S   T0  
+QNs    Set down only                                                           
+QI70000000042307140714S   T0  
+QNs    Set down only                                                           
+QI70000000042507140714S   T0  
+QNs    Set down only                                                           
+QI70000000042707150715S   T0  
+QNs    Set down only                                                           
+QI70000000043107160716S   T0  
+QNs    Set down only                                                           
+QI70000000164307180718S   T0  
+QNs    Set down only                                                           
+QI70000000014007180718S   T0  
+QNs    Set down only                                                           
+QT7000000153630720   T1  
+QNs    Set down only                                                           
+QDNGLE 215 IDownpatrick, Buscentre - Belfast, Europa Buscentre                  
+QSNGLE 0645  20180610999999991111100 X215       GL              I
+QO70000000626806451+2T1  
+QNp    Pick up only                                                            
+QI70000000624206480648B   T0  
+QI70000000624306510651B   T0  
+QI70000001520506540654B   T1  
+QI70000000658806560656B   T1  
+QI70000000659907020702B   T1  
+QI70000000663907050705B   T0  
+QI70000000766907080708B   T0  
+QI70000001469407120712B   T1  
+QI70000000041307140714S   T0  
+QNs    Set down only                                                           
+QI70000000041507160716S   T0  
+QNs    Set down only                                                           
+QI70000000041707190719S   T0  
+QNs    Set down only                                                           
+QI70000000041907210721S   T0  
+QNs    Set down only                                                           
+QI70000000042107230723S   T0  
+QNs    Set down only                                                           
+QI70000000042307260726S   T0  
+QNs    Set down only                                                           
+QI70000000042507280728S   T0  
+QNs    Set down only                                                           
+QI70000000042707300730S   T0  
+QNs    Set down only                                                           
+QI70000000043107330733S   T0  
+QNs    Set down only                                                           
+QI70000000164307350735S   T0  
+QNs    Set down only                                                           
+QI70000000014007370737S   T0  
+QNs    Set down only                                                           
+QT7000000153630740   T1  
+QNs    Set down only                                                           
+QDNGLE 215cIDownpatrick, Buscentre - Belfast, Europa Buscentre                  
+QSNGLE 0715  20180610999999991111100 X215c      GL              I
+QO70000000626807151+2T1  
+QNp    Pick up only                                                            
+QI70000001520507270727B   T1  
+QI70000000658807280728B   T1  
+QT7000000153630820   T1  
+QNs    Set down only                                                           
+QDNGLE 215 IDownpatrick, Buscentre - Belfast, Europa Buscentre                  
+QSNGLE 0720  20180610999999991111100 X215       GL              I
+QO70000000626807201+2T1  
+QNp    Pick up only                                                            
+QI70000000624207200720B   T0  
+QI70000000624307210721B   T0  
+QI70000001520507320732B   T1  
+QI70000000658807340734B   T1  
+QI70000000659907430743B   T1  
+QI70000000663907530753B   T0  
+QI70000000766907540754B   T0  
+QI70000001469407550755B   T1  
+QI70000000041308150815S   T0  
+QNs    Set down only                                                           
+QI70000000041508170817S   T0  
+QNs    Set down only                                                           
+QI70000000041708170817S   T0  
+QNs    Set down only                                                           
+QI70000000041908180818S   T0  
+QNs    Set down only                                                           
+QI70000000042108190819S   T0  
+QNs    Set down only                                                           
+QI70000000042308200820S   T0  
+QNs    Set down only                                                           
+QI70000000042508210821B   T0  
+QI70000000042708210821B   T0  
+QI70000000043108230823B   T0  
+QI70000000164308260826B   T0  
+QI70000000014008280828B   T0  
+QT7000000153630830   T1  
+QNs    Set down only                                                           
+QDNGLE 215bIDownpatrick, Buscentre - Belfast, Europa Buscentre                  
+QSNGLE 0735  20180610999999991111100 X215b      GL              I
+QO70000000626807351+2T1  
+QNp    Pick up only                                                            
+QI70000001520507470747B   T1  
+QI70000000658807490749B   T1  
+QI70000000659907580758B   T1  
+QT7000000153630840   T1  
+QDNGLE 215bIDownpatrick, Buscentre - Belfast, Europa Buscentre                  
+QSNGLE 0745  20180610999999991111100 X215b      GL              I
+QO70000000626807451+2T1  
+QNp    Pick up only                                                            
+QI70000001520507570757B   T1  
+QI70000000658807590759B   T1  
+QI70000000659908080808B   T1  
+QT7000000153630850   T1  
+QNs    Set down only                                                           
+QDNGLE 215 IDownpatrick, Buscentre - Belfast, Europa Buscentre                  
+QSNGLE 0755  20180610999999991111100 X215       GL              I
+QO70000000626807551+2T1  
+QNp    Pick up only                                                            
+QI70000000624207550755B   T0  
+QI70000000624307560756B   T0  
+QI70000001520508070807B   T1  
+QI70000000658808090809B   T1  
+QI70000000659908180818B   T1  
+QI70000000663908280828B   T0  
+QI70000000766908290829B   T0  
+QI70000001469408300830B   T1  
+QI70000000041308500850S   T0  
+QNs    Set down only                                                           
+QI70000000041508520852S   T0  
+QNs    Set down only                                                           
+QI70000000041708520852S   T0  
+QNs    Set down only                                                           
+QI70000000041908530853S   T0  
+QNs    Set down only                                                           
+QI70000000042108540854S   T0  
+QNs    Set down only                                                           
+QI70000000042308550855S   T0  
+QNs    Set down only                                                           
+QI70000000042508560856S   T0  
+QNs    Set down only                                                           
+QI70000000042708560856S   T0  
+QNs    Set down only                                                           
+QI70000000043108580858S   T0  
+QNs    Set down only                                                           
+QI70000000164309010901S   T0  
+QNs    Set down only                                                           
+QI70000000014009030903S   T0  
+QNs    Set down only                                                           
+QT7000000153630905   T1  
+QNs    Set down only                                                           
+QDNGLE 215 IDownpatrick, Buscentre - Belfast, Europa Buscentre                  
+QSNGLE 0845  20180610999999991111100 X215       GL              I
+QO70000000626808451+2T1  
+QNp    Pick up only                                                            
+QI70000000624208460846B   T0  
+QI70000000624308460846B   T0  
+QI70000001520509000900B   T1  
+QI70000000658809020902B   T1  
+QI70000000659909110911B   T1  
+QI70000000663909190919B   T0  
+QI70000000766909190919B   T0  
+QI70000001469409200920B   T1  
+QI70000000041309340934S   T0  
+QNs    Set down only                                                           
+QI70000000041509350935S   T0  
+QNs    Set down only                                                           
+QI70000000041709360936S   T0  
+QNs    Set down only                                                           
+QI70000000041909360936S   T0  
+QNs    Set down only                                                           
+QI70000000042109370937S   T0  
+QNs    Set down only                                                           
+QI70000000042309370937S   T0  
+QNs    Set down only                                                           
+QI70000000042509380938S   T0  
+QNs    Set down only                                                           
+QI70000000042709390939S   T0  
+QNs    Set down only                                                           
+QI70000000043109400940S   T0  
+QNs    Set down only                                                           
+QI70000000164309420942S   T0  
+QNs    Set down only                                                           
+QI70000000014009430943S   T0  
+QNs    Set down only                                                           
+QT7000000153630945   T1  
+QNs    Set down only                                                           
+QDNGLE 215 IDownpatrick, Buscentre - Belfast, Europa Buscentre                  
+QSNGLE 0945  20180610999999991111100 X215       GL              I
+QO70000000626809451+2T1  
+QNp    Pick up only                                                            
+QI70000000624209460946B   T0  
+QI70000000624309460946B   T0  
+QI70000001520510001000B   T1  
+QI70000000658810021002B   T1  
+QI70000000659910111011B   T1  
+QI70000000663910191019B   T0  
+QI70000000766910191019B   T0  
+QI70000001469410201020B   T1  
+QI70000000041310341034S   T0  
+QNs    Set down only                                                           
+QI70000000041510351035S   T0  
+QNs    Set down only                                                           
+QI70000000041710361036S   T0  
+QNs    Set down only                                                           
+QI70000000041910361036S   T0  
+QNs    Set down only                                                           
+QI70000000042110371037S   T0  
+QNs    Set down only                                                           
+QI70000000042310371037S   T0  
+QNs    Set down only                                                           
+QI70000000042510381038S   T0  
+QNs    Set down only                                                           
+QI70000000042710391039S   T0  
+QNs    Set down only                                                           
+QI70000000043110401040S   T0  
+QNs    Set down only                                                           
+QI70000000164310421042S   T0  
+QNs    Set down only                                                           
+QI70000000014010431043S   T0  
+QNs    Set down only                                                           
+QT7000000153631045   T1  
+QNs    Set down only                                                           
+QDNGLE 215 IDownpatrick, Buscentre - Belfast, Europa Buscentre                  
+QSNGLE 1045  20180610999999991111100 X215       GL              I
+QO70000000626810451+2T1  
+QNp    Pick up only                                                            
+QI70000000624210461046B   T0  
+QI70000000624310461046B   T0  
+QI70000001520511001100B   T1  
+QI70000000658811021102B   T1  
+QI70000000659911111111B   T1  
+QI70000000663911191119B   T0  
+QI70000000766911191119B   T0  
+QI70000001469411201120B   T1  
+QI70000000041311341134S   T0  
+QNs    Set down only                                                           
+QI70000000041511351135S   T0  
+QNs    Set down only                                                           
+QI70000000041711361136S   T0  
+QNs    Set down only                                                           
+QI70000000041911361136S   T0  
+QNs    Set down only                                                           
+QI70000000042111371137S   T0  
+QNs    Set down only                                                           
+QI70000000042311371137S   T0  
+QNs    Set down only                                                           
+QI70000000042511381138S   T0  
+QNs    Set down only                                                           
+QI70000000042711391139S   T0  
+QNs    Set down only                                                           
+QI70000000043111401140S   T0  
+QNs    Set down only                                                           
+QI70000000164311421142S   T0  
+QNs    Set down only                                                           
+QI70000000014011431143S   T0  
+QNs    Set down only                                                           
+QT7000000153631145   T1  
+QNs    Set down only                                                           
+QDNGLE 215 IDownpatrick, Buscentre - Belfast, Europa Buscentre                  
+QSNGLE 1145  20180610999999991111100 X215       GL              I
+QO70000000626811451+2T1  
+QNp    Pick up only                                                            
+QI70000000624211461146B   T0  
+QI70000000624311461146B   T0  
+QI70000001520512001200B   T1  
+QI70000000658812021202B   T1  
+QI70000000659912111211B   T1  
+QI70000000663912191219B   T0  
+QI70000000766912191219B   T0  
+QI70000001469412201220B   T1  
+QI70000000041312341234S   T0  
+QNs    Set down only                                                           
+QI70000000041512351235S   T0  
+QNs    Set down only                                                           
+QI70000000041712361236S   T0  
+QNs    Set down only                                                           
+QI70000000041912361236S   T0  
+QNs    Set down only                                                           
+QI70000000042112371237S   T0  
+QNs    Set down only                                                           
+QI70000000042312371237S   T0  
+QNs    Set down only                                                           
+QI70000000042512381238S   T0  
+QNs    Set down only                                                           
+QI70000000042712391239S   T0  
+QNs    Set down only                                                           
+QI70000000043112401240S   T0  
+QNs    Set down only                                                           
+QI70000000164312421242S   T0  
+QNs    Set down only                                                           
+QI70000000014012431243S   T0  
+QNs    Set down only                                                           
+QT7000000153631245   T1  
+QNs    Set down only                                                           
+QDNGLE 215 IDownpatrick, Buscentre - Belfast, Europa Buscentre                  
+QSNGLE 1245  20180610999999991111100 X215       GL              I
+QO70000000626812451+2T1  
+QNp    Pick up only                                                            
+QI70000000624212461246B   T0  
+QI70000000624312461246B   T0  
+QI70000001520513001300B   T1  
+QI70000000658813021302B   T1  
+QI70000000659913111311B   T1  
+QI70000000663913191319B   T0  
+QI70000000766913191319B   T0  
+QI70000001469413201320B   T1  
+QI70000000041313341334S   T0  
+QNs    Set down only                                                           
+QI70000000041513351335S   T0  
+QNs    Set down only                                                           
+QI70000000041713361336S   T0  
+QNs    Set down only                                                           
+QI70000000041913361336S   T0  
+QNs    Set down only                                                           
+QI70000000042113371337S   T0  
+QNs    Set down only                                                           
+QI70000000042313371337S   T0  
+QNs    Set down only                                                           
+QI70000000042513381338S   T0  
+QNs    Set down only                                                           
+QI70000000042713391339S   T0  
+QNs    Set down only                                                           
+QI70000000043113401340S   T0  
+QNs    Set down only                                                           
+QI70000000164313421342S   T0  
+QNs    Set down only                                                           
+QI70000000014013431343S   T0  
+QNs    Set down only                                                           
+QT7000000153631345   T1  
+QNs    Set down only                                                           
+QDNGLE 215 IDownpatrick, Buscentre - Belfast, Europa Buscentre                  
+QSNGLE 1345  20180610999999991111100 X215       GL              I
+QO70000000626813451+2T1  
+QNp    Pick up only                                                            
+QI70000000624213461346B   T0  
+QI70000000624313461346B   T0  
+QI70000001520514001400B   T1  
+QI70000000658814021402B   T1  
+QI70000000659914111411B   T1  
+QI70000000663914191419B   T0  
+QI70000000766914191419B   T0  
+QI70000001469414201420B   T1  
+QI70000000041314341434S   T0  
+QNs    Set down only                                                           
+QI70000000041514351435S   T0  
+QNs    Set down only                                                           
+QI70000000041714361436S   T0  
+QNs    Set down only                                                           
+QI70000000041914361436S   T0  
+QNs    Set down only                                                           
+QI70000000042114371437S   T0  
+QNs    Set down only                                                           
+QI70000000042314371437S   T0  
+QNs    Set down only                                                           
+QI70000000042514381438S   T0  
+QNs    Set down only                                                           
+QI70000000042714391439S   T0  
+QNs    Set down only                                                           
+QI70000000043114401440S   T0  
+QNs    Set down only                                                           
+QI70000000164314421442S   T0  
+QNs    Set down only                                                           
+QI70000000014014431443S   T0  
+QNs    Set down only                                                           
+QT7000000153631445   T1  
+QNs    Set down only                                                           
+QDNGLE 215 IDownpatrick, Buscentre - Belfast, Europa Buscentre                  
+QSNGLE 1445  20180610999999991111100 X215       GL              I
+QO70000000626814451+2T1  
+QNp    Pick up only                                                            
+QI70000000624214461446B   T0  
+QI70000000624314461446B   T0  
+QI70000001520515001500B   T1  
+QI70000000658815021502B   T1  
+QI70000000659915111511B   T1  
+QI70000000663915191519B   T0  
+QI70000000766915191519B   T0  
+QI70000001469415201520B   T1  
+QI70000000041315341534S   T0  
+QNs    Set down only                                                           
+QI70000000041515351535S   T0  
+QNs    Set down only                                                           
+QI70000000041715361536S   T0  
+QNs    Set down only                                                           
+QI70000000041915361536S   T0  
+QNs    Set down only                                                           
+QI70000000042115371537S   T0  
+QNs    Set down only                                                           
+QI70000000042315371537S   T0  
+QNs    Set down only                                                           
+QI70000000042515381538S   T0  
+QNs    Set down only                                                           
+QI70000000042715391539S   T0  
+QNs    Set down only                                                           
+QI70000000043115401540S   T0  
+QNs    Set down only                                                           
+QI70000000164315421542S   T0  
+QNs    Set down only                                                           
+QI70000000014015431543S   T0  
+QNs    Set down only                                                           
+QT7000000153631545   T1  
+QNs    Set down only                                                           
+QDNGLE 215bIDownpatrick, Buscentre - Belfast, Europa Buscentre                  
+QSNGLE 1525  20180610999999991111100 X215b      GL              I
+QO70000000626815251+2T1  
+QNp    Pick up only                                                            
+QI70000001520515371537B   T1  
+QI70000000658815391539B   T1  
+QI70000000659915481548B   T1  
+QT7000000153631630   T1  
+QNs    Set down only                                                           
+QDNGLE 215 IDownpatrick, Buscentre - Belfast, Europa Buscentre                  
+QSNGLE 1645  20180610999999991111100 X215       GL              I
+QO70000000626816451+2T1  
+QNp    Pick up only                                                            
+QI70000000624216461646B   T0  
+QI70000000624316461646B   T0  
+QI70000001520517001700B   T1  
+QI70000000658817021702B   T1  
+QI70000000659917111711B   T1  
+QI70000000663917191719B   T0  
+QI70000000766917191719B   T0  
+QI70000001469417201720B   T1  
+QI70000000041317341734S   T0  
+QNs    Set down only                                                           
+QI70000000041517351735S   T0  
+QNs    Set down only                                                           
+QI70000000041717361736S   T0  
+QNs    Set down only                                                           
+QI70000000041917361736S   T0  
+QNs    Set down only                                                           
+QI70000000042117371737S   T0  
+QNs    Set down only                                                           
+QI70000000042317371737S   T0  
+QNs    Set down only                                                           
+QI70000000042517381738S   T0  
+QNs    Set down only                                                           
+QI70000000042717391739S   T0  
+QNs    Set down only                                                           
+QI70000000043117401740S   T0  
+QNs    Set down only                                                           
+QI70000000164317421742S   T0  
+QNs    Set down only                                                           
+QI70000000014017431743S   T0  
+QNs    Set down only                                                           
+QT7000000153631745   T1  
+QNs    Set down only                                                           
+QDNGLE 215 IDownpatrick, Buscentre - Belfast, Europa Buscentre                  
+QSNGLE 1745  20180610999999991111100 X215       GL              I
+QO70000000626817451+2T1  
+QNp    Pick up only                                                            
+QI70000000624217461746B   T0  
+QI70000000624317461746B   T0  
+QI70000001520518001800B   T1  
+QI70000000658818021802B   T1  
+QI70000000659918111811B   T1  
+QI70000000663918191819B   T0  
+QI70000000766918191819B   T0  
+QI70000001469418201820B   T1  
+QI70000000041318341834S   T0  
+QNs    Set down only                                                           
+QI70000000041518351835S   T0  
+QNs    Set down only                                                           
+QI70000000041718361836S   T0  
+QNs    Set down only                                                           
+QI70000000041918361836S   T0  
+QNs    Set down only                                                           
+QI70000000042118371837S   T0  
+QNs    Set down only                                                           
+QI70000000042318371837S   T0  
+QNs    Set down only                                                           
+QI70000000042518381838S   T0  
+QNs    Set down only                                                           
+QI70000000042718391839S   T0  
+QNs    Set down only                                                           
+QI70000000043118401840S   T0  
+QNs    Set down only                                                           
+QI70000000164318421842S   T0  
+QNs    Set down only                                                           
+QI70000000014018431843S   T0  
+QNs    Set down only                                                           
+QT7000000153631845   T1  
+QNs    Set down only                                                           
+QDNGLE 215 OBelfast, Europa Buscentre - Downpatrick, Buscentre                  
+QSNGLE 0900  20180610999999990000010 X215       GL              O
+QO70000001536309005  T1  
+QNp    Pick up only                                                            
+QI70000000163709050905P   T1  
+QNp    Pick up only                                                            
+QI70000000032509070907P   T1  
+QNp    Pick up only                                                            
+QI70000000767109220922B   T1  
+QI70000001469609220922B   T0  
+QI70000000664109220922B   T0  
+QI70000000665009290929B   T1  
+QI70000000666109360936B   T1  
+QI70000000656509520952B   T0  
+QI70000000626509520952B   T0  
+QI70000000626609530953B   T0  
+QI70000000626709540954B   T0  
+QT7000000062680955   T1  
+QNs    Set down only                                                           
+QDNGLE 215 OBelfast, Europa Buscentre - Downpatrick, Buscentre                  
+QSNGLE 1100  20180610999999990000010 X215       GL              O
+QO70000001536311005  T1  
+QNp    Pick up only                                                            
+QI70000000163711051105P   T1  
+QNp    Pick up only                                                            
+QI70000000032511071107P   T1  
+QNp    Pick up only                                                            
+QI70000000767111221122B   T1  
+QI70000001469611221122B   T0  
+QI70000000664111221122B   T0  
+QI70000000665011291129B   T1  
+QI70000000666111361136B   T1  
+QI70000000656511521152B   T0  
+QI70000000626511521152B   T0  
+QI70000000626611531153B   T0  
+QI70000000626711541154B   T0  
+QT7000000062681155   T1  
+QNs    Set down only                                                           
+QDNGLE 215 OBelfast, Europa Buscentre - Downpatrick, Buscentre                  
+QSNGLE 1200  20180610999999990000010 X215       GL              O
+QO70000001536312005  T1  
+QNp    Pick up only                                                            
+QI70000000163712051205P   T1  
+QNp    Pick up only                                                            
+QI70000000032512071207P   T1  
+QNp    Pick up only                                                            
+QI70000000767112221222B   T1  
+QI70000001469612221222B   T0  
+QI70000000664112221222B   T0  
+QI70000000665012291229B   T1  
+QI70000000666112361236B   T1  
+QI70000000656512521252B   T0  
+QI70000000626512521252B   T0  
+QI70000000626612531253B   T0  
+QI70000000626712541254B   T0  
+QT7000000062681255   T1  
+QNs    Set down only                                                           
+QDNGLE 215 OBelfast, Europa Buscentre - Downpatrick, Buscentre                  
+QSNGLE 1300  20180610999999990000010 X215       GL              O
+QO70000001536313005  T1  
+QNp    Pick up only                                                            
+QI70000000163713051305P   T1  
+QNp    Pick up only                                                            
+QI70000000032513071307P   T1  
+QNp    Pick up only                                                            
+QI70000000767113221322B   T1  
+QI70000001469613221322B   T0  
+QI70000000664113221322B   T0  
+QI70000000665013291329B   T1  
+QI70000000666113361336B   T1  
+QI70000000656513521352B   T0  
+QI70000000626513521352B   T0  
+QI70000000626613531353B   T0  
+QI70000000626713541354B   T0  
+QT7000000062681355   T1  
+QNs    Set down only                                                           
+QDNGLE 215 OBelfast, Europa Buscentre - Downpatrick, Buscentre                  
+QSNGLE 1400  20180610999999990000010 X215       GL              O
+QO70000001536314005  T1  
+QNp    Pick up only                                                            
+QI70000000163714051405P   T1  
+QNp    Pick up only                                                            
+QI70000000032514071407P   T1  
+QNp    Pick up only                                                            
+QI70000000767114221422B   T1  
+QI70000001469614221422B   T0  
+QI70000000664114221422B   T0  
+QI70000000665014291429B   T1  
+QI70000000666114361436B   T1  
+QI70000000656514521452B   T0  
+QI70000000626514521452B   T0  
+QI70000000626614531453B   T0  
+QI70000000626714541454B   T0  
+QT7000000062681455   T1  
+QNs    Set down only                                                           
+QDNGLE 215 OBelfast, Europa Buscentre - Downpatrick, Buscentre                  
+QSNGLE 1600  20180610999999990000010 X215       GL              O
+QO70000001536316005  T1  
+QNp    Pick up only                                                            
+QI70000000163716051605P   T1  
+QNp    Pick up only                                                            
+QI70000000032516071607P   T1  
+QNp    Pick up only                                                            
+QI70000000767116221622B   T1  
+QI70000001469616221622B   T0  
+QI70000000664116221622B   T0  
+QI70000000665016291629B   T1  
+QI70000000666116361636B   T1  
+QI70000000656516521652B   T0  
+QI70000000626516521652B   T0  
+QI70000000626616531653B   T0  
+QI70000000626716541654B   T0  
+QT7000000062681655   T1  
+QNs    Set down only                                                           
+QDNGLE 215 OBelfast, Europa Buscentre - Downpatrick, Buscentre                  
+QSNGLE 1700  20180610999999990000010 X215       GL              O
+QO70000001536317005  T1  
+QNp    Pick up only                                                            
+QI70000000163717051705P   T1  
+QNp    Pick up only                                                            
+QI70000000032517071707P   T1  
+QNp    Pick up only                                                            
+QI70000000767117221722B   T1  
+QI70000001469617221722B   T0  
+QI70000000664117221722B   T0  
+QI70000000665017291729B   T1  
+QI70000000666117361736B   T1  
+QI70000000656517521752B   T0  
+QI70000000626517521752B   T0  
+QI70000000626617531753B   T0  
+QI70000000626717541754B   T0  
+QT7000000062681755   T1  
+QNs    Set down only                                                           
+QDNGLE 215 OBelfast, Europa Buscentre - Downpatrick, Buscentre                  
+QSNGLE 2000  20180610999999990000010 X215       GL              O
+QO70000001536320005  T1  
+QNp    Pick up only                                                            
+QI70000000163720052005P   T1  
+QNp    Pick up only                                                            
+QI70000000032520072007P   T1  
+QNp    Pick up only                                                            
+QI70000000767120222022B   T1  
+QI70000001469620222022B   T0  
+QI70000000664120222022B   T0  
+QI70000000665020292029B   T1  
+QI70000000666120362036B   T1  
+QI70000000656520522052B   T0  
+QI70000000626520522052B   T0  
+QI70000000626620532053B   T0  
+QI70000000626720542054B   T0  
+QT7000000062682055   T1  
+QNs    Set down only                                                           
+QDNGLE 215 IDownpatrick, Buscentre - Belfast, Europa Buscentre                  
+QSNGLE 0745  20180610999999990000010 X215       GL              I
+QO70000000626807451+2T1  
+QNp    Pick up only                                                            
+QI70000000624207460746B   T0  
+QI70000000624307460746B   T0  
+QI70000001520508000800B   T1  
+QI70000000658808020802B   T1  
+QI70000000659908110811B   T1  
+QI70000000663908190819B   T0  
+QI70000000766908190819B   T0  
+QI70000001469408200820B   T1  
+QI70000000041308340834S   T0  
+QNs    Set down only                                                           
+QI70000000041508350835S   T0  
+QNs    Set down only                                                           
+QI70000000041708360836S   T0  
+QNs    Set down only                                                           
+QI70000000041908360836S   T0  
+QNs    Set down only                                                           
+QI70000000042108370837S   T0  
+QNs    Set down only                                                           
+QI70000000042308370837S   T0  
+QNs    Set down only                                                           
+QI70000000042508380838S   T0  
+QNs    Set down only                                                           
+QI70000000042708390839S   T0  
+QNs    Set down only                                                           
+QI70000000043108400840S   T0  
+QNs    Set down only                                                           
+QI70000000164308420842S   T0  
+QNs    Set down only                                                           
+QI70000000014008430843S   T0  
+QNs    Set down only                                                           
+QT7000000153630845   T1  
+QNs    Set down only                                                           
+QDNGLE 215 IDownpatrick, Buscentre - Belfast, Europa Buscentre                  
+QSNGLE 0945  20180610999999990000010 X215       GL              I
+QO70000000626809451+2T1  
+QNp    Pick up only                                                            
+QI70000000624209460946B   T0  
+QI70000000624309460946B   T0  
+QI70000001520510001000B   T1  
+QI70000000658810021002B   T1  
+QI70000000659910111011B   T1  
+QI70000000663910191019B   T0  
+QI70000000766910191019B   T0  
+QI70000001469410201020B   T1  
+QI70000000041310341034S   T0  
+QNs    Set down only                                                           
+QI70000000041510351035S   T0  
+QNs    Set down only                                                           
+QI70000000041710361036S   T0  
+QNs    Set down only                                                           
+QI70000000041910361036S   T0  
+QNs    Set down only                                                           
+QI70000000042110371037S   T0  
+QNs    Set down only                                                           
+QI70000000042310371037S   T0  
+QNs    Set down only                                                           
+QI70000000042510381038S   T0  
+QNs    Set down only                                                           
+QI70000000042710391039S   T0  
+QNs    Set down only                                                           
+QI70000000043110401040S   T0  
+QNs    Set down only                                                           
+QI70000000164310421042S   T0  
+QNs    Set down only                                                           
+QI70000000014010431043S   T0  
+QNs    Set down only                                                           
+QT7000000153631045   T1  
+QNs    Set down only                                                           
+QDNGLE 215 IDownpatrick, Buscentre - Belfast, Europa Buscentre                  
+QSNGLE 1045  20180610999999990000010 X215       GL              I
+QO70000000626810451+2T1  
+QNp    Pick up only                                                            
+QI70000000624210461046B   T0  
+QI70000000624310461046B   T0  
+QI70000001520511001100B   T1  
+QI70000000658811021102B   T1  
+QI70000000659911111111B   T1  
+QI70000000663911191119B   T0  
+QI70000000766911191119B   T0  
+QI70000001469411201120B   T1  
+QI70000000041311341134S   T0  
+QNs    Set down only                                                           
+QI70000000041511351135S   T0  
+QNs    Set down only                                                           
+QI70000000041711361136S   T0  
+QNs    Set down only                                                           
+QI70000000041911361136S   T0  
+QNs    Set down only                                                           
+QI70000000042111371137S   T0  
+QNs    Set down only                                                           
+QI70000000042311371137S   T0  
+QNs    Set down only                                                           
+QI70000000042511381138S   T0  
+QNs    Set down only                                                           
+QI70000000042711391139S   T0  
+QNs    Set down only                                                           
+QI70000000043111401140S   T0  
+QNs    Set down only                                                           
+QI70000000164311421142S   T0  
+QNs    Set down only                                                           
+QI70000000014011431143S   T0  
+QNs    Set down only                                                           
+QT7000000153631145   T1  
+QNs    Set down only                                                           
+QDNGLE 215 IDownpatrick, Buscentre - Belfast, Europa Buscentre                  
+QSNGLE 1145  20180610999999990000010 X215       GL              I
+QO70000000626811451+2T1  
+QNp    Pick up only                                                            
+QI70000000624211461146B   T0  
+QI70000000624311461146B   T0  
+QI70000001520512001200B   T1  
+QI70000000658812021202B   T1  
+QI70000000659912111211B   T1  
+QI70000000663912191219B   T0  
+QI70000000766912191219B   T0  
+QI70000001469412201220B   T1  
+QI70000000041312341234S   T0  
+QNs    Set down only                                                           
+QI70000000041512351235S   T0  
+QNs    Set down only                                                           
+QI70000000041712361236S   T0  
+QNs    Set down only                                                           
+QI70000000041912361236S   T0  
+QNs    Set down only                                                           
+QI70000000042112371237S   T0  
+QNs    Set down only                                                           
+QI70000000042312371237S   T0  
+QNs    Set down only                                                           
+QI70000000042512381238S   T0  
+QNs    Set down only                                                           
+QI70000000042712391239S   T0  
+QNs    Set down only                                                           
+QI70000000043112401240S   T0  
+QNs    Set down only                                                           
+QI70000000164312421242S   T0  
+QNs    Set down only                                                           
+QI70000000014012431243S   T0  
+QNs    Set down only                                                           
+QT7000000153631245   T1  
+QNs    Set down only                                                           
+QDNGLE 215 IDownpatrick, Buscentre - Belfast, Europa Buscentre                  
+QSNGLE 1245  20180610999999990000010 X215       GL              I
+QO70000000626812451+2T1  
+QNp    Pick up only                                                            
+QI70000000624212461246B   T0  
+QI70000000624312461246B   T0  
+QI70000001520513001300B   T1  
+QI70000000658813021302B   T1  
+QI70000000659913111311B   T1  
+QI70000000663913191319B   T0  
+QI70000000766913191319B   T0  
+QI70000001469413201320B   T1  
+QI70000000041313341334S   T0  
+QNs    Set down only                                                           
+QI70000000041513351335S   T0  
+QNs    Set down only                                                           
+QI70000000041713361336S   T0  
+QNs    Set down only                                                           
+QI70000000041913361336S   T0  
+QNs    Set down only                                                           
+QI70000000042113371337S   T0  
+QNs    Set down only                                                           
+QI70000000042313371337S   T0  
+QNs    Set down only                                                           
+QI70000000042513381338S   T0  
+QNs    Set down only                                                           
+QI70000000042713391339S   T0  
+QNs    Set down only                                                           
+QI70000000043113401340S   T0  
+QNs    Set down only                                                           
+QI70000000164313421342S   T0  
+QNs    Set down only                                                           
+QI70000000014013431343S   T0  
+QNs    Set down only                                                           
+QT7000000153631345   T1  
+QNs    Set down only                                                           
+QDNGLE 215 IDownpatrick, Buscentre - Belfast, Europa Buscentre                  
+QSNGLE 1445  20180610999999990000010 X215       GL              I
+QO70000000626814451+2T1  
+QNp    Pick up only                                                            
+QI70000000624214461446B   T0  
+QI70000000624314461446B   T0  
+QI70000001520515001500B   T1  
+QI70000000658815021502B   T1  
+QI70000000659915111511B   T1  
+QI70000000663915191519B   T0  
+QI70000000766915191519B   T0  
+QI70000001469415201520B   T1  
+QI70000000041315341534S   T0  
+QNs    Set down only                                                           
+QI70000000041515351535S   T0  
+QNs    Set down only                                                           
+QI70000000041715361536S   T0  
+QNs    Set down only                                                           
+QI70000000041915361536S   T0  
+QNs    Set down only                                                           
+QI70000000042115371537S   T0  
+QNs    Set down only                                                           
+QI70000000042315371537S   T0  
+QNs    Set down only                                                           
+QI70000000042515381538S   T0  
+QNs    Set down only                                                           
+QI70000000042715391539S   T0  
+QNs    Set down only                                                           
+QI70000000043115401540S   T0  
+QNs    Set down only                                                           
+QI70000000164315421542S   T0  
+QNs    Set down only                                                           
+QI70000000014015431543S   T0  
+QNs    Set down only                                                           
+QT7000000153631545   T1  
+QNs    Set down only                                                           
+QDNGLE 215 IDownpatrick, Buscentre - Belfast, Europa Buscentre                  
+QSNGLE 1545  20180610999999990000010 X215       GL              I
+QO70000000626815451+2T1  
+QNp    Pick up only                                                            
+QI70000000624215461546B   T0  
+QI70000000624315461546B   T0  
+QI70000001520516001600B   T1  
+QI70000000658816021602B   T1  
+QI70000000659916111611B   T1  
+QI70000000663916191619B   T0  
+QI70000000766916191619B   T0  
+QI70000001469416201620B   T1  
+QI70000000041316341634S   T0  
+QNs    Set down only                                                           
+QI70000000041516351635S   T0  
+QNs    Set down only                                                           
+QI70000000041716361636S   T0  
+QNs    Set down only                                                           
+QI70000000041916361636S   T0  
+QNs    Set down only                                                           
+QI70000000042116371637S   T0  
+QNs    Set down only                                                           
+QI70000000042316371637S   T0  
+QNs    Set down only                                                           
+QI70000000042516381638S   T0  
+QNs    Set down only                                                           
+QI70000000042716391639S   T0  
+QNs    Set down only                                                           
+QI70000000043116401640S   T0  
+QNs    Set down only                                                           
+QI70000000164316421642S   T0  
+QNs    Set down only                                                           
+QI70000000014016431643S   T0  
+QNs    Set down only                                                           
+QT7000000153631645   T1  
+QNs    Set down only                                                           
+QDNGLE 215 IDownpatrick, Buscentre - Belfast, Europa Buscentre                  
+QSNGLE 1845  20180610999999990000010 X215       GL              I
+QO70000000626818451+2T1  
+QNp    Pick up only                                                            
+QI70000000624218461846B   T0  
+QI70000000624318461846B   T0  
+QI70000001520519001900B   T1  
+QI70000000658819021902B   T1  
+QI70000000659919111911B   T1  
+QI70000000663919191919B   T0  
+QI70000000766919191919B   T0  
+QI70000001469419201920B   T1  
+QI70000000041319341934S   T0  
+QNs    Set down only                                                           
+QI70000000041519351935S   T0  
+QNs    Set down only                                                           
+QI70000000041719361936S   T0  
+QNs    Set down only                                                           
+QI70000000041919361936S   T0  
+QNs    Set down only                                                           
+QI70000000042119371937S   T0  
+QNs    Set down only                                                           
+QI70000000042319371937S   T0  
+QNs    Set down only                                                           
+QI70000000042519381938S   T0  
+QNs    Set down only                                                           
+QI70000000042719391939S   T0  
+QNs    Set down only                                                           
+QI70000000043119401940S   T0  
+QNs    Set down only                                                           
+QI70000000164319421942S   T0  
+QNs    Set down only                                                           
+QI70000000014019431943S   T0  
+QNs    Set down only                                                           
+QT7000000153631945   T1  
+QNs    Set down only                                                           
+QLN700000015363Europa Buscentre
+QBN700000015363333448  373764
+QLN700000001637Adelaide St.
+QBN700000001637333940  373912
+QLN700000000325Cromac Wood
+QBN700000000325334139  373443
+QLN700000007671Queensway Carryduff
+QBN700000007671336831  365255
+QLN700000014696Shopping Centre
+QBN700000014696336766  365011
+QLN700000006641Church Rd
+QBN700000006641336939  365032
+QLN700000006650Saintfield Main Stop
+QBN700000006650340779  358964
+QLN700000006661Crossgar Chapel
+QBN700000006661345411  352112
+QLN700000006565Roughal Park
+QBN700000006565348493  345269
+QLN700000006265Pillar Well Lane
+QBN700000006265348633  345072
+QLN700000006266The Central Bar
+QBN700000006266348653  344698
+QLN700000006267Hogans Bar
+QBN700000006267348513  344414
+QLN700000006268Downpatrick Bus Station
+QBN700000006268348402  344298
+QLN700000006242Church St
+QBN700000006242348646  344740
+QLN700000006243The Cabin
+QBN700000006243348645  344983
+QLN700000015205Crossgar Post Office
+QBN700000015205345447  352041
+QLN700000006588Lissara Close
+QBN700000006588345220  352389
+QLN700000006599Saintfield Bus Depot
+QBN700000006599340709  359155
+QLN700000006639Church Rd
+QBN700000006639337015  365055
+QLN700000007669Carryduff Shopping Centre
+QBN700000007669336780  365140
+QLN700000014694Queensway
+QBN700000014694336828  365300
+QLN700000000413Rosetta (St John's Church)
+QBN700000000413334950  371132
+QLN700000000415Nazareth House
+QBN700000000415334846  371451
+QLN700000000417Ballynafeigh
+QBN700000000417334785  371585
+QLN700000000419Ulidia
+QBN700000000419334677  371833
+QLN700000000421South Parade
+QBN700000000421334591  372008
+QLN700000000423Candahar Street
+QBN700000000423334473  372258
+QLN700000000425Ormeau Road (Agincourt Avenue)
+QBN700000000425334369  372603
+QLN700000000427Hatfield Street
+QBN700000000427334317  372810
+QLN700000000431Gasworks
+QBN700000000431334142  373375
+QLN700000001643Bedford Street
+QBN700000001643333755  373841
+QLN700000000140Opera House
+QBN700000000140333497  373904
+QPNGLE Goldline Express        Goldline Express
+QQ
+QVNGL
+QDNGLE 215 OBelfast, Europa Buscentre - Downpatrick, Buscentre
+QDNGLE 215bOBelfast, Europa Buscentre - Downpatrick, Buscentre
+QDNGLE 215 IDownpatrick, Buscentre - Belfast, Europa Buscentre
+QDNGLE 215cIDownpatrick, Buscentre - Belfast, Europa Buscentre
+QDNGLE 215bIDownpatrick, Buscentre - Belfast, Europa Buscentre

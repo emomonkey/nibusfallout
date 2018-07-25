@@ -1,0 +1,2718 @@
+ATCO-CIF0500Ulsterbus                       OMNITIMES       20180608091458
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 0630  20180702201809021111100 X212                       O
+QO7000000153630630   T1  
+QI70000001567807050705B   T1  
+QI70000001423207150715B   T1  
+QI70000001423007250725B   T1  
+QI70000001331107400740B   T1  
+QI70000001522907500750S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567908000800S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333108050805S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132140820   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 0700  20180702201809021111100 X212                       O
+QO7000000153630700   T1  
+QI70000001567807350735B   T1  
+QI70000001423207450745B   T1  
+QI70000001423007550755B   T1  
+QI70000001331108100810B   T1  
+QI70000001522908200820S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567908300830S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333108350835S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132140850   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 0730  20180702201809021111100 X212                       O
+QO7000000153630730   T1  
+QI70000001567808050805B   T1  
+QI70000001423208150815B   T1  
+QI70000001423008250825B   T1  
+QI70000001331108400840B   T1  
+QI70000001522908500850S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567909000900S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333109050905S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132140920   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 0800  20180702201809021111100 X212                       O
+QO7000000153630800   T1  
+QI70000001567808350835B   T1  
+QI70000001423208450845B   T1  
+QI70000001423008550855B   T1  
+QI70000001331109100910B   T1  
+QI70000001522909200920S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567909300930S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333109350935S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132140950   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 0830  20180702201809021111100 X212                       O
+QO7000000153630830   T1  
+QI70000001567809050905B   T1  
+QI70000001423209150915B   T1  
+QI70000001423009250925B   T1  
+QI70000001331109400940B   T1  
+QI70000001522909500950S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567910001000S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333110051005S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141020   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 0900  20180702201809021111100 X212                       O
+QO7000000153630900   T1  
+QI70000001567809350935B   T1  
+QI70000001423209450945B   T1  
+QI70000001423009550955B   T1  
+QI70000001331110101010B   T1  
+QI70000001522910201020S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567910301030S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333110351035S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141050   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 0930  20180702201809021111100 X212                       O
+QO7000000153630930   T1  
+QI70000001567810051005B   T1  
+QI70000001423210151015B   T1  
+QI70000001423010251025B   T1  
+QI70000001331110401040B   T1  
+QI70000001522910501050S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567911001100S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333111051105S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141120   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1000  20180702201809021111100 X212                       O
+QO7000000153631000   T1  
+QI70000001567810351035B   T1  
+QI70000001423210451045B   T1  
+QI70000001423010551055B   T1  
+QI70000001331111101110B   T1  
+QI70000001522911201120S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567911301130S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333111351135S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141150   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1030  20180702201809021111100 X212                       O
+QO7000000153631030   T1  
+QI70000001567811051105B   T1  
+QI70000001423211151115B   T1  
+QI70000001423011251125B   T1  
+QI70000001331111401140B   T1  
+QI70000001522911501150S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567912001200S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333112051205S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141220   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1100  20180702201809021111100 X212                       O
+QO7000000153631100   T1  
+QI70000001567811351135B   T1  
+QI70000001423211451145B   T1  
+QI70000001423011551155B   T1  
+QI70000001331112101210B   T1  
+QI70000001522912201220S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567912301230S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333112351235S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141250   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1130  20180702201809021111100 X212                       O
+QO7000000153631130   T1  
+QI70000001567812051205B   T1  
+QI70000001423212151215B   T1  
+QI70000001423012251225B   T1  
+QI70000001331112401240B   T1  
+QI70000001522912501250S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567913001300S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333113051305S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141320   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1200  20180702201809021111100 X212                       O
+QO7000000153631200   T1  
+QI70000001567812351235B   T1  
+QI70000001423212451245B   T1  
+QI70000001423012551255B   T1  
+QI70000001331113101310B   T1  
+QI70000001522913201320S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567913301330S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333113351335S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141350   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1230  20180702201809021111100 X212                       O
+QO7000000153631230   T1  
+QI70000001567813051305B   T1  
+QI70000001423213151315B   T1  
+QI70000001423013251325B   T1  
+QI70000001331113401340B   T1  
+QI70000001522913501350S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567914001400S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333114051405S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141420   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1300  20180702201809021111100 X212                       O
+QO7000000153631300   T1  
+QI70000001567813351335B   T1  
+QI70000001423213451345B   T1  
+QI70000001423013551355B   T1  
+QI70000001331114101410B   T1  
+QI70000001522914201420S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567914301430S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333114351435S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141450   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1330  20180702201809021111100 X212                       O
+QO7000000153631330   T1  
+QI70000001567814051405B   T1  
+QI70000001423214151415B   T1  
+QI70000001423014251425B   T1  
+QI70000001331114401440B   T1  
+QI70000001522914501450S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567915001500S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333115051505S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141520   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1400  20180702201809021111100 X212                       O
+QO7000000153631400   T1  
+QI70000001567814351435B   T1  
+QI70000001423214451445B   T1  
+QI70000001423014551455B   T1  
+QI70000001331115101510B   T1  
+QI70000001522915201520S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567915301530S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333115351535S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141550   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1430  20180702201809021111100 X212                       O
+QO7000000153631430   T1  
+QI70000001567815051505B   T1  
+QI70000001423215151515B   T1  
+QI70000001423015251525B   T1  
+QI70000001331115401540B   T1  
+QI70000001522915501550S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567916001600S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333116051605S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141620   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1500  20180702201809021111100 X212                       O
+QO7000000153631500   T1  
+QI70000001567815351535B   T1  
+QI70000001423215451545B   T1  
+QI70000001423015551555B   T1  
+QI70000001331116101610B   T1  
+QI70000001522916201620S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567916301630S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333116351635S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141650   T1  
+QDNGLE 212XOEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1515  20180702201809021111100 X212X                      O
+QO7000000153631515   T1  
+QI70000001567916501650S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333116551655S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141710   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1530  20180702201809021111100 X212                       O
+QO7000000153631530   T1  
+QI70000001567816151615B   T1  
+QI70000001423216251625B   T1  
+QI70000001423016351635B   T1  
+QI70000001331116501650B   T1  
+QI70000001522917001700S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567917101710S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333117151715S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141730   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1545  20180702201809021111100 X212                       O
+QO7000000153631545   T1  
+QI70000001567816301630B   T1  
+QI70000001423216401640B   T1  
+QI70000001423016501650B   T1  
+QI70000001331117051705B   T1  
+QI70000001522917151715S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567917251725S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333117301730S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141745   T1  
+QDNGLE 212XOEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1600  20180702201809021111100 X212X                      O
+QO7000000153631600   T1  
+QI70000001567917351735S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333117401740S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141755   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1615  20180702201809021111100 X212                       O
+QO7000000153631615   T1  
+QI70000001567817051705B   T1  
+QI70000001423217151715B   T1  
+QI70000001423017251725B   T1  
+QI70000001331117401740B   T1  
+QI70000001522917501750S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567918001800S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333118051805S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141820   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1630  20180702201809021111100 X212                       O
+QO7000000153631630   T1  
+QI70000001567817201720B   T1  
+QI70000001423217301730B   T1  
+QI70000001423017401740B   T1  
+QI70000001331117551755B   T1  
+QI70000001522918051805S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567918151815S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333118201820S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141835   T1  
+QDNGLE X212OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1645  20180702201809021111100 XX212                      O
+QO7000000153631645   T1  
+QI70000001331118001800B   T1  
+QI70000001522918101810S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567918201820S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333118221822S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141840   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1700  20180702201809021111100 X212                       O
+QO7000000153631700   T1  
+QI70000001567817501750B   T1  
+QI70000001423218001800B   T1  
+QI70000001423018101810B   T1  
+QI70000001331118251825B   T1  
+QI70000001522918351835S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567918451845S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333118501850S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141905   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1715  20180702201809021111100 X212                       O
+QO7000000153631715   T1  
+QI70000001567818001800B   T1  
+QI70000001423218101810B   T1  
+QI70000001423018201820B   T1  
+QI70000001331118351835B   T1  
+QI70000001522918451845S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567918551855S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333119001900S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141915   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1730  20180702201809021111100 X212                       O
+QO7000000153631730   T1  
+QI70000001567818151815B   T1  
+QI70000001423218251825B   T1  
+QI70000001423018351835B   T1  
+QI70000001331118501850B   T1  
+QI70000001522919001900S   T1  
+QI70000001567919101910S   T1  
+QI70000001333119151915S   T1  
+QT7000000132141930   T1  
+QDNGLE X212OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1745  20180702201809021111100 XX212                      O
+QO7000000153631745   T1  
+QI70000001331118551855B   T1  
+QI70000001522919051905S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567919151915S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333119171917S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141935   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1800  20180702201809021111100 X212                       O
+QO7000000153631800   T1  
+QI70000001567818351835B   T1  
+QI70000001423218451845B   T1  
+QI70000001423018551855B   T1  
+QI70000001331119101910B   T1  
+QI70000001522919201920S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567919301930S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333119351935S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141950   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1815  20180702201809021111100 X212                       O
+QO7000000153631815   T1  
+QI70000001567818501850B   T1  
+QI70000001423219001900B   T1  
+QT7000000142301910   T1  
+QDNGLE X212OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1815  20180702201809021111100 XX212                      O
+QO7000000153631815   T1  
+QI70000001331119201920B   T1  
+QI70000001522919301930S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567919401940S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333119421942S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132142000   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1830  20180702201809021111100 X212                       O
+QO7000000153631830   T1  
+QI70000001567819051905B   T1  
+QI70000001423219151915B   T1  
+QI70000001423019251925B   T1  
+QI70000001331119401940B   T1  
+QI70000001522919501950S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567920002000S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333120052005S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132142020   T1  
+QDNGLE X212OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1845  20180702201809021111100 XX212                      O
+QO7000000153631845   T1  
+QI70000001331119501950B   T1  
+QI70000001522920002000S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567920102010S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333120122012S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132142030   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1900  20180702201809021111100 X212                       O
+QO7000000153631900   T1  
+QI70000001567819301930B   T1  
+QI70000001423219401940B   T1  
+QI70000001423019501950B   T1  
+QI70000001331120052005B   T1  
+QI70000001522920152015S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567920252025S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333120302030S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132142040   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1930  20180702201809021111100 X212                       O
+QO7000000153631930   T1  
+QI70000001567820002000B   T1  
+QI70000001423220102010B   T1  
+QI70000001423020202020B   T1  
+QI70000001331120352035B   T1  
+QI70000001522920452045S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567920552055S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333121002100S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132142110   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 2030  20180702201809021111100 X212                       O
+QO7000000153632030   T1  
+QI70000001567821002100B   T1  
+QI70000001423221102110B   T1  
+QI70000001423021202120B   T1  
+QI70000001331121352135B   T1  
+QI70000001522921452145S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567921552155S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333122002200S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132142210   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 2130  20180702201809021111100 X212                       O
+QO7000000153632130   T1  
+QI70000001567822002200B   T1  
+QI70000001423222102210B   T1  
+QI70000001423022202220B   T1  
+QI70000001331122352235B   T1  
+QI70000001522922452245S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567922552255S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333123002300S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132142310   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 2300  20180702201809021111100 X212                       O
+QO7000000153632300   T1  
+QI70000001567823302330B   T1  
+QI70000001423223402340B   T1  
+QI70000001423023502350B   T1  
+QI70000001331124052405B   T1  
+QI70000001522924152415S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567924252425S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333124302430S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132142440   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 2400  20180702201809021111100 X212                       O
+QO7000000153632400   T1  
+QI70000001567824302430B   T1  
+QI70000001423224402440B   T1  
+QI70000001423024502450B   T1  
+QI70000001331125052505B   T1  
+QI70000001522925152515S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567925252525S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333125302530S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132142540   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 2500  20180702201809021111100 X212                       O
+QO7000000153632500   T1  
+QI70000001567825302530B   T1  
+QI70000001423225352535B   T1  
+QI70000001423025402540B   T1  
+QI70000001331125502550B   T1  
+QI70000001522926002600S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567926102610S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333126152615S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132142640   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 0415  20180702201809021111100 X212                       I
+QO7000000132140415   T1  
+QI70000001573904200420P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574604220422P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330504300430P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574704450445B   T1  
+QI70000001423105000500B   T1  
+QI70000001423205050505B   T1  
+QI70000001567705150515B   T1  
+QI70000000079205500550S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153630555   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 0500  20180702201809021111100 X212                       I
+QO7000000132140500   T1  
+QI70000001573905050505P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574605070507P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330505150515P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574705300530B   T1  
+QI70000001423105450545B   T1  
+QI70000001423205500550B   T1  
+QI70000001567706000600B   T1  
+QI70000000079206350635S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153630640   T1  
+QDNGLE 212XIFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 0515  20180702201809021111100 X212X                      I
+QO7000000132140515   T1  
+QI70000001573905200520P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574605220522P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000079206450645S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153630650   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 0545  20180702201809021111100 X212                       I
+QO7000000157470545   T1  
+QI70000001423106100610B   T1  
+QI70000001423206200620B   T1  
+QI70000001567706300630B   T1  
+QI70000000079207050705S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153630710   T1  
+QDNGLE X212IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 0530  20180702201809021111100 XX212                      I
+QO7000000132140530   T1  
+QI70000001573905350535P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574605400540P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330505480548P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574706000600B   T1  
+QI70000000079207050705S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153630710   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 0545  20180702201809021111100 X212                       I
+QO7000000132140545   T1  
+QI70000001573905500550P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574605520552P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330506000600P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574706150615B   T1  
+QI70000001423106300630B   T1  
+QI70000001423206400640B   T1  
+QI70000001567706520652B   T1  
+QI70000000079207300730S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153630740   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 0630  20180702201809021111100 X212                       I
+QO7000000157470630   T1  
+QI70000001423106450645B   T1  
+QI70000001423206550655B   T1  
+QI70000001567707070707B   T1  
+QI70000000079207450745S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153630755   T1  
+QDNGLE X212IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 0600  20180702201809021111100 XX212                      I
+QO7000000132140600   T1  
+QI70000001573906050605P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574606100610P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330506180618P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574706300630B   T1  
+QI70000000079207450745S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153630750   T1  
+QDNGLE X212IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 0615  20180702201809021111100 XX212                      I
+QO7000000132140615   T1  
+QI70000001573906200620P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574606250625P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330506330633P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574706450645B   T1  
+QI70000000079208000800S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153630805   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 0630  20180702201809021111100 X212                       I
+QO7000000132140630   T1  
+QI70000001573906350635P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574606370637P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330506450645P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574707000700B   T1  
+QI70000001423107150715B   T1  
+QI70000001423207250725B   T1  
+QI70000001567707370737B   T1  
+QI70000000079208150815S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153630835   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 0645  20180702201809021111100 X212                       I
+QO7000000132140645   T1  
+QI70000001573906500650P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574606520652P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330507000700P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574707150715B   T1  
+QI70000001423107300730B   T1  
+QI70000001423207400740B   T1  
+QI70000001567707520752B   T1  
+QI70000000079208300830S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153630850   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 0700  20180702201809021111100 X212                       I
+QO7000000132140700   T1  
+QI70000001573907050705P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574607070707P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330507150715P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574707300730B   T1  
+QI70000001423107450745B   T1  
+QI70000001423207550755B   T1  
+QI70000001567708070807B   T1  
+QI70000000079208450845S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153630900   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 0715  20180702201809021111100 X212                       I
+QO7000000132140715   T1  
+QI70000001573907200720P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574607220722P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330507300730P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574707450745B   T1  
+QI70000001423108000800B   T1  
+QI70000001423208100810B   T1  
+QI70000001567708220822B   T1  
+QI70000000079209000900S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153630915   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 0730  20180702201809021111100 X212                       I
+QO7000000132140730   T1  
+QI70000001573907350735P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574607370737P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330507450745P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574708000800B   T1  
+QI70000001423108150815B   T1  
+QI70000001423208250825B   T1  
+QI70000001567708370837B   T1  
+QI70000000079209150915S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153630930   T1  
+QDNGLE 212XIFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 0745  20180702201809021111100 X212X                      I
+QO7000000132140745   T1  
+QI70000001573907500750P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574607520752P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000000079209350935S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153630945   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 0850  20180702201809021111100 X212                       I
+QO7000000142310850   T1  
+QI70000001423209000900B   T1  
+QI70000001567709100910B   T1  
+QI70000000079209450945S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153630955   T1  
+QDNGLE X212IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 0800  20180702201809021111100 XX212                      I
+QO7000000132140800   T1  
+QI70000001573908050805P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574608100810P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330508180818P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574708350835B   T1  
+QI70000000079209500950S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153631000   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 0830  20180702201809021111100 X212                       I
+QO7000000132140830   T1  
+QI70000001573908350835P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574608400840P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330508480848P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574709050905B   T1  
+QI70000001423109200920B   T1  
+QI70000001423209300930B   T1  
+QI70000001567709400940B   T1  
+QI70000000079210151015S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153631020   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 0900  20180702201809021111100 X212                       I
+QO7000000132140900   T1  
+QI70000001573909050905P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574609100910P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330509180918P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574709350935B   T1  
+QI70000001423109500950B   T1  
+QI70000001423210001000B   T1  
+QI70000001567710101010B   T1  
+QI70000000079210451045S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153631050   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 0915  20180702201809021111100 X212                       I
+QO7000000132140915   T1  
+QI70000001573909200920P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574609250925P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330509330933P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574709500950B   T1  
+QI70000001423110051005B   T1  
+QI70000001423210151015B   T1  
+QI70000001567710251025B   T1  
+QI70000000079211001100S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153631105   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 0930  20180702201809021111100 X212                       I
+QO7000000132140930   T1  
+QI70000001573909350935P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574609400940P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330509480948P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574710051005B   T1  
+QI70000001423110201020B   T1  
+QI70000001423210301030B   T1  
+QI70000001567710401040B   T1  
+QI70000000079211151115S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153631120   T1  
+QDNGLE X212IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 1000  20180702201809021111100 XX212                      I
+QO7000000132141000   T1  
+QI70000001573910051005P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574610101010P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330510181018P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574710351035B   T1  
+QI70000000079211371137S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153631145   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 1035  20180702201809021111100 X212                       I
+QO7000000157471035   T1  
+QI70000001423110501050B   T1  
+QI70000001423211001100B   T1  
+QI70000001567711101110B   T1  
+QI70000000079211451145S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153631150   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 1030  20180702201809021111100 X212                       I
+QO7000000132141030   T1  
+QI70000001573910351035P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574610401040P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330510481048P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574711051105B   T1  
+QI70000001423111201120B   T1  
+QI70000001423211301130B   T1  
+QI70000001567711401140B   T1  
+QI70000000079212151215S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153631220   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 1100  20180702201809021111100 X212                       I
+QO7000000132141100   T1  
+QI70000001573911051105P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574611101110P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330511181118P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574711351135B   T1  
+QI70000001423111501150B   T1  
+QI70000001423212001200B   T1  
+QI70000001567712101210B   T1  
+QI70000000079212451245S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153631250   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 1130  20180702201809021111100 X212                       I
+QO7000000132141130   T1  
+QI70000001573911351135P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574611401140P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330511481148P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574712051205B   T1  
+QI70000001423112201220B   T1  
+QI70000001423212301230B   T1  
+QI70000001567712401240B   T1  
+QI70000000079213151315S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153631320   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 1200  20180702201809021111100 X212                       I
+QO7000000132141200   T1  
+QI70000001573912051205P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574612101210P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330512181218P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574712351235B   T1  
+QI70000001423112501250B   T1  
+QI70000001423213001300B   T1  
+QI70000001567713101310B   T1  
+QI70000000079213451345S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153631350   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 1230  20180702201809021111100 X212                       I
+QO7000000132141230   T1  
+QI70000001573912351235P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574612401240P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330512481248P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574713051305B   T1  
+QI70000001423113201320B   T1  
+QI70000001423213301330B   T1  
+QI70000001567713401340B   T1  
+QI70000000079214151415S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153631420   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 1300  20180702201809021111100 X212                       I
+QO7000000132141300   T1  
+QI70000001573913051305P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574613101310P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330513181318P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574713351335B   T1  
+QI70000001423113501350B   T1  
+QI70000001423214001400B   T1  
+QI70000001567714101410B   T1  
+QI70000000079214451445S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153631450   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 1330  20180702201809021111100 X212                       I
+QO7000000132141330   T1  
+QI70000001573913351335P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574613401340P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330513481348P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574714051405B   T1  
+QI70000001423114201420B   T1  
+QI70000001423214301430B   T1  
+QI70000001567714401440B   T1  
+QI70000000079215151515S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153631520   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 1400  20180702201809021111100 X212                       I
+QO7000000132141400   T1  
+QI70000001573914051405P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574614101410P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330514181418P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574714351435B   T1  
+QI70000001423114501450B   T1  
+QI70000001423215001500B   T1  
+QI70000001567715101510B   T1  
+QI70000000079215451545S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153631550   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 1430  20180702201809021111100 X212                       I
+QO7000000132141430   T1  
+QI70000001573914351435P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574614401440P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330514481448P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574715051505B   T1  
+QI70000001423115201520B   T1  
+QI70000001423215301530B   T1  
+QI70000001567715401540B   T1  
+QI70000000079216151615S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153631620   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 1500  20180702201809021111100 X212                       I
+QO7000000132141500   T1  
+QI70000001573915051505P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574615101510P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330515181518P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574715351535B   T1  
+QI70000001423115501550B   T1  
+QI70000001423216001600B   T1  
+QI70000001567716101610B   T1  
+QI70000000079216451645S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153631650   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 1530  20180702201809021111100 X212                       I
+QO7000000132141530   T1  
+QI70000001573915351535P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574615401540P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330515481548P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574716051605B   T1  
+QI70000001423116201620B   T1  
+QI70000001423216301630B   T1  
+QI70000001567716401640B   T1  
+QI70000000079217151715S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153631720   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 1600  20180702201809021111100 X212                       I
+QO7000000132141600   T1  
+QI70000001573916051605P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574616101610P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330516181618P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574716351635B   T1  
+QI70000001423116501650B   T1  
+QI70000001423217001700B   T1  
+QI70000001567717101710B   T1  
+QI70000000079217451745S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153631750   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 1630  20180702201809021111100 X212                       I
+QO7000000132141630   T1  
+QI70000001573916351635P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574616401640P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330516481648P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574717051705B   T1  
+QI70000001423117201720B   T1  
+QI70000001423217301730B   T1  
+QI70000001567717401740B   T1  
+QI70000000079218151815S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153631820   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 1700  20180702201809021111100 X212                       I
+QO7000000132141700   T1  
+QI70000001573917051705P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574617101710P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330517181718P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574717351735B   T1  
+QI70000001423117501750B   T1  
+QI70000001423218001800B   T1  
+QI70000001567718101810B   T1  
+QI70000000079218451845S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153631850   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 1800  20180702201809021111100 X212                       I
+QO7000000132141800   T1  
+QI70000001573918051805P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574618101810P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330518181818P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574718351835B   T1  
+QI70000001423118501850B   T1  
+QI70000001423219001900B   T1  
+QI70000001567719101910B   T1  
+QI70000000079219451945S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153631950   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 1930  20180702201809021111100 X212                       I
+QO7000000132141930   T1  
+QI70000001573919351935P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574619371937P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330519451945P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574720002000B   T1  
+QI70000001423120152015B   T1  
+QI70000001423220202020B   T1  
+QI70000001567720302030B   T1  
+QI70000000079221052105S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153632110   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 2100  20180702201809021111100 X212                       I
+QO7000000132142100   T1  
+QI70000001573921052105P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574621072107P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330521152115P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574721302130B   T1  
+QI70000001423121452145B   T1  
+QI70000001423221502150B   T1  
+QI70000001567722002200B   T1  
+QI70000000079222352235S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153632240   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 2200  20180702201809021111100 X212                       I
+QO7000000132142200   T1  
+QI70000001573922052205P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574622072207P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330522152215P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574722302230B   T1  
+QI70000001423122452245B   T1  
+QI70000001423222502250B   T1  
+QI70000001567723002300B   T1  
+QI70000000079223352335S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153632340   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 2300  20180702201809021111100 X212                       I
+QO7000000132142300   T1  
+QI70000001573923052305P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574623072307P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330523152315P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574723302330B   T1  
+QI70000001423123452345B   T1  
+QI70000001423223502350B   T1  
+QI70000001567724002400B   T1  
+QI70000000079224352435S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153632440   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 2701  20180702201809020000010 X212                       O
+QO7000000153630645   T1  
+QI70000001567807200720B   T1  
+QI70000001423207300730B   T1  
+QI70000001423007400740B   T1  
+QI70000001331107550755B   T1  
+QI70000001522908050805S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567908150815S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333108200820S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132140835   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 0900  20180702201809020000010 X212       GD              O
+QO7000000153630900   T1  
+QI70000001567809350935B   T1  
+QI70000001423209450945B   T1  
+QI70000001423009550955B   T1  
+QI70000001331110101010B   T1  
+QI70000001522910201020S   T1  
+QI70000001567910301030S   T1  
+QI70000001333110351035S   T1  
+QT7000000132141050   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1000  20180702201809020000010 X212       GD              O
+QO7000000153631000   T1  
+QI70000001567810351035B   T1  
+QI70000001423210451045B   T1  
+QI70000001423010551055B   T1  
+QI70000001331111101110B   T1  
+QI70000001522911201120S   T1  
+QI70000001567911301130S   T1  
+QI70000001333111351135S   T1  
+QT7000000132141150   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1030  20180702201809020000010 X212       GD              O
+QO7000000153631030   T1  
+QI70000001567811051105B   T1  
+QI70000001423211151115B   T1  
+QI70000001423011251125B   T1  
+QI70000001331111401140B   T1  
+QI70000001522911501150S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567912001200S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333112051205S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141220   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1100  20180702201809020000010 X212       GD              O
+QO7000000153631100   T1  
+QI70000001567811351135B   T1  
+QI70000001423211451145B   T1  
+QI70000001423011551155B   T1  
+QI70000001331112101210B   T1  
+QI70000001522912201220S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567912301230S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333112351235S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141250   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1130  20180702201809020000010 X212       GD              O
+QO7000000153631130   T1  
+QI70000001567812051205B   T1  
+QI70000001423212151215B   T1  
+QI70000001423012251225B   T1  
+QI70000001331112401240B   T1  
+QI70000001522912501250S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567913001300S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333113051305S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141320   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1200  20180702201809020000010 X212       GD              O
+QO7000000153631200   T1  
+QI70000001567812351235B   T1  
+QI70000001423212451245B   T1  
+QI70000001423012551255B   T1  
+QI70000001331113101310B   T1  
+QI70000001522913201320S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567913301330S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333113351335S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141350   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1230  20180702201809020000010 X212       GD              O
+QO7000000153631230   T1  
+QI70000001567813051305B   T1  
+QI70000001423213151315B   T1  
+QI70000001423013251325B   T1  
+QI70000001331113401340B   T1  
+QI70000001522913501350S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567914001400S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333114051405S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141420   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1300  20180702201809020000010 X212       GD              O
+QO7000000153631300   T1  
+QI70000001567813351335B   T1  
+QI70000001423213451345B   T1  
+QI70000001423013551355B   T1  
+QI70000001331114101410B   T1  
+QI70000001522914201420S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567914301430S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333114351435S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141450   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1330  20180702201809020000010 X212       GD              O
+QO7000000153631330   T1  
+QI70000001567814051405B   T1  
+QI70000001423214151415B   T1  
+QI70000001423014251425B   T1  
+QI70000001331114401440B   T1  
+QI70000001522914501450S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567915001500S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333115051505S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141520   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1400  20180702201809020000010 X212       GD              O
+QO7000000153631400   T1  
+QI70000001567814351435B   T1  
+QI70000001423214451445B   T1  
+QI70000001423014551455B   T1  
+QI70000001331115101510B   T1  
+QI70000001522915201520S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567915301530S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333115351535S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141550   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1430  20180702201809020000010 X212       GD              O
+QO7000000153631430   T1  
+QI70000001567815051505B   T1  
+QI70000001423215151515B   T1  
+QI70000001423015251525B   T1  
+QI70000001331115401540B   T1  
+QI70000001522915501550S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567916001600S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333116051605S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141620   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1500  20180702201809020000010 X212       GD              O
+QO7000000153631500   T1  
+QI70000001567815351535B   T1  
+QI70000001423215451545B   T1  
+QI70000001423015551555B   T1  
+QI70000001331116101610B   T1  
+QI70000001522916201620S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567916301630S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333116351635S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141650   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1530  20180702201809020000010 X212       GD              O
+QO7000000153631530   T1  
+QI70000001567816051605B   T1  
+QI70000001423216151615B   T1  
+QI70000001423016251625B   T1  
+QI70000001331116401640B   T1  
+QI70000001522916501650S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567917001700S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333117051705S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141720   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1600  20180702201809020000010 X212       GD              O
+QO7000000153631600   T1  
+QI70000001567816351635B   T1  
+QI70000001423216451645B   T1  
+QI70000001423016551655B   T1  
+QI70000001331117101710B   T1  
+QI70000001522917201720S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567917301730S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333117351735S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141750   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1630  20180702201809020000010 X212       GD              O
+QO7000000153631630   T1  
+QI70000001567817051705B   T1  
+QI70000001423217151715B   T1  
+QI70000001423017251725B   T1  
+QI70000001331117401740B   T1  
+QI70000001522917501750S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567918001800S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333118051805S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141820   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1700  20180702201809020000010 X212       GD              O
+QO7000000153631700   T1  
+QI70000001567817351735B   T1  
+QI70000001423217451745B   T1  
+QI70000001423017551755B   T1  
+QI70000001331118101810B   T1  
+QI70000001522918201820S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567918301830S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333118351835S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141850   T1  
+QDNGLE X212OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1715  20180702201809020000010 XX212      GD              O
+QO7000000153631715   T1  
+QI70000001331118201820B   T1  
+QI70000001522918301830S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567918401840S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333118451845S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141900   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1730  20180702201809020000010 X212       GD              O
+QO7000000153631730   T1  
+QI70000001567818051805B   T1  
+QI70000001423218151815B   T1  
+QI70000001423018251825B   T1  
+QI70000001331118401840B   T1  
+QI70000001522918501850S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567919001900S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333119051905S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141920   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1800  20180702201809020000010 X212       GD              O
+QO7000000153631800   T1  
+QI70000001567818351835B   T1  
+QI70000001423218451845B   T1  
+QI70000001423018551855B   T1  
+QI70000001331119101910B   T1  
+QI70000001522919201920S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567919301930S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333119351935S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141950   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1800  20180702201809020000010 X212       GD              O
+QO7000000153631815   T1  
+QI70000001567818501850B   T1  
+QI70000001423219001900B   T1  
+QI70000001423019101910B   T1  
+QI70000001331119251925B   T1  
+QI70000001522919351935S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567919451945S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333119501950S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132142005   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1830  20180702201809020000010 X212       GD              O
+QO7000000153631830   T1  
+QI70000001567819051905B   T1  
+QI70000001423219151915B   T1  
+QI70000001423019251925B   T1  
+QI70000001331119401940B   T1  
+QI70000001522919501950S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567920002000S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333120052005S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132142020   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1900  20180702201809020000010 X212       GD              O
+QO7000000153631900   T1  
+QI70000001567819351935B   T1  
+QI70000001423219451945B   T1  
+QI70000001423019551955B   T1  
+QI70000001331120102010B   T1  
+QI70000001522920202020S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567920302030S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333120322032S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132142045   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1930  20180702201809020000010 X212       GD              O
+QO7000000153631930   T1  
+QI70000001567820052005B   T1  
+QI70000001423220152015B   T1  
+QI70000001423020252025B   T1  
+QI70000001331120402040B   T1  
+QI70000001522920502050S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567921002100S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333121022102S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132142115   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 2030  20180702201809020000010 X212       GD              O
+QO7000000153632030   T1  
+QI70000001567821052105B   T1  
+QI70000001423221152115B   T1  
+QI70000001423021252125B   T1  
+QI70000001331121402140B   T1  
+QI70000001522921502150S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567922002200S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333122022202S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132142215   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 2130  20180702201809020000010 X212       GD              O
+QO7000000153632130   T1  
+QI70000001567822002200B   T1  
+QI70000001423222102210B   T1  
+QI70000001423022202220B   T1  
+QI70000001331122352235B   T1  
+QI70000001522922452245S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567922552255S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333122572257S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132142310   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 2300  20180702201809020000010 X212       GD              O
+QO7000000153632300   T1  
+QI70000001567823302330B   T1  
+QI70000001423223402340B   T1  
+QI70000001423023502350B   T1  
+QI70000001331124052405B   T1  
+QI70000001522924152415S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567924252425S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333124272427S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132142440   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1930  20180702201809020000010 X212       GD              O
+QO7000000153632400   T1  
+QI70000001567824302430B   T1  
+QI70000001423224402440B   T1  
+QI70000001423024502450B   T1  
+QI70000001331125052505B   T1  
+QI70000001522925152515S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567925252525S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333125272527S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132142540   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 2500  20180702201809020000010 X212       GD              O
+QO7000000153632500   T1  
+QI70000001567825302530B   T1  
+QI70000001423225352535B   T1  
+QI70000001423025402540B   T1  
+QI70000001331125502550B   T1  
+QI70000001522926002600S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567926102610S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333126122612S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132142640   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 0645  20180702201809020000010 X212       GD              I
+QO7000000132140645   T1  
+QI70000001573906500650P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574606550655P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330507030703P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574707200720B   T1  
+QI70000001423107350735B   T1  
+QI70000001423207450745B   T1  
+QI70000001567707550755B   T1  
+QI70000000079208300830S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153630835   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 0730  20180702201809020000010 X212       GD              I
+QO7000000132140730   T1  
+QI70000001573907350735P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574607400740P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330507480748P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574708050805B   T1  
+QI70000001423108200820B   T1  
+QI70000001423208300830B   T1  
+QI70000001567708400840B   T1  
+QI70000000079209150915S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153630920   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 0800  20180702201809020000010 X212       GD              I
+QO7000000132140800   T1  
+QI70000001573908050805P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574608100810P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330508180818P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574708350835B   T1  
+QI70000001423108500850B   T1  
+QI70000001423209000900B   T1  
+QI70000001567709100910B   T1  
+QI70000000079209450945S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153630950   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 0830  20180702201809020000010 X212       GD              I
+QO7000000132140830   T1  
+QI70000001573908350835P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574608400840P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330508480848P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574709050905B   T1  
+QI70000001423109200920B   T1  
+QI70000001423209300930B   T1  
+QI70000001567709400940B   T1  
+QI70000000079210151015S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153631020   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 0900  20180702201809020000010 X212                       I
+QO7000000132140900   T1  
+QI70000001573909050905P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574609100910P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330509180918P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574709350935B   T1  
+QI70000001423109500950B   T1  
+QI70000001423210001000B   T1  
+QI70000001567710101010B   T1  
+QI70000000079210451045S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153631050   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 0730  20180702201809020000010 X212       GD              I
+QO7000000132140930   T1  
+QI70000001573909350935P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574609400940P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330509480948P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574710051005B   T1  
+QI70000001423110201020B   T1  
+QI70000001423210301030B   T1  
+QI70000001567710401040B   T1  
+QI70000000079211151115S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153631120   T1  
+QDNGLE X212IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 1000  20180702201809020000010 XX212                      I
+QO7000000132141000   T1  
+QI70000001573910051005P   T1  
+QI70000001574610101010P   T1  
+QI70000001330510181018P   T1  
+QI70000001574710351035B   T1  
+QI70000000079211401140S   T1  
+QT7000000153631145   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 1000  20180702201809020000010 X212       GD              I
+QO7000000132141000   T1  
+QI70000001573910051005P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574610101010P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330510181018P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574710351035B   T1  
+QI70000001423110501050B   T1  
+QI70000001423211001100B   T1  
+QI70000001567711101110B   T1  
+QI70000000079211451145S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153631150   T1  
+QDNGLE X212IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 1100  20180702201809020000010 XX212                      I
+QO7000000132141100   T1  
+QI70000001573911051105P   T1  
+QI70000001574611101110P   T1  
+QI70000001330511181118P   T1  
+QI70000001574711351135B   T1  
+QI70000000079212401240S   T1  
+QT7000000153631245   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 1100  20180702201809020000010 X212       GD              I
+QO7000000132141100   T1  
+QI70000001573911051105P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574611101110P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330511181118P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574711351135B   T1  
+QI70000001423111501150B   T1  
+QI70000001423212001200B   T1  
+QI70000001567712101210B   T1  
+QI70000000079212451245S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153631250   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 1130  20180702201809020000010 X212       GD              I
+QO7000000132141130   T1  
+QI70000001573911351135P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574611401140P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330511481148P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574712051205B   T1  
+QI70000001423112201220B   T1  
+QI70000001423212301230B   T1  
+QI70000001567712401240B   T1  
+QI70000000079213151315S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153631320   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 1200  20180702201809020000010 X212       GD              I
+QO7000000132141200   T1  
+QI70000001573912051205P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574612101210P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330512181218P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574712351235B   T1  
+QI70000001423112501250B   T1  
+QI70000001423213001300B   T1  
+QI70000001567713101310B   T1  
+QI70000000079213451345S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153631350   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 1230  20180702201809020000010 X212       GD              I
+QO7000000132141230   T1  
+QI70000001573912351235P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574612401240P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330512481248P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574713051305B   T1  
+QI70000001423113201320B   T1  
+QI70000001423213301330B   T1  
+QI70000001567713401340B   T1  
+QI70000000079214151415S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153631420   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 1300  20180702201809020000010 X212       GD              I
+QO7000000132141300   T1  
+QI70000001573913051305P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574613101310P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330513181318P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574713351335B   T1  
+QI70000001423113501350B   T1  
+QI70000001423214001400B   T1  
+QI70000001567714101410B   T1  
+QI70000000079214451445S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153631450   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 1330  20180702201809020000010 X212       GD              I
+QO7000000132141330   T1  
+QI70000001573913351335P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574613401340P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330513481348P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574714051405B   T1  
+QI70000001423114201420B   T1  
+QI70000001423214301430B   T1  
+QI70000001567714401440B   T1  
+QI70000000079215151515S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153631520   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 1400  20180702201809020000010 X212       GD              I
+QO7000000132141400   T1  
+QI70000001573914051405P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574614101410P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330514181418P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574714351435B   T1  
+QI70000001423114501450B   T1  
+QI70000001423215001500B   T1  
+QI70000001567715101510B   T1  
+QI70000000079215451545S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153631550   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 1430  20180702201809020000010 X212       GD              I
+QO7000000132141430   T1  
+QI70000001573914351435P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574614401440P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330514481448P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574715051505B   T1  
+QI70000001423115201520B   T1  
+QI70000001423215301530B   T1  
+QI70000001567715401540B   T1  
+QI70000000079216151615S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153631620   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 1500  20180702201809020000010 X212       GD              I
+QO7000000132141500   T1  
+QI70000001573915051505P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574615101510P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330515181518P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574715351535B   T1  
+QI70000001423115501550B   T1  
+QI70000001423216001600B   T1  
+QI70000001567716101610B   T1  
+QI70000000079216451645S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153631650   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 1530  20180702201809020000010 X212       GD              I
+QO7000000132141530   T1  
+QI70000001573915351535P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574615401540P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330515481548P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574716051605B   T1  
+QI70000001423116201620B   T1  
+QI70000001423216301630B   T1  
+QI70000001567716401640B   T1  
+QI70000000079217151715S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153631720   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 1600  20180702201809020000010 X212       GD              I
+QO7000000132141600   T1  
+QI70000001573916051605P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574616101610P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330516181618P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574716351635B   T1  
+QI70000001423116501650B   T1  
+QI70000001423217001700B   T1  
+QI70000001567717101710B   T1  
+QI70000000079217451745S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153631750   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 1630  20180702201809020000010 X212       GD              I
+QO7000000132141630   T1  
+QI70000001573916351635P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574616401640P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330516481648P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574717051705B   T1  
+QI70000001423117201720B   T1  
+QI70000001423217301730B   T1  
+QI70000001567717401740B   T1  
+QI70000000079218151815S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153631820   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 1700  20180702201809020000010 X212       GD              I
+QO7000000132141700   T1  
+QI70000001573917051705P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574617101710P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330517181718P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574717351735B   T1  
+QI70000001423117501750B   T1  
+QI70000001423218001800B   T1  
+QI70000001567718101810B   T1  
+QI70000000079218451845S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153631850   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 1800  20180702201809020000010 X212       GD              I
+QO7000000132141800   T1  
+QI70000001573918051805P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574618101810P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330518181818P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574718351835B   T1  
+QI70000001423118501850B   T1  
+QI70000001423219001900B   T1  
+QI70000001567719101910B   T1  
+QI70000000079219451945S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153631950   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 1930  20180702201809020000010 X212       GD              I
+QO7000000132141930   T1  
+QI70000001573919351935P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574619371937P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330519451945P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574720002000B   T1  
+QI70000001423120152015B   T1  
+QI70000001423220252025B   T1  
+QI70000001567720352035B   T1  
+QI70000000079221102110S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153632115   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 2100  20180702201809020000010 X212       GD              I
+QO7000000132142100   T1  
+QI70000001573921052105P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574621072107P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330521152115P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574721302130B   T1  
+QI70000001423121452145B   T1  
+QI70000001423221552155B   T1  
+QI70000001567722052205B   T1  
+QI70000000079222402240S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153632245   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 1700  20180702201809020000010 X212       GD              I
+QO7000000132142200   T1  
+QI70000001573922052205P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574622072207P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330522152215P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574722302230B   T1  
+QI70000001423122452245B   T1  
+QI70000001423222552255B   T1  
+QI70000001567723052305B   T1  
+QI70000000079223402340S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153632345   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 2300  20180702201809020000010 X212       GD              I
+QO7000000132142300   T1  
+QI70000001573923052305P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574623072307P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330523152315P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574723302330B   T1  
+QI70000001423123452345B   T1  
+QI70000001423223552355B   T1  
+QI70000001567724052405B   T1  
+QI70000000079224402440S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153632445   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 2701  20180702201809020000001 X212                       O
+QO7000000153630830   T1  
+QI70000001567809050905B   T1  
+QI70000001423209150915B   T1  
+QI70000001423009250925B   T1  
+QI70000001331109400940B   T1  
+QI70000001522909500950S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567910001000S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333110021002S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141015   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1030  20180702201809020000001 X212       GD              O
+QO7000000153631030   T1  
+QI70000001567811051105B   T1  
+QI70000001423211151115B   T1  
+QI70000001423011251125B   T1  
+QI70000001331111401140B   T1  
+QI70000001522911501150S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567912001200S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333112021202S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141215   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1100  20180702201809020000001 X212       GD              O
+QO7000000153631100   T1  
+QI70000001567811351135B   T1  
+QI70000001423211451145B   T1  
+QI70000001423011551155B   T1  
+QI70000001331112101210B   T1  
+QI70000001522912201220S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567912301230S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333112321232S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141245   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1230  20180702201809020000001 X212       GD              O
+QO7000000153631130   T1  
+QI70000001567812051205B   T1  
+QI70000001423212151215B   T1  
+QI70000001423012251225B   T1  
+QI70000001331112401240B   T1  
+QI70000001522912501250S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567913001300S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333113021302S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141315   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1200  20180702201809020000001 X212       GD              O
+QO7000000153631200   T1  
+QI70000001567812351235B   T1  
+QI70000001423212451245B   T1  
+QI70000001423012551255B   T1  
+QI70000001331113101310B   T1  
+QI70000001522913201320S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567913301330S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333113321332S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141345   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1230  20180702201809020000001 X212       GD              O
+QO7000000153631230   T1  
+QI70000001567813051305B   T1  
+QI70000001423213151315B   T1  
+QI70000001423013251325B   T1  
+QI70000001331113401340B   T1  
+QI70000001522913501350S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567914001400S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333114021402S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141415   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1300  20180702201809020000001 X212                       O
+QO7000000153631300   T1  
+QI70000001567813351335B   T1  
+QI70000001423213451345B   T1  
+QI70000001423013551355B   T1  
+QI70000001331114101410B   T1  
+QI70000001522914201420S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567914301430S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333114321432S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141445   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE       20180702201809020000001 X212                       O
+QO7000000153631330   T1  
+QI70000001567814051405B   T1  
+QI70000001423214151415B   T1  
+QI70000001423014251425B   T1  
+QI70000001331114401440B   T1  
+QI70000001522914501450S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567915001500S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333115021502S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141515   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1400  20180702201809020000001 X212                       O
+QO7000000153631400   T1  
+QI70000001567814351435B   T1  
+QI70000001423214451445B   T1  
+QI70000001423014551455B   T1  
+QI70000001331115101510B   T1  
+QI70000001522915201520S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567915301530S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333115321532S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141545   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1430  20180702201809020000001 X212       GD              O
+QO7000000153631430   T1  
+QI70000001567815051505B   T1  
+QI70000001423215151515B   T1  
+QI70000001423015251525B   T1  
+QI70000001331115401540B   T1  
+QI70000001522915501550S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567916001600S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333116021602S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141615   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1500  20180702201809020000001 X212                       O
+QO7000000153631500   T1  
+QI70000001567815351535B   T1  
+QI70000001423215451545B   T1  
+QI70000001423015551555B   T1  
+QI70000001331116101610B   T1  
+QI70000001522916201620S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567916301630S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333116321632S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141645   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1530  20180702201809020000001 X212       GD              O
+QO7000000153631530   T1  
+QI70000001567816051605B   T1  
+QI70000001423216151615B   T1  
+QI70000001423016251625B   T1  
+QI70000001331116401640B   T1  
+QI70000001522916501650S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567917001700S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333117021702S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141715   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1600  20180702201809020000001 X212                       O
+QO7000000153631600   T1  
+QI70000001567816351635B   T1  
+QI70000001423216451645B   T1  
+QI70000001423016551655B   T1  
+QI70000001331117101710B   T1  
+QI70000001522917201720S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567917301730S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333117321732S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141745   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1630  20180702201809020000001 X212       GD              O
+QO7000000153631630   T1  
+QI70000001567817051705B   T1  
+QI70000001423217151715B   T1  
+QI70000001423017251725B   T1  
+QI70000001331117401740B   T1  
+QI70000001522917501750S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567918001800S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333118021802S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141815   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1230  20180702201809020000001 X212                       O
+QO7000000153631700   T1  
+QI70000001567817351735B   T1  
+QI70000001423217451745B   T1  
+QI70000001423017551755B   T1  
+QI70000001331118101810B   T1  
+QI70000001522918201820S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567918301830S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333118321832S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141845   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1730  20180702201809020000001 X212       GL              O
+QO7000000153631730   T1  
+QI70000001567818051805B   T1  
+QI70000001423218151815B   T1  
+QI70000001423018251825B   T1  
+QI70000001331118401840B   T1  
+QI70000001522918501850S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567919001900S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333119021902S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141915   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1800  20180702201809020000001 X212                       O
+QO7000000153631800   T1  
+QI70000001567818351835B   T1  
+QI70000001423218451845B   T1  
+QI70000001423018551855B   T1  
+QI70000001331119101910B   T1  
+QI70000001522919201920S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567919301930S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333119321932S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132141945   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1830  20180702201809020000001 X212       GD              O
+QO7000000153631830   T1  
+QI70000001567819051905B   T1  
+QI70000001423219151915B   T1  
+QI70000001423019251925B   T1  
+QI70000001331119401940B   T1  
+QI70000001522919501950S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567920002000S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333120022002S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132142015   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1900  20180702201809020000001 X212                       O
+QO7000000153631900   T1  
+QI70000001567819351935B   T1  
+QI70000001423219451945B   T1  
+QI70000001423019551955B   T1  
+QI70000001331120102010B   T1  
+QI70000001522920202020S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567920302030S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333120322032S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132142045   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 1930  20180702201809020000001 X212       GD              O
+QO7000000153631930   T1  
+QI70000001567820002000B   T1  
+QI70000001423220102010B   T1  
+QI70000001423020202020B   T1  
+QI70000001331120352035B   T1  
+QI70000001522920452045S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567920552055S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333120572057S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132142110   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 2030  20180702201809020000001 X212       GD              O
+QO7000000153632030   T1  
+QI70000001567821002100B   T1  
+QI70000001423221102110B   T1  
+QI70000001423021202120B   T1  
+QI70000001331121352135B   T1  
+QI70000001522921452145S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567921552155S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333121572157S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132142210   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 2130  20180702201809020000001 X212       GD              O
+QO7000000153632130   T1  
+QI70000001567822002200B   T1  
+QI70000001423222102210B   T1  
+QI70000001423022202220B   T1  
+QI70000001331122352235B   T1  
+QI70000001522922452245S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567922552255S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333122572257S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132142310   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 2215  20180702201809020000001 X212       GL              O
+QO7000000153632215   T1  
+QI70000001567822452245B   T1  
+QI70000001423222552255B   T1  
+QI70000001423023052305B   T1  
+QI70000001331123202320B   T1  
+QI70000001522923302330S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567923402340S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333123422342S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132142355   T1  
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre                           
+QSNGLE 2300  20180702201809020000001 X212       GL              O
+QO7000000153632300   T1  
+QI70000001567823302330B   T1  
+QI70000001423223402340B   T1  
+QI70000001423023502350B   T1  
+QI70000001331124052405B   T1  
+QI70000001522924152415S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001567924252425S   T1  
+QNs    SET DOWN ONLY                                                           
+QI70000001333124272427S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000132142440   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 0700  20180702201809020000001 X212       GD              I
+QO7000000132140700   T1  
+QI70000001573907050705P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574607100710P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330507180718P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574707350735B   T1  
+QI70000001423107500750B   T1  
+QI70000001423208000800B   T1  
+QI70000001567708100810B   T1  
+QI70000000079208450845S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153630850   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 0800  20180702201809020000001 X212       GD              I
+QO7000000132140800   T1  
+QI70000001573908050805P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574608100810P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330508180818P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574708350835B   T1  
+QI70000001423108500850B   T1  
+QI70000001423209000900B   T1  
+QI70000001567709100910B   T1  
+QI70000000079209450945S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153630950   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 0900  20180702201809020000001 X212       GD              I
+QO7000000132140900   T1  
+QI70000001573909050905P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574609100910P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330509180918P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574709350935B   T1  
+QI70000001423109500950B   T1  
+QI70000001423210001000B   T1  
+QI70000001567710101010B   T1  
+QI70000000079210451045S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153631050   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 0930  20180702201809020000001 X212       GD              I
+QO7000000132140930   T1  
+QI70000001573909350935P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574609400940P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330509480948P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574710051005B   T1  
+QI70000001423110201020B   T1  
+QI70000001423210301030B   T1  
+QI70000001567710401040B   T1  
+QI70000000079211151115S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153631120   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 1000  20180702201809020000001 X212       GD              I
+QO7000000132141000   T1  
+QI70000001573910051005P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574610101010P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330510181018P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574710351035B   T1  
+QI70000001423110501050B   T1  
+QI70000001423211001100B   T1  
+QI70000001567711101110B   T1  
+QI70000000079211451145S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153631150   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 1030  20180702201809020000001 X212                       I
+QO7000000132141030   T1  
+QI70000001573910351035P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574610401040P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330510481048P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574711051105B   T1  
+QI70000001423111201120B   T1  
+QI70000001423211301130B   T1  
+QI70000001567711401140B   T1  
+QI70000000079212151215S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153631220   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 1130  20180702201809020000001 X212                       I
+QO7000000132141100   T1  
+QI70000001573911051105P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574611101110P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330511181118P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574711351135B   T1  
+QI70000001423111501150B   T1  
+QI70000001423212001200B   T1  
+QI70000001567712101210B   T1  
+QI70000000079212451245S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153631250   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 1130  20180702201809020000001 X212                       I
+QO7000000132141130   T1  
+QI70000001573911351135P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574611401140P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330511481148P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574712051205B   T1  
+QI70000001423112201220B   T1  
+QI70000001423212301230B   T1  
+QI70000001567712401240B   T1  
+QI70000000079213151315S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153631320   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 1200  20180702201809020000001 X212       GD              I
+QO7000000132141200   T1  
+QI70000001573912051205P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574612101210P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330512181218P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574712351235B   T1  
+QI70000001423112501250B   T1  
+QI70000001423213001300B   T1  
+QI70000001567713101310B   T1  
+QI70000000079213451345S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153631350   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 1230  20180702201809020000001 X212                       I
+QO7000000132141230   T1  
+QI70000001573912351235P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574612401240P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330512481248P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574713051305B   T1  
+QI70000001423113201320B   T1  
+QI70000001423213301330B   T1  
+QI70000001567713401340B   T1  
+QI70000000079214151415S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153631420   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 1300  20180702201809020000001 X212       GD              I
+QO7000000132141300   T1  
+QI70000001573913051305P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574613101310P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330513181318P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574713351335B   T1  
+QI70000001423113501350B   T1  
+QI70000001423214001400B   T1  
+QI70000001567714101410B   T1  
+QI70000000079214451445S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153631450   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 1330  20180702201809020000001 X212                       I
+QO7000000132141330   T1  
+QI70000001573913351335P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574613401340P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330513481348P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574714051405B   T1  
+QI70000001423114201420B   T1  
+QI70000001423214301430B   T1  
+QI70000001567714401440B   T1  
+QI70000000079215151515S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153631520   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 1400  20180702201809020000001 X212       GD              I
+QO7000000132141400   T1  
+QI70000001573914051405P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574614101410P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330514181418P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574714351435B   T1  
+QI70000001423114501450B   T1  
+QI70000001423215001500B   T1  
+QI70000001567715101510B   T1  
+QI70000000079215451545S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153631550   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 1000  20180702201809020000001 X212                       I
+QO7000000132141430   T1  
+QI70000001573914351435P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574614401440P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330514481448P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574715051505B   T1  
+QI70000001423115201520B   T1  
+QI70000001423215301530B   T1  
+QI70000001567715401540B   T1  
+QI70000000079216151615S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153631620   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 1500  20180702201809020000001 X212       GL              I
+QO7000000132141500   T1  
+QI70000001573915051505P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574615101510P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330515181518P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574715351535B   T1  
+QI70000001423115501550B   T1  
+QI70000001423216001600B   T1  
+QI70000001567716101610B   T1  
+QI70000000079216451645S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153631650   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 1530  20180702201809020000001 X212                       I
+QO7000000132141530   T1  
+QI70000001573915351535P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574615401540P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330515481548P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574716051605B   T1  
+QI70000001423116201620B   T1  
+QI70000001423216301630B   T1  
+QI70000001567716401640B   T1  
+QI70000000079217151715S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153631720   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 1600  20180702201809020000001 X212       GD              I
+QO7000000132141600   T1  
+QI70000001573916051605P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574616101610P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330516181618P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574716351635B   T1  
+QI70000001423116501650B   T1  
+QI70000001423217001700B   T1  
+QI70000001567717101710B   T1  
+QI70000000079217451745S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153631750   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 1630  20180702201809020000001 X212                       I
+QO7000000132141630   T1  
+QI70000001573916351635P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574616401640P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330516481648P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574717051705B   T1  
+QI70000001423117201720B   T1  
+QI70000001423217301730B   T1  
+QI70000001567717401740B   T1  
+QI70000000079218151815S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153631820   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 1700  20180702201809020000001 X212       GL              I
+QO7000000132141700   T1  
+QI70000001573917051705P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574617101710P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330517181718P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574717351735B   T1  
+QI70000001423117501750B   T1  
+QI70000001423218001800B   T1  
+QI70000001567718101810B   T1  
+QI70000000079218451845S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153631850   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 1730  20180702201809020000001 X212                       I
+QO7000000132141730   T1  
+QI70000001573917351735P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574617401740P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330517481748P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574718051805B   T1  
+QI70000001423118201820B   T1  
+QI70000001423218301830B   T1  
+QI70000001567718401840B   T1  
+QI70000000079219151915S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153631920   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 1800  20180702201809020000001 X212       GL              I
+QO7000000132141800   T1  
+QI70000001573918051805P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574618101810P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330518181818P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574718351835B   T1  
+QI70000001423118501850B   T1  
+QI70000001423219001900B   T1  
+QI70000001567719101910B   T1  
+QI70000000079219451945S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153631950   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 1900  20180702201809020000001 X212       GD              I
+QO7000000132141900   T1  
+QI70000001573919051905P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574619101910P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330519181918P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574719351935B   T1  
+QI70000001423119501950B   T1  
+QI70000001423220002000B   T1  
+QI70000001567720102010B   T1  
+QI70000000079220452045S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153632050   T1  
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre                           
+QSNGLE 2100  20180702201809020000001 X212       GD              I
+QO7000000132142100   T1  
+QI70000001573921052105P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574621072107P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001330521152115P   T1  
+QNp    PICK UP ONLY                                                            
+QI70000001574721302130B   T1  
+QI70000001423121452145B   T1  
+QI70000001423221502150B   T1  
+QI70000001567722002200B   T1  
+QI70000000079222352235S   T1  
+QNs    SET DOWN ONLY                                                           
+QT7000000153632240   T1  
+QLN700000015363Europa Buscentre
+QBN700000015363333448  373764
+QLN700000015678Toombridge Park and Ride, Country Bound
+QBN700000015678300072  390103
+QLN700000014232Castledawson R'About
+QBN700000014232291652  392378
+QLN700000014230Maghera, Park & Ride
+QBN700000014230284680  399495
+QLN700000013311Dungiven
+QBN700000013311269278  409148
+QLN700000015229Claudy Crossroads (Inwards)
+QBN700000015229254270  408440
+QLN700000015679Drumahoe Park and Ride
+QBN700000015679246082  414712
+QLN700000013331Harberton Park
+QBN700000013331245113  415634
+QLN700000013214Foyle Street Depot
+QBN700000013214243685  416800
+QLN700000015739Altnagelvin Express Stop
+QBN700000015739245147  415632
+QLN700000015746Drumahoe Park and Ride
+QBN700000015746246118  414723
+QLN700000013305Claudy Cross Rd
+QBN700000013305254266  408455
+QLN700000015747Dungiven Express Stop Befast Bound
+QBN700000015747269387  409029
+QLN700000014231Maghera, Glenshane Road Belfast bound
+QBN700000014231284709  399557
+QLN700000015677Toomebridge, Park and Ride, Belfast Bound
+QBN700000015677300107  390110
+QLN700000000792North Street
+QBN700000000792333655  374638
+QPNGLE Goldline Express        Goldline Express
+QQ
+QVNGD
+QVNGL
+QDNGLE 212 OEuropa Buscentre - Foyle Street Buscentre
+QDNGLE 212XOEuropa Buscentre - Foyle Street Buscentre
+QDNGLE X212OEuropa Buscentre - Foyle Street Buscentre
+QDNGLE 246 OEuropa Buscentre - Limavady
+QDNGLE 212 IFoyle Street Buscentre - Europa Buscentre
+QDNGLE 212XIFoyle Street Buscentre - Europa Buscentre
+QDNGLE X212IFoyle Street Buscentre - Europa Buscentre

@@ -1,0 +1,701 @@
+ATCO-CIF0500Ulsterbus                       OMNITIMES       20180328113541
+QDNGLE X1  OBelfast, Europa Buscentre - Dublin, Busaras Bus Station             
+QSNGLE 0530  20180610999999991111111 AX1        GL              O
+QO7000000153630530   T1  
+QNp    pick up only                                                            
+QI70000000332105450545P   T1  
+QNp    pick up only                                                            
+QI70000001495106050605P   T1  
+QNp    pick up only                                                            
+QI70000001547006250625P   T1  
+QNp    pick up only                                                            
+QI70000001609007300730S   T1  
+QNs    set down only                                                           
+QT7000000156420755   T1  
+QDNGLE X5  ONewry Buscentre - Dublin, Busaras Bus Station                       
+QSNGLE 0715  20180610999999991111111 AX5                        O
+QO7000000154700715   T1  
+QNp    pick up only                                                            
+QI70000001609008250825S   T1  
+QNs    set down only                                                           
+QT7000000156420850   T1  
+QDNGLE X2a OBelfast, Europa Buscentre - Dublin, Busaras Bus Station             
+QSNGLE 0645  20180610999999991111111 AX2a       GL              O
+QO7000000153630645   T1  
+QNp    pick up only                                                            
+QI70000000332107000700P   T1  
+QNp    pick up only                                                            
+QI70000001495107200720P   T1  
+QNp    pick up only                                                            
+QI70000001609008450845S   T1  
+QNs    set down only                                                           
+QT7000000156420910   T1  
+QDNBE  X5  ONewry Buscentre - Dublin, Busaras Bus Station                       
+QSNBE  0815  20180610999999991111111 AX5                        O
+QO7000000154700815   T1  
+QNp    pick up only                                                            
+QI70000001609009250925S   T1  
+QNs    set down only                                                           
+QT7000000156420950   T1  
+QDNGLE X2a OBelfast, Europa Buscentre - Dublin, Busaras Bus Station             
+QSNGLE 0745  20180610999999991111111 AX2a       GL              O
+QO7000000153630745   T1  
+QNp    pick up only                                                            
+QI70000000332108000800P   T1  
+QNp    pick up only                                                            
+QI70000001495108200820P   T1  
+QNp    pick up only                                                            
+QI70000001609009450945S   T1  
+QNs    set down only                                                           
+QT7000000156421010   T1  
+QDNGLE X5a OBelfast Europa Buscentre - Dublin, Busaras Bus Station              
+QSNGLE 0915  20180610999999991111111 AX5a                       O
+QO7000000153630815   T1  
+QNp    pick up only                                                            
+QI70000001547009050915P   T1  
+QNp    pick up only                                                            
+QI70000001609010251025S   T1  
+QNs    set down only                                                           
+QT7000000156421050   T1  
+QDNGLE X2a OBelfast, Europa Buscentre - Dublin, Busaras Bus Station             
+QSNGLE 0845  20180610999999991111111 AX2a       GL              O
+QO7000000153630845   T1  
+QNp    pick up only                                                            
+QI70000000332109000900P   T1  
+QNp    pick up only                                                            
+QI70000001495109200920P   T1  
+QNp    pick up only                                                            
+QI70000001609010401040S   T1  
+QNs    set down only                                                           
+QT7000000156421105   T1  
+QDNGLE X5a OBelfast Europa Buscentre - Dublin, Busaras Bus Station              
+QSNGLE       20180610999999991111111 AX5a                       O
+QNCBE  Change to Bus Eireann in Newry                                              
+QO7000000153630915   T1  
+QNp    pick up only                                                            
+QI70000001547010051015P   T1  
+QNp    pick up only                                                            
+QI70000001609011251125S   T1  
+QNs    set down only                                                           
+QT7000000156421150   T1                                                            
+QDNBE  X5  ONewry Buscentre - Dublin, Busaras Bus Station                       
+QSNBE  1015  20180610999999991111111 AX5                        O
+QO7000000154701015   T1  
+QNp    pick up only                                                            
+QI70000001609011251125S   T1  
+QNs    set down only                                                           
+QT7000000156421150   T1  
+QDNBE  X2a OBelfast, Europa Buscentre - Dublin, Busaras Bus Station             
+QSNBE  0945  20180610999999991111111 AX2a                       O
+QO7000000153630945   T1  
+QNp    pick up only                                                            
+QI70000000332110001000P   T1  
+QNp    pick up only                                                            
+QI70000001495110201020P   T1  
+QNp    pick up only                                                            
+QI70000001609011401140S   T1  
+QNs    set down only                                                           
+QT7000000156421205   T1  
+QDNGLE X5a OBelfast Europa Buscentre - Dublin, Busaras Bus Station              
+QSNGLE 1115  20180610999999991111111 AX5a                       O
+QNB    Buy Online only                                                            
+QO7000000153631015   T1  
+QNp    pick up only                                                            
+QI70000001547011051115P   T1  
+QNp    pick up only                                                            
+QI70000001609012251225S   T1  
+QNs    set down only                                                           
+QT7000000156421250   T1  
+QDNBE  X2a OBelfast, Europa Buscentre - Dublin, Busaras Bus Station             
+QSNBE  1045  20180610999999991111111 AX2a                       O
+QO7000000153631045   T1  
+QNp    pick up only                                                            
+QI70000000332111001100P   T1  
+QNp    pick up only                                                            
+QI70000001495111201120P   T1  
+QNp    pick up only                                                            
+QI70000001609012401240S   T1  
+QNs    set down only                                                           
+QT7000000156421305   T1  
+QDNBE  X5  ONewry Buscentre - Dublin, Busaras Bus Station                       
+QSNBE  1215  20180610999999991111111 AX5                        O
+QO7000000154701215   T1  
+QNp    pick up only                                                            
+QI70000001609013251325S   T1  
+QNs    set down only                                                           
+QT7000000156421350   T1  
+QDNBE  X2a OBelfast, Europa Buscentre - Dublin, Busaras Bus Station             
+QSNBE  1145  20180610999999991111111 AX2a                       O
+QO7000000153631145   T1  
+QNp    pick up only                                                            
+QI70000000332112001200P   T1  
+QNp    pick up only                                                            
+QI70000001495112201220P   T1  
+QNp    pick up only                                                            
+QI70000001609013401340S   T1  
+QNs    set down only                                                           
+QT7000000156421405   T1  
+QDNGLE X5  ONewry Buscentre - Dublin, Busaras Bus Station                       
+QSNGLE 1315  20180610999999991111111 AX5                        O
+QO7000000154701315   T1  
+QNp    pick up only                                                            
+QI70000001609014251425S   T1  
+QNs    set down only                                                           
+QT7000000156421450   T1  
+QDNGLE X2a OBelfast, Europa Buscentre - Dublin, Busaras Bus Station             
+QSNGLE 1245  20180610999999991111111 AX2a       GL              O
+QO7000000153631245   T1  
+QNp    pick up only                                                            
+QI70000000332113001300P   T1  
+QNp    pick up only                                                            
+QI70000001495113201320P   T1  
+QNp    pick up only                                                            
+QI70000001609014401440S   T1  
+QNs    set down only                                                           
+QT7000000156421505   T1  
+QDNBE  X5  ONewry Buscentre - Dublin, Busaras Bus Station                       
+QSNBE  1415  20180610999999991111111 AX5                        O
+QO7000000154701415   T1  
+QNp    pick up only                                                            
+QI70000001609015251525S   T1  
+QNs    set down only                                                           
+QT7000000156421550   T1  
+QDNGLE X2a OBelfast, Europa Buscentre - Dublin, Busaras Bus Station             
+QSNGLE 1345  20180610999999991111111 AX2a       GL              O
+QO7000000153631345   T1  
+QNp    pick up only                                                            
+QI70000000332114001400P   T1  
+QNp    pick up only                                                            
+QI70000001495114201420P   T1  
+QNp    pick up only                                                            
+QI70000001609015401540S   T1  
+QNs    set down only                                                           
+QT7000000156421605   T1  
+QDNGLE X5  ONewry Buscentre - Dublin, Busaras Bus Station                       
+QSNGLE 1515  20180610999999991111111 AX5                        O
+QO7000000154701515   T1  
+QNp    pick up only                                                            
+QI70000001609016251625S   T1  
+QNs    set down only                                                           
+QT7000000156421650   T1  
+QDNGLE X2a OBelfast, Europa Buscentre - Dublin, Busaras Bus Station             
+QSNGLE 1445  20180610999999991111111 AX2a       GL              O
+QO7000000153631445   T1  
+QNp    pick up only                                                            
+QI70000000332115001500P   T1  
+QNp    pick up only                                                            
+QI70000001495115201520P   T1  
+QNp    pick up only                                                            
+QI70000001609016451645S   T1  
+QNs    set down only                                                           
+QT7000000156421710   T1  
+QDNBE  X5  ONewry Buscentre - Dublin, Busaras Bus Station                       
+QSNBE  1615  20180610999999991111111 AX5                        O
+QO7000000154701615   T1  
+QNp    pick up only                                                            
+QI70000001609017251725S   T1  
+QNs    set down only                                                           
+QT7000000156421750   T1  
+QDNGLE X2a OBelfast, Europa Buscentre - Dublin, Busaras Bus Station             
+QSNGLE 1545  20180610999999991111111 AX2a       GL              O
+QO7000000153631545   T1  
+QNp    pick up only                                                            
+QI70000000332116001600P   T1  
+QNp    pick up only                                                            
+QI70000001495116201620P   T1  
+QNp    pick up only                                                            
+QI70000001609017451745S   T1  
+QNs    set down only                                                           
+QT7000000156421810   T1  
+QDNGLE X5  ONewry Buscentre - Dublin, Busaras Bus Station                       
+QSNGLE 1715  20180610999999991111111 AX5                        O
+QO7000000154701715   T1  
+QNp    pick up only                                                            
+QI70000001609018251825S   T1  
+QNs    set down only                                                           
+QT7000000156421850   T1  
+QDNBE  X2a OBelfast, Europa Buscentre - Dublin, Busaras Bus Station             
+QSNBE  1645  20180610999999991111111 AX2a                       O
+QO7000000153631645   T1  
+QNp    pick up only                                                            
+QI70000000332117001700P   T1  
+QNp    pick up only                                                            
+QI70000001495117201720P   T1  
+QNp    pick up only                                                            
+QI70000001609018451845S   T1  
+QNs    set down only                                                           
+QT7000000156421910   T1  
+QDNBE  X5  ONewry Buscentre - Dublin, Busaras Bus Station                       
+QSNBE  1815  20180610999999991111111 AX5                        O
+QO7000000154701815   T1  
+QNp    pick up only                                                            
+QI70000001609019251925S   T1  
+QNs    set down only                                                           
+QT7000000156421950   T1  
+QDNBE  X2a OBelfast, Europa Buscentre - Dublin, Busaras Bus Station             
+QSNBE  1745  20180610999999991111111 AX2a                       O
+QO7000000153631745   T1  
+QNp    pick up only                                                            
+QI70000000332118001800P   T1  
+QNp    pick up only                                                            
+QI70000001495118201820P   T1  
+QNp    pick up only                                                            
+QI70000001609019451945S   T1  
+QNs    set down only                                                           
+QT7000000156422010   T1  
+QDNBE  X1  OBelfast, Europa Buscentre - Dublin, Busaras Bus Station             
+QSNBE  1845  20180610999999991111111 AX1                        O
+QO7000000153631845   T1  
+QNp    pick up only                                                            
+QI70000000332119001900P   T1  
+QNp    pick up only                                                            
+QI70000001495119201920P   T1  
+QNp    pick up only                                                            
+QI70000001547019401940P   T1  
+QI70000001609020452045S   T1  
+QNs    set down only                                                           
+QT7000000156422105   T1  
+QDNGLE X1  OBelfast, Europa Buscentre - Dublin, Busaras Bus Station             
+QSNGLE 1945  20180610999999991111111 AX1        GL              O
+QO7000000153631945   T1  
+QNp    pick up only                                                            
+QI70000000332120002000P   T1  
+QNp    pick up only                                                            
+QI70000001495120202020P   T1  
+QNp    pick up only                                                            
+QI70000001547020402040P   T1  
+QNp    pick up only                                                            
+QI70000001609021452145S   T1  
+QNs    set down only                                                           
+QT7000000156422210   T1  
+QDNBE  X1  OBelfast, Europa Buscentre - Dublin, Busaras Bus Station             
+QSNBE  2145  20180610999999991111111 AX1                        O
+QO7000000153632200   T1  
+QNp    pick up only                                                            
+QI70000000332122152215P   T1  
+QNp    pick up only                                                            
+QI70000001495122352235P   T1  
+QNp    pick up only                                                            
+QI70000001547022552255P   T1  
+QNp    pick up only                                                            
+QI70000001609024002400S   T1  
+QNs    set down only                                                           
+QT7000000156422420   T1  
+QDNGLE X1  OBelfast, Europa Buscentre - Dublin, Busaras Bus Station             
+QSNGLE 2400  20180610999999991111111 AX1        GL              O
+QO7000000153632400   T1  
+QNp    pick up only                                                            
+QI70000000332124152415P   T1  
+QNp    pick up only                                                            
+QI70000001495124352435P   T1  
+QNp    pick up only                                                            
+QI70000001547024552455P   T1  
+QNp    pick up only                                                            
+QI70000001609026002600S   T1  
+QNs    set down only                                                           
+QT7000000156422620   T1  
+QDNBE  X1  OBelfast, Europa Buscentre - Dublin, Busaras Bus Station             
+QSNBE  2445  20180610999999991111111 AX1                        O
+QO7000000153632500   T1  
+QNp    pick up only                                                            
+QI70000000332125152515P   T1  
+QNp    pick up only                                                            
+QI70000001495125352535P   T1  
+QNp    pick up only                                                            
+QI70000001547025552555P   T1  
+QNp    pick up only                                                            
+QI70000001609027002700S   T1  
+QNs    set down only                                                           
+QT7000000156422720   T1  
+QDNBE  X1  OBelfast, Europa Buscentre - Dublin, Busaras Bus Station             
+QSNBE  2645  20180610999999991111111 AX1                        O
+QO7000000153632700   T1  
+QNp    pick up only                                                            
+QI70000000332127152715P   T1  
+QNp    pick up only                                                            
+QI70000001495127352735P   T1  
+QNp    pick up only                                                            
+QI70000001547027552755P   T1  
+QNp    pick up only                                                            
+QI70000001609029002900S   T1  
+QNs    set down only                                                           
+QT7000000156422920   T1  
+QDNBE  X1  OBelfast, Europa Buscentre - Dublin, Busaras Bus Station             
+QSNBE  2845  20180610999999991111111 AX1                        O
+QO7000000153632845   T1  
+QNp    pick up only                                                            
+QI70000000332129002900P   T1  
+QNp    pick up only                                                            
+QI70000001495129202920P   T1  
+QNp    pick up only                                                            
+QI70000001547029402940P   T1  
+QNp    pick up only                                                            
+QI70000001609030453045S   T1  
+QNs    set down only                                                           
+QT7000000156423105   T1  
+QDNBE  X1  IDublin, Busaras Station - Belfast, Europa Buscentre                 
+QSNBE  0615  20180610999999991111111 AX1                        I
+QO7000000156420600   T1  
+QNp    pick up only                                                            
+QI70000001564306200620P   T1  
+QNp    pick up only                                                            
+QI70000001547007300730S   T1  
+QNs    set down only                                                           
+QI70000001495107500750S   T1  
+QNs    set down only                                                           
+QI70000000332108050805S   T1  
+QNs    set down only                                                           
+QT7000000153630820   T1  
+QDNBE  X5  IDublin, Busaras Station - Newry Buscentre                           
+QSNBE  0630  20180610999999991111111 AX5                        I
+QO7000000156420630   T1  
+QNp    pick up only                                                            
+QI70000001564306500650P   T1  
+QNp    pick up only                                                            
+QT7000000154700800   T1  
+QNs    set down only                                                           
+QDNBE  X1  IDublin, Busaras Station - Belfast, Europa Buscentre                 
+QSNBE  0715  20180610999999991111111 AX1                        I
+QO7000000156420715   T1  
+QNp    pick up only                                                            
+QI70000001564307350735P   T1  
+QNp    pick up only                                                            
+QI70000001547008450845S   T1  
+QNs    set down only                                                           
+QI70000001495109050905S   T1  
+QNs    set down only                                                           
+QI70000000332109200920S   T1  
+QNs    set down only                                                           
+QT7000000153630935   T1  
+QDNBE  X2a IDublin, Busaras Station - Belfast, Europa Buscentre                 
+QSNBE  0815  20180610999999991111111 AX2a                       I
+QO7000000156420815   T1  
+QNp    pick up only                                                            
+QI70000001564308350835P   T1  
+QNp    pick up only                                                            
+QI70000001495110051005S   T1  
+QNs    set down only                                                           
+QI70000000332110201020S   T1  
+QNs    set down only                                                           
+QT7000000153631035   T1  
+QDNBE  X5  IDublin, Busaras Station - Newry Buscentre                           
+QSNBE  0830  20180610999999991111111 AX5                        I
+QO7000000156420830   T1  
+QNp    pick up only                                                            
+QI70000001564308500850P   T1  
+QNp    pick up only                                                            
+QT7000000154701005   T1  
+QNs    set down only                                                           
+QDNGLE X2a IDublin, Busaras Station - Belfast, Europa Buscentre                 
+QSNGLE 0915  20180610999999991111111 AX2a       GL              I
+QO7000000156420915   T1  
+QNp    pick up only                                                            
+QI70000001564309350935P   T1  
+QNp    pick up only                                                            
+QI70000001495111051105S   T1  
+QNs    set down only                                                           
+QI70000000332111201120S   T1  
+QNs    set down only                                                           
+QT7000000153631135   T1  
+QDNGLE X5  IDublin, Busaras Station - Newry Buscentre                           
+QSNGLE 0930  20180610999999991111111 AX5                        I
+QO7000000156420930   T1  
+QNp    pick up only                                                            
+QI70000001564309500950P   T1  
+QNp    pick up only                                                            
+QT7000000154701105   T1  
+QNs    set down only                                                           
+QDNGLE X2a IDublin, Busaras Station - Belfast, Europa Buscentre                 
+QSNGLE 1015  20180610999999991111111 AX2a       GL              I
+QO7000000156421015   T1  
+QNp    pick up only                                                            
+QI70000001564310351035P   T1  
+QNp    pick up only                                                            
+QI70000001495112051205S   T1  
+QNs    set down only                                                           
+QI70000000332112201220S   T1  
+QNs    set down only                                                           
+QT7000000153631235   T1  
+QDNBE  X5  IDublin, Busaras Station - Newry Buscentre                           
+QSNBE  1030  20180610999999991111111 AX5                        I
+QO7000000156421030   T1  
+QNp    pick up only                                                            
+QI70000001564310501050P   T1  
+QNp    pick up only                                                            
+QT7000000154701205   T1  
+QNs    set down only                                                           
+QDNGLE X2a IDublin, Busaras Station - Belfast, Europa Buscentre                 
+QSNGLE 1115  20180610999999991111111 AX2a       GL              I
+QO7000000156421115   T1  
+QNp    pick up only                                                            
+QI70000001564311351135P   T1  
+QNp    pick up only                                                            
+QI70000001495113051305S   T1  
+QNs    set down only                                                           
+QI70000000332113201320S   T1  
+QNs    set down only                                                           
+QT7000000153631335   T1  
+QDNGLE X5  IDublin, Busaras Station - Newry Buscentre                           
+QSNGLE 1130  20180610999999991111111 AX5                        I
+QO7000000156421130   T1  
+QNp    pick up only                                                            
+QI70000001564311501150P   T1  
+QNp    pick up only                                                            
+QT7000000154701305   T1  
+QNs    set down only                                                           
+QDNGLE X2a IDublin, Busaras Station - Belfast, Europa Buscentre                 
+QSNGLE 1215  20180610999999991111111 AX2a       GL              I
+QO7000000156421215   T1  
+QNp    pick up only                                                            
+QI70000001564312351235P   T1  
+QNp    pick up only                                                            
+QI70000001495114051405S   T1  
+QNs    set down only                                                           
+QI70000000332114201420S   T1  
+QNs    set down only                                                           
+QT7000000153631435   T1  
+QDNBE  X5  IDublin, Busaras Station - Newry Buscentre                           
+QSNBE  1230  20180610999999991111111 AX5                        I
+QO7000000156421230   T1  
+QNp    pick up only                                                            
+QI70000001564312501250P   T1  
+QNp    pick up only                                                            
+QT7000000154701405   T1  
+QNs    set down only                                                           
+QDNBE  X2a IDublin, Busaras Station - Belfast, Europa Buscentre                 
+QSNBE  1315  20180610999999991111111 AX2a                       I
+QO7000000156421315   T1  
+QNp    pick up only                                                            
+QI70000001564313351335P   T1  
+QNp    pick up only                                                            
+QI70000001495115051505S   T1  
+QNs    set down only                                                           
+QI70000000332115201520S   T1  
+QNs    set down only                                                           
+QT7000000153631535   T1  
+QDNGLE X5  IDublin, Busaras Station - Newry Buscentre                           
+QSNGLE 1330  20180610999999991111111 AX5                        I
+QO7000000156421330   T1  
+QNp    pick up only                                                            
+QI70000001564313501350P   T1  
+QNp    pick up only                                                            
+QT7000000154701505   T1  
+QNs    set down only                                                           
+QDNBE  X2a IDublin, Busaras Station - Belfast, Europa Buscentre                 
+QSNBE  1415  20180610999999991111111 AX2a                       I
+QO7000000156421415   T1  
+QNp    pick up only                                                            
+QI70000001564314351435P   T1  
+QNp    pick up only                                                            
+QI70000001495116051605S   T1  
+QNs    set down only                                                           
+QI70000000332116201620S   T1  
+QNs    set down only                                                           
+QT7000000153631635   T1  
+QDNBE  X5  IDublin, Busaras Station - Newry Buscentre                           
+QSNBE  1430  20180610999999991111111 AX5                        I
+QO7000000156421430   T1  
+QNp    pick up only                                                            
+QI70000001564314501450P   T1  
+QNp    pick up only                                                            
+QT7000000154701605   T1  
+QNs    set down only                                                           
+QDNBE  X2a IDublin, Busaras Station - Belfast, Europa Buscentre                 
+QSNBE  1515  20180610999999991111111 AX2a                       I
+QO7000000156421515   T1  
+QNp    pick up only                                                            
+QI70000001564315351535P   T1  
+QNp    pick up only                                                            
+QI70000001495117051705S   T1  
+QNs    set down only                                                           
+QI70000000332117201720S   T1  
+QNs    set down only                                                           
+QT7000000153631735   T1  
+QDNGLE X5  IDublin, Busaras Station - Newry Buscentre                           
+QSNGLE 1530  20180610999999991111111 AX5                        I
+QO7000000156421530   T1  
+QNp    pick up only                                                            
+QI70000001564315501550P   T1  
+QNp    pick up only                                                            
+QT7000000154701705   T1  
+QNs    set down only                                                           
+QDNGLE X2a IDublin, Busaras Station - Belfast, Europa Buscentre                 
+QSNGLE 1615  20180610999999991111111 AX2a       GL              I
+QO7000000156421615   T1  
+QNp    pick up only                                                            
+QI70000001564316351635P   T1  
+QNp    pick up only                                                            
+QI70000001495118051805S   T1  
+QNs    set down only                                                           
+QI70000000332118201820S   T1  
+QNs    set down only                                                           
+QT7000000153631835   T1  
+QDNBE  X5  IDublin, Busaras Station - Newry Buscentre                           
+QSNBE  1630  20180610999999991111111 AX5                        I
+QO7000000156421630   T1  
+QNp    pick up only                                                            
+QI70000001564316501650P   T1  
+QNp    pick up only                                                            
+QT7000000154701805   T1  
+QNs    set down only                                                           
+QDNGLE X2a IDublin, Busaras Station - Belfast, Europa Buscentre                 
+QSNGLE 1715  20180610999999991111111 AX2a       GL              I
+QO7000000156421715   T1  
+QNp    pick up only                                                            
+QI70000001564317351735P   T1  
+QNp    pick up only                                                            
+QI70000001495119051905S   T1  
+QNs    set down only                                                           
+QI70000000332119201920S   T1  
+QNs    set down only                                                           
+QT7000000153631935   T1  
+QDNGLE X5  IDublin, Busaras Station - Newry Buscentre                           
+QSNGLE 1730  20180610999999991111111 AX5                        I
+QO7000000156421730   T1  
+QNp    pick up only                                                            
+QI70000001564317501750P   T1  
+QNp    pick up only                                                            
+QT7000000154701905   T1  
+QNs    set down only                                                           
+QDNBE  X1  IDublin, Busaras Station - Belfast, Europa Buscentre                 
+QSNBE  1815  20180610999999991111111 AX1                        I
+QO7000000156421815   T1  
+QNp    pick up only                                                            
+QI70000001564318351835P   T1  
+QNp    pick up only                                                            
+QI70000001547019451945S   T1  
+QNs    set down only                                                           
+QI70000001495120052005S   T1  
+QNs    set down only                                                           
+QI70000000332120202020S   T1  
+QNs    set down only                                                           
+QT7000000153632035   T1  
+QDNGLE X2a IDublin, Busaras Station - Belfast, Europa Buscentre                 
+QSNGLE 1915  20180610999999991111111 AX2a       GL              I
+QO7000000156421915   T1  
+QNp    pick up only                                                            
+QI70000001564319351935P   T1  
+QNp    pick up only                                                            
+QI70000001495121052105S   T1  
+QNs    set down only                                                           
+QI70000000332121202120S   T1  
+QNs    set down only                                                           
+QT7000000153632135   T1  
+QDNGLE X5  IDublin, Busaras Station - Newry Buscentre                           
+QSNGLE 1915  20180610999999991111111 AX5                        I
+QO7000000156421930   T1  
+QNp    pick up only                                                            
+QI70000001564319501950P   T1  
+QNp    pick up only                                                            
+QT7000000154702100   T1  
+QNs    set down only                                                           
+QDNGLE X1  IDublin, Busaras Station - Belfast, Europa Buscentre                 
+QSNGLE 2015  20180610999999991111111 AX1        GL              I
+QO7000000156422015   T1  
+QNp    pick up only                                                            
+QI70000001564320352035P   T1  
+QNp    pick up only                                                            
+QI70000001547021452145S   T1  
+QNs    set down only                                                           
+QI70000001495122052205S   T1  
+QNs    set down only                                                           
+QI70000000332122202220S   T1  
+QNs    set down only                                                           
+QT7000000153632235   T1  
+QDNBE  X1  IDublin, Busaras Station - Belfast, Europa Buscentre                 
+QSNBE  2115  20180610999999991111111 AX1                        I
+QO7000000156422115   T1  
+QNp    pick up only                                                            
+QI70000001564321352135P   T1  
+QNp    pick up only                                                            
+QI70000001547022452245S   T1  
+QNs    set down only                                                           
+QI70000001495123052305S   T1  
+QNs    set down only                                                           
+QI70000000332123202320S   T1  
+QNs    set down only                                                           
+QT7000000153632335   T1  
+QDNBE  X1  IDublin, Busaras Station - Belfast, Europa Buscentre                 
+QSNBE  2215  20180610999999991111111 AX1                        I
+QO7000000156422215   T1  
+QNp    pick up only                                                            
+QI70000001564322352235P   T1  
+QNp    pick up only                                                            
+QI70000001547023452345S   T1  
+QNs    set down only                                                           
+QI70000001495124052405S   T1  
+QNs    set down only                                                           
+QI70000000332124202420S   T1  
+QNs    set down only                                                           
+QT7000000153632435   T1  
+QDNGLE X1  IDublin, Busaras Station - Belfast, Europa Buscentre                 
+QSNGLE 2315  20180610999999991111111 AX1        GL              I
+QO7000000156422315   T1  
+QNp    pick up only                                                            
+QI70000001564323352335P   T1  
+QNp    pick up only                                                            
+QI70000001547024452445S   T1  
+QNs    set down only                                                           
+QI70000001495125052505S   T1  
+QNs    set down only                                                           
+QI70000000332125202520S   T1  
+QNs    set down only                                                           
+QT7000000153632535   T1  
+QDNBE  X1  IDublin, Busaras Station - Belfast, Europa Buscentre                 
+QSNBE  2515  20180610999999991111111 AX1                        I
+QO7000000156422515   T1  
+QNp    pick up only                                                            
+QI70000001564325352535P   T1  
+QNp    pick up only                                                            
+QI70000001547026452645S   T1  
+QNs    set down only                                                           
+QI70000001495127052705S   T1  
+QNs    set down only                                                           
+QI70000000332127202720S   T1  
+QNs    set down only                                                           
+QT7000000153632735   T1  
+QDNGLE X1  IDublin, Busaras Station - Belfast, Europa Buscentre                 
+QSNGLE 2800  20180610999999991111111 AX1        GL              I
+QO7000000156422745   T1  
+QNp    pick up only                                                            
+QI70000001564328052805P   T1  
+QNp    pick up only                                                            
+QI70000001547029152915S   T1  
+QNs    set down only                                                           
+QI70000001495129352935S   T1  
+QNs    set down only                                                           
+QI70000000332129502950S   T1  
+QNs    set down only                                                           
+QT7000000153633005   T1  
+QLN700000015363Europa Buscentre
+QBN700000015363333448  373764
+QLN700000003321Sprucefield Shopping Centre
+QBN700000003321325909  362089
+QLN700000014951Banbridge, Kenlis Street.
+QBN700000014951312471  345559
+QLN700000015470Newry, Buscentre
+QBN700000015470308468  326431
+QLN700000016090Dublin Airport Terminal 1
+QBN700000016090317097  243266
+QLN700000015642Dublin, Busaras Bus Station
+QBN700000015642316487  234685
+QLN700000015643Dublin Airport Airport
+QBN700000015643316895  243417
+QPNGLE Goldline Express        Goldline Express
+QQ
+QPNBE  Bus Eireann             Bus Eireann
+QQ
+QVNGL      Goldliner
+QDNGLE X1  OBelfast, Europa Buscentre - Dublin, Busaras Bus Station
+QDNGLE X5  ONewry Buscentre - Dublin, Busaras Bus Station
+QDNGLE X2a OBelfast, Europa Buscentre - Dublin, Busaras Bus Station
+QDNBE  X5  ONewry Buscentre - Dublin, Busaras Bus Station
+QDNGLE X5a OBelfast Europa Buscentre - Dublin, Busaras Bus Station
+QDNBE  X2a OBelfast, Europa Buscentre - Dublin, Busaras Bus Station
+QDNBE  X1  OBelfast, Europa Buscentre - Dublin, Busaras Bus Station
+QDNBE  X1  IDublin, Busaras Station - Belfast, Europa Buscentre
+QDNBE  X5  IDublin, Busaras Station - Newry Buscentre
+QDNBE  X2a IDublin, Busaras Station - Belfast, Europa Buscentre
+QDNGLE X2a IDublin, Busaras Station - Belfast, Europa Buscentre
+QDNGLE X5  IDublin, Busaras Station - Newry Buscentre
+QDNGLE X1  IDublin, Busaras Station - Belfast, Europa Buscentre
