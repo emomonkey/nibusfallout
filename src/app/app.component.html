@@ -1,19 +1,24 @@
 <!--The content below is only a placeholder and can be replaced.-->
 
-<agm-map #AgmMap [latitude]="lat" [longitude]="lng">
-  <agm-marker (markerClick)="clickMark('CR')" [latitude]="lat" [longitude]="lng"></agm-marker>
-</agm-map>
+
 <div class="screen">
   <div style="text-align:center">
    <h1>
      {{ title }}
    </h1>
-   <h2>
-     {{ message }}
-   </h2>
 
+   <body>
+    <agm-map #AgmMap [latitude]="lat" [longitude]="lng">
+      <agm-marker *ngFor="let p of markers" [latitude]="p.lat" [longitude]="p.lng" (markerClick)="clickMark(p.name)" [latitude]="lat" [longitude]="lng">
+      </agm-marker>
+    </agm-map>
+
+   </body>
      <app-timetables></app-timetables>
+     <h2>
+      {{ message }}
+    </h2>
   </div>
- <img width="300" alt="Angular Logo" src="assets/images/nimap.png">
+
 
  </div>

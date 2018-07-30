@@ -4,6 +4,7 @@ import { FormsModule} from '@angular/forms';
 import { AgmCoreModule } from '@agm/core';
 import { AppComponent } from './app.component';
 import { TimetablesComponent } from './timetables/timetables.component';
+import {environment} from '../environments/environment';
 
 @NgModule({
   declarations: [
@@ -14,7 +15,7 @@ import { TimetablesComponent } from './timetables/timetables.component';
     BrowserModule,
     FormsModule,
     AgmCoreModule.forRoot({
-      apiKey: 'AIzaSyCC4-4m5KQrhlUorOqdP4oOZ8dmxc5Ag3o'
+      apiKey: environment.apikey
     })
   ],
   providers: [],
